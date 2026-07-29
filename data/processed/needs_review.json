@@ -1,0 +1,90 @@
+[
+  {
+    "ipc_section": "10",
+    "reason": "tied_disagreement",
+    "candidates": [
+      {
+        "bns_section": "2(19)",
+        "source": "ncrb.gov.in (official)"
+      },
+      {
+        "bns_section": "2(35)",
+        "source": "ncrb.gov.in (official)"
+      }
+    ]
+  },
+  {
+    "ipc_section": "158",
+    "reason": "tied_disagreement",
+    "candidates": [
+      {
+        "bns_section": "189(8)",
+        "source": "ncrb.gov.in (official)"
+      },
+      {
+        "bns_section": "189(9)",
+        "source": "ncrb.gov.in (official)"
+      }
+    ]
+  },
+  {
+    "ipc_section": "171",
+    "reason": "tied_disagreement",
+    "candidates": [
+      {
+        "bns_section": "205",
+        "source": "ncrb.gov.in (official)"
+      },
+      {
+        "bns_section": "177",
+        "source": "ncrb.gov.in (official)"
+      }
+    ]
+  },
+  {
+    "ipc_section": "23",
+    "reason": "tied_disagreement",
+    "candidates": [
+      {
+        "bns_section": "2(36)",
+        "source": "ncrb.gov.in (official)"
+      },
+      {
+        "bns_section": "2(37)",
+        "source": "ncrb.gov.in (official)"
+      },
+      {
+        "bns_section": "2(38)",
+        "source": "ncrb.gov.in (official)"
+      }
+    ]
+  },
+  {
+    "ipc_section": "33",
+    "reason": "tied_disagreement",
+    "candidates": [
+      {
+        "bns_section": "2(1)",
+        "source": "ncrb.gov.in (official)"
+      },
+      {
+        "bns_section": "2(25)",
+        "source": "ncrb.gov.in (official)"
+      }
+    ]
+  },
+  {
+    "ipc_section": "498A",
+    "reason": "tied_disagreement",
+    "candidates": [
+      {
+        "bns_section": "85",
+        "source": "ncrb.gov.in (official)"
+      },
+      {
+        "bns_section": "86",
+        "source": "ncrb.gov.in (official)"
+      }
+    ]
+  }
+]
