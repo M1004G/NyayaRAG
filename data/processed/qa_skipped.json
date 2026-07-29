@@ -1,0 +1,146 @@
+[
+  {
+    "ipc_section": "132",
+    "bns_section": "160",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "139",
+    "bns_section": "167",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "152",
+    "bns_section": "195",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "166A",
+    "bns_section": "199",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "166B",
+    "bns_section": "200",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "17",
+    "bns_section": "2(12)",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "174A",
+    "bns_section": "209",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "195A",
+    "bns_section": "232",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "197",
+    "bns_section": "234",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "227",
+    "bns_section": "266",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "229A",
+    "bns_section": "269",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "326A",
+    "bns_section": "124",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "326B",
+    "bns_section": "124(2)",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "354A",
+    "bns_section": "75",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "354B",
+    "bns_section": "76",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "354C",
+    "bns_section": "77",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "354D",
+    "bns_section": "78",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "370A",
+    "bns_section": "144",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "376AB",
+    "bns_section": "65(2)",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "376DA",
+    "bns_section": "70(2)",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "376E",
+    "bns_section": "71",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "43",
+    "bns_section": "2(15)",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "491",
+    "bns_section": "357",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  },
+  {
+    "ipc_section": "63",
+    "bns_section": "8",
+    "ipc_text_available": false,
+    "bns_text_available": true
+  }
+]
