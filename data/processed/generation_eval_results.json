@@ -1,0 +1,1278 @@
+{
+  "sample_size": 30,
+  "citation_accuracy": 0.9,
+  "no_citation_rate": 0.06666666666666667,
+  "abstention_rate": 0.06666666666666667,
+  "notice_surfacing_rate": 1.0,
+  "results": [
+    {
+      "id": "stat_0099_pre",
+      "query": "What is the applicable law for: Obstructing public servant in discharge of public functions?",
+      "gold": "IPC 186",
+      "answer": "As of the current date, IPC Section 186 has been repealed w.e.f. 2024-07-01, and the corresponding current provision is BNS Section 221 [SYSTEM-VERIFIED VALIDITY NOTICES]. Therefore, the applicable law for obstructing a public servant in the discharge of public functions is BNS Section 221. The provided documents do not contain the exact provisions of BNS Section 221 [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "186"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "145"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "332"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "333"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "353"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 186 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 221.\nIPC Section 145 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 189(3).\nIPC Section 332 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 121.\nIPC Section 333 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 121(2).\nIPC Section 353 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 132.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0189_pre",
+      "query": "What is the applicable law for: Negligent conduct with respect to explosive substance?",
+      "gold": "IPC 286",
+      "answer": "As of the current date, IPC Section 286 has been repealed w.e.f. 2024-07-01, and the corresponding current provision is BNS Section 288 [SYSTEM-VERIFIED VALIDITY NOTICES]. Therefore, the applicable law for negligent conduct with respect to explosive substance is BNS Section 288 [SYSTEM-VERIFIED VALIDITY NOTICES]. The provided documents do not contain the text of BNS Section 288, but according to the SYSTEM-VERIFIED VALIDITY NOTICES, it is the current provision corresponding to the repealed IPC Section 286 [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "286"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "284"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "287"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "438"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "289"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 286 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 288.\nIPC Section 284 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 286.\nIPC Section 287 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 289.\nIPC Section 438 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 327(2).\nIPC Section 289 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 291.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0264_pre",
+      "query": "What is the applicable law for: Assault?",
+      "gold": "IPC 351",
+      "answer": "As of the current date, the applicable law for assault is BNS Section 130, as IPC Section 351 was repealed w.e.f. 2024-07-01 [SYSTEM-VERIFIED VALIDITY NOTICES]. The definition of assault can be found in the repealed IPC Section 351, which states that whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault [Doc 2]. However, for current legal purposes, one should refer to BNS Section 130 [SYSTEM-VERIFIED VALIDITY NOTICES].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "100"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "351"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "134"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "452"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "452"
+        }
+      ],
+      "cited_doc_numbers": [
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 100 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 38.\nIPC Section 351 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 130.\nIPC Section 134 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 162.\nIPC Section 452 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 333.\nIPC Section 452 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 333.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0038_pre",
+      "query": "What is the applicable law for: Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty?",
+      "gold": "IPC 131",
+      "answer": "As of the current date, the applicable law for abetting mutiny, or attempting to seduce a soldier, sailor, or airman from his duty is BNS Section 159, as IPC Section 131 was repealed w.e.f. 2024-07-01 [SYSTEM-VERIFIED VALIDITY NOTICES]. Prior to the repeal, the applicable law was IPC Section 131 [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "131"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "13"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "140"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "133"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "135"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 131 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 159.\nIPC Section 140 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 168.\nIPC Section 133 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 161.\nIPC Section 135 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 163.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0330_post",
+      "query": "What is the applicable law for: Robbery, or dacoity, with attempt to cause death or grievous hurt?",
+      "gold": "BNS 311",
+      "answer": "For robbery, or dacoity, with attempt to cause death or grievous hurt, the applicable law is stated in [Doc 1] and [Doc 2]. According to [Doc 1], the imprisonment shall not be less than seven years if the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, while committing robbery or dacoity. Additionally, [Doc 2] provides for more severe punishments in certain circumstances, such as when murder is committed during dacoity [Doc 2].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "311"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "310"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "27"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "38"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "309"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0001_post",
+      "query": "What is the applicable law for: When the right of private defence of the body extends to causing death?",
+      "gold": "BNS 38",
+      "answer": "The applicable law for when the right of private defence of the body extends to causing death is specified in sections 37 and 38 [Doc 3, Doc 5]. According to section 38, the right of private defence of the body extends to the voluntary causing of death or of any other harm to the assailant if the offence which occasions the exercise of the right is of certain descriptions [Doc 5]. Section 37 further restricts this right by stating that the right of private defence in no case extends to the inflicting of more harm than it is necessary to inflict for the purpose of defence [Doc 3].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "40"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "39"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "37"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "41"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "38"
+        }
+      ],
+      "cited_doc_numbers": [
+        3,
+        5
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0275_post",
+      "query": "What is the applicable law for: Assault or criminal force on grave provocation?",
+      "gold": "BNS 136",
+      "answer": "The applicable law for assault or criminal force on grave provocation is BNS Section 135 [Doc 1], which states that whoever assaults or uses criminal force to any person, in attempting wrongfully to confine that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both. However, it is also relevant to consider BNS Section 131 [Doc 2], which provides explanations for when grave and sudden provocation will not mitigate the punishment for an offence.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "135"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "131"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "133"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "132"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "130"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        2
+      ],
+      "cited_correct_gold": false,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0015_pre",
+      "query": "What is the applicable law for: Abettor when liable to cumulative punishment for act abetted and for act done?",
+      "gold": "IPC 112",
+      "answer": "As of the current date (after 2024-07-01), the applicable law for an abettor when liable to cumulative punishment for the act abetted and for the act done is BNS Section 52, which corresponds to the repealed IPC Section 112 [Doc 1]. According to SYSTEM-VERIFIED VALIDITY NOTICES, IPC Section 112 was repealed w.e.f. 2024-07-01, and the corresponding current provision is BNS Section 52. [Doc 1, SYSTEM-VERIFIED VALIDITY NOTICES]",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "112"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "110"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "113"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "111"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "114"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 112 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 52.\nIPC Section 110 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 50.\nIPC Section 113 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 53.\nIPC Section 111 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 51.\nIPC Section 114 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 54.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0403_pre",
+      "query": "What is the applicable law for: Forgery of record of Court or of public register, etc?",
+      "gold": "IPC 466",
+      "answer": "As of the current date, the applicable law for forgery of a record of a court or of a public register is BNS Section 337, as IPC Section 466 was repealed w.e.f. 2024-07-01 [Doc 1, SYSTEM-VERIFIED VALIDITY NOTICE]. However, the exact provisions of BNS Section 337 are not provided in the documents. The provided documents do not contain the current law, but according to the SYSTEM-VERIFIED VALIDITY NOTICE, IPC Section 466 was the previous applicable law [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "466"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "473"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "472"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "463"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "218"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 466 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 337.\nIPC Section 473 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 341(2).\nIPC Section 472 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 341.\nIPC Section 463 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 336.\nIPC Section 218 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 256.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0114_post",
+      "query": "What is the applicable law for: False statement made in declaration which is by law receivable as evidence?",
+      "gold": "BNS 236",
+      "answer": "The applicable law for a false statement made in a declaration which is by law receivable as evidence is BNS Section 236 [Doc 2]. This section states that whoever makes a false statement in a declaration, which is receivable as evidence, shall be punished in the same manner as if he gave false evidence [Doc 2]. Additionally, BNS Section 227 [Doc 3] defines giving false evidence, which includes making a false statement while being legally bound by an oath or by an express provision of law to state the truth. \n\nSYSTEM-VERIFIED VALIDITY NOTICE: None provided. \n\nThe provided documents contain an answer to this question, specifically in sections 236 and 227 of the BNS.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "235"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "236"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "227"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "237"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "228"
+        }
+      ],
+      "cited_doc_numbers": [
+        2,
+        3
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0222_post",
+      "query": "What is the applicable law for: Death caused by act done with intent to cause miscarriage?",
+      "gold": "BNS 90",
+      "answer": "The applicable law for death caused by an act done with intent to cause miscarriage is found in BNS Section 89 [Doc 1] and BNS Section 90 [Doc 2]. According to Section 89, if the act is done without the consent of the woman, the punishment is imprisonment for life or imprisonment for a term that may extend to ten years, and a fine [Doc 1]. Section 90 also addresses this issue, stating that the punishment can be imprisonment for a term that may extend to ten years and a fine, but if the act is done without the woman's consent, the punishment can be either imprisonment for life or the aforementioned punishment [Doc 2].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "89"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "90"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "29"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "105"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "100"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0145_post",
+      "query": "What is the applicable law for: Resistance or obstruction to lawful apprehension of another person?",
+      "gold": "BNS 263",
+      "answer": "The applicable law for resistance or obstruction to lawful apprehension of another person is BNS Section 263 [Doc 5]. According to this section, whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of any other person for an offence, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained for an offence, shall be punished as specified in the section [Doc 5].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "262"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "261"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "265"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "264"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "263"
+        }
+      ],
+      "cited_doc_numbers": [
+        5
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0311_pre",
+      "query": "What is the applicable law for: Persons concerned in criminal act may be guilty of different offences?",
+      "gold": "IPC 38",
+      "answer": "As of the current date, the applicable law for persons concerned in a criminal act being guilty of different offences is BNS Section 3(9), which corresponds to the repealed IPC Section 38 [Doc 1]. According to SYSTEM-VERIFIED VALIDITY NOTICES, IPC Section 38 was repealed w.e.f. 2024-07-01, and the corresponding current provision is BNS Section 3(9).",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "38"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "460"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "460"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "35"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "268"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 38 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 3(9).\nIPC Section 460 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 331(8).\nIPC Section 460 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 331(8).\nIPC Section 35 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 3(6).\nIPC Section 268 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 270.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0210_post",
+      "query": "What is the applicable law for: Punishment for murder?",
+      "gold": "BNS 103",
+      "answer": "The applicable law for punishment for murder is found in BNS Section 103, which states that whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine [Doc 3]. Additionally, if the murder is committed by a person under a sentence of imprisonment for life, the punishment is specified in BNS Section 104 [Doc 2] and for a group of five or more persons acting in concert, the punishment is specified in BNS Section 103(2) [Doc 3].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "48"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "104"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "103"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "49"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "46"
+        }
+      ],
+      "cited_doc_numbers": [
+        2,
+        3
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0367_pre",
+      "query": "What is the applicable law for: Mischief by injury to public road, bridge, river or channel?",
+      "gold": "IPC 431",
+      "answer": "As of the current date, IPC Section 431 has been repealed w.e.f. 2024-07-01, and the corresponding current provision is BNS Section 326(b) [SYSTEM-VERIFIED VALIDITY NOTICES]. The provided documents do not contain the exact wording of BNS Section 326(b), but according to the repeal notice, the applicable law for mischief by injury to public road, bridge, river or channel is now BNS Section 326(b) [SYSTEM-VERIFIED VALIDITY NOTICES]. Prior to repeal, the applicable law was IPC Section 431, which punished the offence with imprisonment of either description for a term which may extend to five years, or with fine, or with both [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "431"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "432"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "425"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "430"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "477"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 431 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 326(b).\nIPC Section 432 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 326(c).\nIPC Section 425 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 324.\nIPC Section 430 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 326.\nIPC Section 477 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 343.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0131_pre",
+      "query": "What is the applicable law for: Taking gift, etc., to screen an offender from punishment?",
+      "gold": "IPC 213",
+      "answer": "As of the current date, the applicable law for taking a gift, etc., to screen an offender from punishment is BNS Section 250, which corresponds to the previously repealed IPC Section 213 [Doc 1, Doc 2]. This is because IPC Section 213 was repealed w.e.f. 2024-07-01, with the corresponding current provision being BNS Section 250 [SYSTEM-VERIFIED VALIDITY NOTICES].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "213"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "213"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "215"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "214"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "201"
+        }
+      ],
+      "cited_doc_numbers": [],
+      "cited_correct_gold": false,
+      "made_no_citation": true,
+      "abstained": false,
+      "validity_notice": "IPC Section 213 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 250.\nIPC Section 213 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 250.\nIPC Section 215 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 252.\nIPC Section 214 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 251.\nIPC Section 201 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 238.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0246_pre",
+      "query": "What is the applicable law for: Voluntarily causing grievous hurt on provocation?",
+      "gold": "IPC 335",
+      "answer": "As of the current date, the applicable law for voluntarily causing grievous hurt on provocation is BNS Section 122(2), as IPC Section 335 was repealed w.e.f. 2024-07-01 [Doc 1, SYSTEM-VERIFIED VALIDITY NOTICES]. Prior to the repeal, the punishment for this offence was imprisonment of either description for a term which may extend to four years, or with fine which may extend to two thousand rupees, or with both [Doc 1]. However, since the provided documents do not contain the current provision of BNS Section 122(2), the exact punishment under the current law cannot be determined from the given documents.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "335"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "334"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "322"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "325"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "112"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 335 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 122(2).\nIPC Section 334 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 122.\nIPC Section 322 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 117.\nIPC Section 325 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 117(2).\nIPC Section 112 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 52.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0443_pre",
+      "query": "What is the applicable law for: Statements conducing to public mischief?",
+      "gold": "IPC 505",
+      "answer": "The provided documents do not contain an answer to this question. [Doc 1] to [Doc 5] discuss various IPC sections, but none of them specifically mention \"Statements conducing to public mischief\" [Doc 1-5]. Additionally, the SYSTEM-VERIFIED VALIDITY NOTICES state that the mentioned IPC sections have been repealed as of 2024-07-01.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "505"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "432"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "434"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "434"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "431"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        5
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": true,
+      "validity_notice": "IPC Section 505 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 353.\nIPC Section 432 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 326(c).\nIPC Section 434 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 326(e).\nIPC Section 434 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 326(e).\nIPC Section 431 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 326(b).",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0296_post",
+      "query": "What is the applicable law for: Selling minor for purposes of prostitution, etc?",
+      "gold": "BNS 98",
+      "answer": "The applicable law for selling a minor for purposes of prostitution, etc. is BNS Section 98 [Doc 2], which states that whoever sells, lets to hire, or otherwise disposes of any child with intent that such child shall at any age be employed or used for the purpose of prostitution or illicit intercourse with any person or for any unlawful and immoral purpose, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. Additionally, BNS Section 99 [Doc 5] also applies to the person who buys, hires or otherwise obtains possession of any child with such intent, and prescribes a punishment with imprisonment for a term which shall not be less than seven years but which may extend to fourteen years, and shall also be liable to fine [Doc 5].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "97"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "98"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "139"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "112"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "99"
+        }
+      ],
+      "cited_doc_numbers": [
+        2,
+        5
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0367_post",
+      "query": "What is the applicable law for: Mischief by injury to public road, bridge, river or channel?",
+      "gold": "BNS 326(b)",
+      "answer": "The applicable law for mischief by injury to a public road, bridge, river, or channel is BNS Section 326, which states that doing any act that renders or is likely to render any public road, bridge, navigable river, or navigable channel impassable or less safe for travelling or conveying property, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "326"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "325"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "324"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "343"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "224"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0040_post",
+      "query": "What is the applicable law for: Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office?",
+      "gold": "BNS 161",
+      "answer": "The applicable law for abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office, is stated in [Doc 1] and [Doc 3]. According to [Doc 1], the punishment can be imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. However, [Doc 3] states a punishment of imprisonment of either description for a term which may extend to three years, and shall also be liable to fine. [Doc 2] also addresses a similar situation, with a punishment of imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "160"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "162"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "161"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "159"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "166"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        2,
+        3
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0374_post",
+      "query": "What is the applicable law for: Punishment for the mischief described in section 437 committed by fire or explosive substance?",
+      "gold": "BNS 327(2)",
+      "answer": "The provided documents do not contain an answer to this question, as none of the documents mention section 437. [No relevant citation available]",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "327"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "325"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "41"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "287"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "118"
+        }
+      ],
+      "cited_doc_numbers": [],
+      "cited_correct_gold": false,
+      "made_no_citation": true,
+      "abstained": true,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0140_post",
+      "query": "What is the applicable law for: Commitment for trial or confinement by person having authority who knows that he is acting contrary to law?",
+      "gold": "BNS 258",
+      "answer": "According to [Doc 1] BNS Section 257, the applicable law for commitment for trial or confinement by a person having authority who knows that he is acting contrary to law is that the person shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. Additionally, [Doc 2] BNS Section 258 also applies, stating that whoever, being in any office which gives him legal authority to commit persons for trial or to confinement, corruptly or maliciously commits any person for trial or to confinement, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "257"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "258"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "37"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "28"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "229"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0203_pre",
+      "query": "What is the applicable law for: Trespassing on burial places, etc?",
+      "gold": "IPC 297",
+      "answer": "As of the current date, the applicable law for trespassing on burial places, etc., is BNS Section 301, as IPC Section 297 was repealed w.e.f. 2024-07-01 [SYSTEM-VERIFIED VALIDITY NOTICES]. The original provision under IPC Section 297 stated that whoever commits trespass in any place of worship or on any place of sepulture, or any place set apart for the performance of funeral rites or as a depository for the remains of the dead, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "297"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "466"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "298"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "271"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "340"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 297 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 301.\nIPC Section 466 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 337.\nIPC Section 298 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 302.\nIPC Section 271 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 273.\nIPC Section 340 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 127.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0255_post",
+      "query": "What is the applicable law for: Wrongful confinement for three or more days?",
+      "gold": "BNS 127(3)",
+      "answer": "The applicable law for wrongful confinement for three or more days is stated in BNS Section 127(3), which provides that whoever wrongfully confines any person for three days or more shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both [Doc 2].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "12"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "127"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "125"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "260"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "11"
+        }
+      ],
+      "cited_doc_numbers": [
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0258_pre",
+      "query": "What is the applicable law for: Wrongful confinement in secret?",
+      "gold": "IPC 346",
+      "answer": "As of the current date, the applicable law for wrongful confinement in secret is BNS Section 127(6), as IPC Section 346 was repealed w.e.f. 2024-07-01 [Doc 1, SYSTEM-VERIFIED VALIDITY NOTICES]. Prior to its repeal, IPC Section 346 governed this offense, punishing it with imprisonment of either description for a term which may extend to two years in addition to any other punishment to which the offender may be liable for such wrongful confinement [Doc 1].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "346"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "345"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "343"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "338"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "342"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 346 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 127(6).\nIPC Section 345 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 127(5).\nIPC Section 343 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 127(3).\nIPC Section 338 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 125(b).\nIPC Section 342 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 127(2).",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0455_post",
+      "query": "What is the applicable law for: Fractions of terms of punishment?",
+      "gold": "BNS 6",
+      "answer": "According to [Doc 1] BNS Section 6, in calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for twenty years unless otherwise provided. Additionally, [Doc 2] BNS Section 5 also mentions fractions of terms of punishment, but does not provide a specific calculation method. Therefore, the applicable law for fractions of terms of punishment is [Doc 1] BNS Section 6.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "6"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "5"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "269"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "266"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "49"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0013_pre",
+      "query": "What is the applicable law for: Punishment of abetment if person abetted does act with different intention from that of abettor?",
+      "gold": "IPC 110",
+      "answer": "As of the current date (which is after 2024-07-01), the applicable law for the punishment of abetment if the person abetted does the act with a different intention from that of the abettor is BNS Section 50, which corresponds to the repealed IPC Section 110 [Doc 1]. The SYSTEM-VERIFIED VALIDITY NOTICES confirm that IPC Section 110 was repealed and the corresponding current provision is BNS Section 50.",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "IPC",
+          "section_no": "110"
+        },
+        {
+          "n": 2,
+          "statute": "IPC",
+          "section_no": "113"
+        },
+        {
+          "n": 3,
+          "statute": "IPC",
+          "section_no": "111"
+        },
+        {
+          "n": 4,
+          "statute": "IPC",
+          "section_no": "108"
+        },
+        {
+          "n": 5,
+          "statute": "IPC",
+          "section_no": "112"
+        }
+      ],
+      "cited_doc_numbers": [
+        1
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "IPC Section 110 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 50.\nIPC Section 113 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 53.\nIPC Section 111 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 51.\nIPC Section 108 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 46.\nIPC Section 112 was repealed w.e.f. 2024-07-01; corresponding current provision is BNS Section 52.",
+      "notice_expected": true,
+      "notice_surfaced_in_answer": true
+    },
+    {
+      "id": "stat_0411_post",
+      "query": "What is the applicable law for: Making or possessing counterfeit seal, etc., with intent to commit forgery punishable otherwise?",
+      "gold": "BNS 341(2)",
+      "answer": "The applicable law for making or possessing counterfeit seal, etc., with intent to commit forgery punishable otherwise is BNS Section 341 [Doc 2].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "340"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "341"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "180"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "336"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "335"
+        }
+      ],
+      "cited_doc_numbers": [
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    },
+    {
+      "id": "stat_0230_post",
+      "query": "What is the applicable law for: Voluntarily causing hurt?",
+      "gold": "BNS 115",
+      "answer": "According to BNS Section 114, whoever causes bodily pain, disease or infirmity to any person is said to cause hurt, and this is considered as voluntarily causing hurt [Doc 1]. Additionally, BNS Section 115(1) states that whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said to \"voluntarily to cause hurt\" [Doc 2]. The punishment for voluntarily causing hurt is imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both [Doc 2].",
+      "retrieved_docs": [
+        {
+          "n": 1,
+          "statute": "BNS",
+          "section_no": "114"
+        },
+        {
+          "n": 2,
+          "statute": "BNS",
+          "section_no": "115"
+        },
+        {
+          "n": 3,
+          "statute": "BNS",
+          "section_no": "117"
+        },
+        {
+          "n": 4,
+          "statute": "BNS",
+          "section_no": "119"
+        },
+        {
+          "n": 5,
+          "statute": "BNS",
+          "section_no": "52"
+        }
+      ],
+      "cited_doc_numbers": [
+        1,
+        2
+      ],
+      "cited_correct_gold": true,
+      "made_no_citation": false,
+      "abstained": false,
+      "validity_notice": "",
+      "notice_expected": false,
+      "notice_surfaced_in_answer": false
+    }
+  ]
+}
