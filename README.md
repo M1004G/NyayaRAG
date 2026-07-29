@@ -65,25 +65,4 @@ After this, check:
 - `data/processed/needs_review.json` -- sections the two sources disagreed on (fine to ignore for now, but worth a glance)
 - `data/processed/qa_items.json` -- your auto-generated benchmark, ready to feed into retrieval
 
-## Known limitation, on purpose
 
-`source_b.json` will come out much smaller than `source_a.json` --
-vakeel360's full table is behind a JS search widget that a plain scraper
-can't execute, so `scrape_source_b.py` only pulls the handful of examples
-that appear as static text on the page. That means right now only a small
-number of sections have two-source agreement.
-
-**Next step to grow this**, when you're ready: copy `scrape_source_a.py` as
-a template, point it at a third site from the search results (e.g.
-golegalconsultancy.com, judextutorials.com, or lawsikho.com), adjust the
-regex `PATTERN` to match that site's wording, save it as
-`scripts/scrape_source_c.py`, and add it to `merge_and_validate.py`'s inputs.
-The merge logic already generalizes to any number of sources -- it just
-keeps whatever they all agree on.
-
-If you're using Claude to write that next scraper: paste it the relevant
-raw HTML or text snippet from the target site and ask it to write the same
-kind of regex-based extractor as `scrape_source_a.py`, rather than asking it
-to write a "generic" scraper -- generic scrapers are exactly where an LLM
-tends to hallucinate a plausible-looking pattern that silently matches zero
-real rows.
