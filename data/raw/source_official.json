@@ -1,0 +1,3068 @@
+[
+  {
+    "ipc_section": "1",
+    "bns_section": "1",
+    "description": "Title and extent of operation of the Code",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "2",
+    "bns_section": "1(3)",
+    "description": "Punishment of offences committed within India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "3",
+    "bns_section": "1(4)",
+    "description": "Punishment of offences committed beyond, but which by law may be tried within, India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "4",
+    "bns_section": "1(5)",
+    "description": "Extension of Code to extra-territorial offences",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "5",
+    "bns_section": "1(6)",
+    "description": "Certain laws not to be affected by this Act",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "6",
+    "bns_section": "3",
+    "description": "Definitions in the Code to be understood subject to exceptions",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "7",
+    "bns_section": "3(2)",
+    "description": "Sense of expression once explained",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "8",
+    "bns_section": "2(10)",
+    "description": "Gender",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "9",
+    "bns_section": "2(22)",
+    "description": "Number",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "10",
+    "bns_section": "2(19)",
+    "description": "“Man”. “Woman”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "10",
+    "bns_section": "2(35)",
+    "description": "“Man”. “Woman”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "11",
+    "bns_section": "2(26)",
+    "description": "“Person”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "12",
+    "bns_section": "2(27)",
+    "description": "“Public”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "17",
+    "bns_section": "2(12)",
+    "description": "“Government”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "19",
+    "bns_section": "2(16)",
+    "description": "“Judge”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "20",
+    "bns_section": "2(5)",
+    "description": "“Court of Justice”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "21",
+    "bns_section": "2(28)",
+    "description": "“Public servant”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "22",
+    "bns_section": "2(21)",
+    "description": "“Movable property”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "23",
+    "bns_section": "2(36)",
+    "description": "“Wrongful gain”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "23",
+    "bns_section": "2(37)",
+    "description": "“Wrongful loss”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "23",
+    "bns_section": "2(38)",
+    "description": "“gaining wrongfully’ and ‘losing wrongfully”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "24",
+    "bns_section": "2(7)",
+    "description": "“Dishonestly”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "25",
+    "bns_section": "2(9)",
+    "description": "“Fraudulently”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "26",
+    "bns_section": "2(29)",
+    "description": "“Reason to believe”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "27",
+    "bns_section": "3(3)",
+    "description": "Property in possession of wife, clerk or servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "28",
+    "bns_section": "2(4)",
+    "description": "“Counterfeit”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "29",
+    "bns_section": "2(8)",
+    "description": "“Document”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "30",
+    "bns_section": "2(31)",
+    "description": "“Valuable security”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "31",
+    "bns_section": "2(34)",
+    "description": "“A will”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "32",
+    "bns_section": "3(4)",
+    "description": "Words referring to acts include illegal omissions",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "33",
+    "bns_section": "2(1)",
+    "description": "“Act”. “Omission”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "33",
+    "bns_section": "2(25)",
+    "description": "“Act”. “Omission”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "34",
+    "bns_section": "3(5)",
+    "description": "Acts done by several persons in furtherance of common intention",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "35",
+    "bns_section": "3(6)",
+    "description": "When such an act is criminal by reason of its being done with a criminal knowledge or intention",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "36",
+    "bns_section": "3(7)",
+    "description": "Effect caused partly by act and partly by omission",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "37",
+    "bns_section": "3(8)",
+    "description": "Co-operation by doing one of several acts constituting an offence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "38",
+    "bns_section": "3(9)",
+    "description": "Persons concerned in criminal act may be guilty of different offences",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "39",
+    "bns_section": "2(33)",
+    "description": "“Voluntarily”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "40",
+    "bns_section": "2(24)",
+    "description": "“Offence”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "41",
+    "bns_section": "2(30)",
+    "description": "“Special law”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "42",
+    "bns_section": "2(18)",
+    "description": "“Local law”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "43",
+    "bns_section": "2(15)",
+    "description": "“Illegal”. “Legally bound to do”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "44",
+    "bns_section": "2(14)",
+    "description": "“Injury”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "45",
+    "bns_section": "2(17)",
+    "description": "“Life”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "46",
+    "bns_section": "2(6)",
+    "description": "“Death”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "47",
+    "bns_section": "2(2)",
+    "description": "“Animal”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "48",
+    "bns_section": "2(32)",
+    "description": "“Vessel”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "49",
+    "bns_section": "2(20)",
+    "description": "“Year”. “Month”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "51",
+    "bns_section": "2(23)",
+    "description": "“Oath”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "52",
+    "bns_section": "2(11)",
+    "description": "“Good faith”",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "52A",
+    "bns_section": "2(13)",
+    "description": "“Harbour“",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "53",
+    "bns_section": "4",
+    "description": "Punishments",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "54",
+    "bns_section": "5",
+    "description": "Commutation of sentence of death.55. Commutation of sentence of imprisonment for life",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "57",
+    "bns_section": "6",
+    "description": "Fractions of terms of punishment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "60",
+    "bns_section": "7",
+    "description": "Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "63",
+    "bns_section": "8",
+    "description": "Amount of fine",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "64",
+    "bns_section": "8(2)",
+    "description": "Sentence of imprisonment for non-payment of fine",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "65",
+    "bns_section": "8(3)",
+    "description": "Limit to imprisonment for non-payment of fine, when imprisonment and fine awardable",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "66",
+    "bns_section": "8(4)",
+    "description": "Description of imprisonment for non-payment of fine",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "67",
+    "bns_section": "8(5)",
+    "description": "Imprisonment for non-payment of fine, when offence punishable with fine only",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "68",
+    "bns_section": "8(6)(a)",
+    "description": "Imprisonment to terminate on payment of fine",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "69",
+    "bns_section": "8(6)(b)",
+    "description": "Termination of imprisonment on payment of proportional part of fine",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "70",
+    "bns_section": "8(7)",
+    "description": "Fine leviable within six years, of during imprisonment. Death not to discharge property from liability",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "71",
+    "bns_section": "9",
+    "description": "Limit of punishment of offence made up of several offences",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "72",
+    "bns_section": "10",
+    "description": "Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "73",
+    "bns_section": "11",
+    "description": "Solitary confinement",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "74",
+    "bns_section": "12",
+    "description": "Limit of solitary confinement",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "75",
+    "bns_section": "13",
+    "description": "Enhanced punishment for certain offences under Chapter XII or Chapter XVII after previous conviction",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "76",
+    "bns_section": "14",
+    "description": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "77",
+    "bns_section": "15",
+    "description": "Act of Judge when acting judicially",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "78",
+    "bns_section": "16",
+    "description": "Act done pursuant to the judgment or order of Court",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "79",
+    "bns_section": "17",
+    "description": "Act done by a person justified, or by mistake of fact believing himself, justified, by law",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "80",
+    "bns_section": "18",
+    "description": "Accident in doing a lawful act",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "81",
+    "bns_section": "19",
+    "description": "Act likely to cause harm, but done without criminal intent, and to prevent other harm",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "82",
+    "bns_section": "20",
+    "description": "Act of a child under seven years of age",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "83",
+    "bns_section": "21",
+    "description": "Act of a child above seven and under twelve of immature understanding",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "84",
+    "bns_section": "22",
+    "description": "Act of a person of unsound mind",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "85",
+    "bns_section": "23",
+    "description": "Act of a person incapable of judgment by reason of intoxication caused against his will",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "86",
+    "bns_section": "24",
+    "description": "Offence requiring a particular intent or knowledge committed by one who is intoxicated",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "87",
+    "bns_section": "25",
+    "description": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "88",
+    "bns_section": "26",
+    "description": "Act not intended to cause death, done by consent in good faith for person's benefit",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "89",
+    "bns_section": "27",
+    "description": "Act done in good faith for benefit of child or insane person, by or by consent of guardian",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "90",
+    "bns_section": "28",
+    "description": "Consent known to be given under fear or misconception",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "91",
+    "bns_section": "29",
+    "description": "Exclusion of acts which are offences independently of harm caused",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "92",
+    "bns_section": "30",
+    "description": "Act done in good faith for benefit of a person without consent",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "93",
+    "bns_section": "31",
+    "description": "Communication made in good faith",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "94",
+    "bns_section": "32",
+    "description": "Act to which a person is compelled by threats",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "95",
+    "bns_section": "33",
+    "description": "Act causing slight harm",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "96",
+    "bns_section": "34",
+    "description": "Things done in private defence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "97",
+    "bns_section": "35",
+    "description": "Right of private defence of the body and of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "98",
+    "bns_section": "36",
+    "description": "Right of private defence against the act of a person of unsound mind, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "99",
+    "bns_section": "37",
+    "description": "Acts against which there is no right of private defence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "100",
+    "bns_section": "38",
+    "description": "When the right of private defence of the body extends to causing death",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "101",
+    "bns_section": "39",
+    "description": "When such right extends to causing any harm other than death",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "102",
+    "bns_section": "40",
+    "description": "Commencement and continuance of the right of private defence of the body",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "103",
+    "bns_section": "41",
+    "description": "When the right of private defence of property extends to causing death",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "104",
+    "bns_section": "42",
+    "description": "When such right extends to causing any harm other than death",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "105",
+    "bns_section": "43",
+    "description": "Commencement and continuance of the right of private defence of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "106",
+    "bns_section": "44",
+    "description": "Right of private defence against deadly assault when there is risk of harm to innocent person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "107",
+    "bns_section": "45",
+    "description": "Abetment of a thing",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "108",
+    "bns_section": "46",
+    "description": "Abettor",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "108A",
+    "bns_section": "47",
+    "description": "Abetment in India of offences outside India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "109",
+    "bns_section": "49",
+    "description": "Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "110",
+    "bns_section": "50",
+    "description": "Punishment of abetment if person abetted does act with different intention from that of abettor",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "111",
+    "bns_section": "51",
+    "description": "Liability of abettor when one act abetted and different act done",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "112",
+    "bns_section": "52",
+    "description": "Abettor when liable to cumulative punishment for act abetted and for act done",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "113",
+    "bns_section": "53",
+    "description": "Liability of abettor for an effect caused by the act abetted different from that intended by the abettor",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "114",
+    "bns_section": "54",
+    "description": "Abettor present when offence is committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "115",
+    "bns_section": "55",
+    "description": "Abetment of offence punishable with death or imprisonment for life.—if offence not committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "116",
+    "bns_section": "56",
+    "description": "Abetment of offence punishable with imprisonment—if offence be not committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "117",
+    "bns_section": "57",
+    "description": "Abetting commission of offence by the public or by more than ten persons",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "118",
+    "bns_section": "58",
+    "description": "Concealing design to commit offence punishable with death or imprisonment for life",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "119",
+    "bns_section": "59",
+    "description": "Public servant concealing design to commit offence which it is his duty to prevent",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "120",
+    "bns_section": "60",
+    "description": "Concealing design to commit offence punishable with imprisonment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "120A",
+    "bns_section": "61",
+    "description": "Definition of criminal conspiracy",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "120B",
+    "bns_section": "61(2)",
+    "description": "Punishment of criminal conspiracy",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "121",
+    "bns_section": "147",
+    "description": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "121A",
+    "bns_section": "148",
+    "description": "Conspiracy to commit offences punishable by section 121",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "122",
+    "bns_section": "149",
+    "description": "Collecting arms, etc., with intention of waging war against the Government of India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "123",
+    "bns_section": "150",
+    "description": "Concealing with intent to facilitate design to wage war",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "124",
+    "bns_section": "151",
+    "description": "Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "125",
+    "bns_section": "153",
+    "description": "Waging war against any Asiatic Power in alliance with the Government of India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "126",
+    "bns_section": "154",
+    "description": "Committing depredation on territories of Power at peace with the Government of India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "127",
+    "bns_section": "155",
+    "description": "Receiving property taken by war or depredation mentioned in sections 125 and 126",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "128",
+    "bns_section": "156",
+    "description": "Public servant voluntarily allowing prisoner of state or war to escape",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "129",
+    "bns_section": "157",
+    "description": "Public servant negligently suffering such prisoner to escape",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "130",
+    "bns_section": "158",
+    "description": "Aiding escape of, rescuing or harbouring such prisoner",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "131",
+    "bns_section": "159",
+    "description": "Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "132",
+    "bns_section": "160",
+    "description": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "133",
+    "bns_section": "161",
+    "description": "Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "134",
+    "bns_section": "162",
+    "description": "Abetment of such assault, if the assault committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "135",
+    "bns_section": "163",
+    "description": "Abetment of desertion of soldier, sailor or airman",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "136",
+    "bns_section": "164",
+    "description": "Harbouring deserter",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "137",
+    "bns_section": "165",
+    "description": "Deserter concealed on board merchant vessel through negligence of master",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "138",
+    "bns_section": "166",
+    "description": "Abetment of act of insubordination by soldier, sailor or airman",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "139",
+    "bns_section": "167",
+    "description": "Persons subject to certain Acts",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "140",
+    "bns_section": "168",
+    "description": "Wearing garb or carrying token used by soldier, sailor or airman",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "141",
+    "bns_section": "189",
+    "description": "Unlawful assembly",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "143",
+    "bns_section": "189(2)",
+    "description": "Punishment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "144",
+    "bns_section": "189(4)",
+    "description": "Joining unlawful assembly armed with deadly weapon",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "145",
+    "bns_section": "189(3)",
+    "description": "Joining or continuing in unlawful assembly, knowing it has been commanded to disperse",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "146",
+    "bns_section": "191",
+    "description": "Rioting",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "147",
+    "bns_section": "191(2)",
+    "description": "Punishment for rioting",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "148",
+    "bns_section": "191(3)",
+    "description": "Rioting, armed with deadly weapon",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "149",
+    "bns_section": "190",
+    "description": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "150",
+    "bns_section": "189(6)",
+    "description": "Hiring, or conniving at hiring, of persons to join unlawful assembly",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "151",
+    "bns_section": "189(5)",
+    "description": "Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "152",
+    "bns_section": "195",
+    "description": "Assaulting or obstructing public servant when suppressing riot, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "153",
+    "bns_section": "192",
+    "description": "Wantonly giving provocation with intent to cause riot—if rioting be committed; if not committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "153A",
+    "bns_section": "196",
+    "description": "Promoting enmity between different groups on ground of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "153B",
+    "bns_section": "197",
+    "description": "Imputations, assertions prejudicial to national integration",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "154",
+    "bns_section": "193",
+    "description": "Owner or occupier of land on which an unlawful assembly is held",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "155",
+    "bns_section": "193(2)",
+    "description": "Liability of person for whose benefit riot is committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "156",
+    "bns_section": "193(3)",
+    "description": "Liability of agent of owner or occupier for whose benefit riot is committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "157",
+    "bns_section": "189(7)",
+    "description": "Harbouring persons hired for an unlawful assembly",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "158",
+    "bns_section": "189(8)",
+    "description": "Being hired to take part in an unlawful assembly or riot",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "158",
+    "bns_section": "189(9)",
+    "description": "or to go armed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "159",
+    "bns_section": "194",
+    "description": "Affray",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "160",
+    "bns_section": "194(2)",
+    "description": "Punishment for committing affray",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "166",
+    "bns_section": "198",
+    "description": "Public servant disobeying law, with intent to cause injury to any person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "166A",
+    "bns_section": "199",
+    "description": "Public servant disobeying direction under law",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "166B",
+    "bns_section": "200",
+    "description": "Punishment for non-treatment of victim",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "167",
+    "bns_section": "201",
+    "description": "Public servant framing an incorrect document with intent to cause injury",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "168",
+    "bns_section": "202",
+    "description": "Public servant unlawfully engaging in trade",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "169",
+    "bns_section": "203",
+    "description": "Public servant unlawfully buying or bidding for property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "170",
+    "bns_section": "204",
+    "description": "Personating a public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171",
+    "bns_section": "205",
+    "description": "Wearing garb or carrying token used by public servant with fraudulent intent",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171A",
+    "bns_section": "169",
+    "description": "“Candidate”, “Electoral right” defined",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171B",
+    "bns_section": "170",
+    "description": "Bribery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171C",
+    "bns_section": "171",
+    "description": "Undue influence at elections",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171D",
+    "bns_section": "172",
+    "description": "Personation at elections",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171E",
+    "bns_section": "173",
+    "description": "Punishment for bribery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171F",
+    "bns_section": "174",
+    "description": "Punishment for undue influence or personation at an election",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171G",
+    "bns_section": "175",
+    "description": "False statement in connection with an election",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171H",
+    "bns_section": "176",
+    "description": "Illegal payments in connection with an election",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "171",
+    "bns_section": "177",
+    "description": "-I. Failure to keep election accounts",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "172",
+    "bns_section": "206",
+    "description": "Absconding to avoid service of summons or other proceeding",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "173",
+    "bns_section": "207",
+    "description": "Preventing service of summons or other proceeding, or preventing publication thereof",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "174",
+    "bns_section": "208",
+    "description": "Non-attendance in obedience to an order from public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "174A",
+    "bns_section": "209",
+    "description": "Non-appearance in response to a proclamation under section 82 of Act 2 of 1974",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "175",
+    "bns_section": "210",
+    "description": "Omission to produce document to public servant by person legally bound to produce it",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "176",
+    "bns_section": "211",
+    "description": "Omission to give notice or information to public servant by person legally bound to give it",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "177",
+    "bns_section": "212",
+    "description": "Furnishing false information",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "178",
+    "bns_section": "213",
+    "description": "Refusing oath or affirmation when duly required by public servant to make it",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "179",
+    "bns_section": "214",
+    "description": "Refusing to answer public servant authorised to question",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "180",
+    "bns_section": "215",
+    "description": "Refusing to sign statement",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "181",
+    "bns_section": "216",
+    "description": "False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "182",
+    "bns_section": "217",
+    "description": "False information, with intent to cause public servant to use his lawful power to the injury of another",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "183",
+    "bns_section": "218",
+    "description": "Resistance to the taking of property by the lawful authority of a public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "184",
+    "bns_section": "219",
+    "description": "Obstructing sale of property offered for sale by authority of public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "185",
+    "bns_section": "220",
+    "description": "Illegal purchase or bid for property offered for sale by authority of public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "186",
+    "bns_section": "221",
+    "description": "Obstructing public servant in discharge of public functions",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "187",
+    "bns_section": "222",
+    "description": "Omission to assist public servant when bound by law to give assistance",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "188",
+    "bns_section": "223",
+    "description": "Disobedience to order duly promulgated by public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "189",
+    "bns_section": "224",
+    "description": "Threat of injury to public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "190",
+    "bns_section": "225",
+    "description": "Threat of injury to induce person to refrain from applying for protection to public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "191",
+    "bns_section": "227",
+    "description": "Giving false evidence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "192",
+    "bns_section": "228",
+    "description": "Fabricating false evidence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "193",
+    "bns_section": "229",
+    "description": "Punishment for false evidence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "194",
+    "bns_section": "230",
+    "description": "Giving or fabricating false evidence with intent to procure conviction of capital offence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "195",
+    "bns_section": "231",
+    "description": "Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "195A",
+    "bns_section": "232",
+    "description": "Threatening any person to give false evidence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "196",
+    "bns_section": "233",
+    "description": "Using evidence known to be false",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "197",
+    "bns_section": "234",
+    "description": "Issuing or signing false certificate",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "198",
+    "bns_section": "235",
+    "description": "Using as true a certificate known to be false",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "199",
+    "bns_section": "236",
+    "description": "False statement made in declaration which is by law receivable as evidence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "200",
+    "bns_section": "237",
+    "description": "Using as true such declaration knowing it to be false",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "201",
+    "bns_section": "238",
+    "description": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "202",
+    "bns_section": "239",
+    "description": "Intentional omission to give information of offence by person bound to inform",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "203",
+    "bns_section": "240",
+    "description": "Giving false information respecting an offence committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "204",
+    "bns_section": "241",
+    "description": "Destruction of document to prevent its production as evidence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "205",
+    "bns_section": "242",
+    "description": "False personation for purpose of act or proceeding in suit or prosecution",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "206",
+    "bns_section": "243",
+    "description": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "207",
+    "bns_section": "244",
+    "description": "Fraudulent claim to property to prevent its seizure as forfeited or in execution",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "208",
+    "bns_section": "245",
+    "description": "Fraudulently suffering decree for sum not due",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "209",
+    "bns_section": "246",
+    "description": "Dishonesty making false claim in Court",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "210",
+    "bns_section": "247",
+    "description": "Fraudulently obtaining decree for sum not due",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "211",
+    "bns_section": "248",
+    "description": "False charge of offence made with intent to injure",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "212",
+    "bns_section": "249",
+    "description": "Harbouring offender",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "213",
+    "bns_section": "250",
+    "description": "Taking gift, etc., to screen an offender from punishment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "214",
+    "bns_section": "251",
+    "description": "Offering gift or restoration of property in consideration of screening offender",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "215",
+    "bns_section": "252",
+    "description": "Taking gift to help to recover stolen property, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "216",
+    "bns_section": "253",
+    "description": "Harbouring offender who has escaped from custody or whose apprehension has been ordered",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "216A",
+    "bns_section": "254",
+    "description": "Penalty for harbouring robbers or dacoits",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "217",
+    "bns_section": "255",
+    "description": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "218",
+    "bns_section": "256",
+    "description": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "219",
+    "bns_section": "257",
+    "description": "Public servant in judicial proceeding corruptly making report, etc., contrary to law",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "220",
+    "bns_section": "258",
+    "description": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "221",
+    "bns_section": "259",
+    "description": "Intentional omission to apprehend on the part of public servant bound to apprehend",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "222",
+    "bns_section": "260",
+    "description": "Intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "223",
+    "bns_section": "261",
+    "description": "Escape from confinement or custody negligently suffered by public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "224",
+    "bns_section": "262",
+    "description": "Resistance or obstruction by a person to his lawful apprehension",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "225",
+    "bns_section": "263",
+    "description": "Resistance or obstruction to lawful apprehension of another person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "225A",
+    "bns_section": "264",
+    "description": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "225B",
+    "bns_section": "265",
+    "description": "Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "227",
+    "bns_section": "266",
+    "description": "Violation of condition of remission of punishment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "228",
+    "bns_section": "267",
+    "description": "Intentional insult or interruption to public servant sitting in judicial proceeding",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "229",
+    "bns_section": "268",
+    "description": "Personation of a juror or assessor",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "229A",
+    "bns_section": "269",
+    "description": "Failure by person released on bail or bond to appear in court",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "231",
+    "bns_section": "178",
+    "description": "Counterfeiting coin.255.Counterfeiting Government stamp.489A. Counterfeiting currency-notes or bank-notes",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "230",
+    "bns_section": "178(2)",
+    "description": "“Coin” defined",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "246",
+    "bns_section": "178(5)",
+    "description": "Fraudulently or dishonestly diminishing weight or altering composition of coin.248. Altering appearance of coin with intent that it shall pass as coin of different description.(reference to ‘Indian coin’ removed)",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "237",
+    "bns_section": "179",
+    "description": "Import or export of counterfeit coin.238. Import or export of counterfeits of the Indian coin.239. Delivery of coin, possessed with knowledge that it is counterfeit.240. Delivery of Indian coin, possessed with knowledge that it is counterfeit.241. Delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit.250. Delivery of coin, possessed with knowledge that it is altered.251. Delivery of Indian coin, possessed with knowledge that it is altered.254. Delivery of coin as genuine, which, when first possessed, the deliverer did not know to be altered.258. Sale of counterfeit Government stamp.260. Using as genuine a Government stamp known to be counterfeit.489B. Using as genuine, forged or counterfeit currency-notes or bank-notes",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "242",
+    "bns_section": "180",
+    "description": "Possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof.243. Possession of Indian coin by person who knew it to be counterfeit when he became possessed thereof.252. Possession of coin by person who knew it to be altered when he became possessed thereof.253. Possession of Indian coin by person who knew it to be altered when he became possessed thereof.259. Having possession of counterfeit Government stamp.489C. Possession of forged or counterfeit currency-notes or bank-notes",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "233",
+    "bns_section": "181",
+    "description": "Making or selling instrument for counterfeiting coin.234. Making or selling instrument for counterfeiting Indian coin.235. Possession of instrument or material for the purpose of using the same for counterfeiting coin.256. Having possession of instrument or material for counterfeiting Government stamp.257. Making or selling instrument for counterfeiting Government stamp.489D. Making or possessing instruments or materials for forging or counterfeiting currency notes or bank-notes",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "489E",
+    "bns_section": "182",
+    "description": "Making or using documents resembling currency-notes or bank-notes",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "261",
+    "bns_section": "183",
+    "description": "Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "262",
+    "bns_section": "184",
+    "description": "Using Government stamp known to have been before used",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "263",
+    "bns_section": "185",
+    "description": "Erasure of mark denoting that stamp has been used",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "263A",
+    "bns_section": "186",
+    "description": "Prohibition of fictitious stamps",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "244",
+    "bns_section": "187",
+    "description": "Person employed in mint causing coin to be of different weight or composition from that fixed by law",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "245",
+    "bns_section": "188",
+    "description": "Unlawfully taking coining instrument from mint",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "268",
+    "bns_section": "270",
+    "description": "Public nuisance",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "269",
+    "bns_section": "271",
+    "description": "Negligent act likely to spread infection of disease dangerous to life",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "270",
+    "bns_section": "272",
+    "description": "Malignant act likely to spread infection of disease dangerous to life",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "271",
+    "bns_section": "273",
+    "description": "Disobedience to quarantine rule",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "272",
+    "bns_section": "274",
+    "description": "Adulteration of food or drink intended for sale",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "273",
+    "bns_section": "275",
+    "description": "Sale of noxious food or drink",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "274",
+    "bns_section": "276",
+    "description": "Adulteration of drugs",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "275",
+    "bns_section": "277",
+    "description": "Sale of adulterated drugs",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "276",
+    "bns_section": "278",
+    "description": "Sale of drug as a different drug or preparation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "277",
+    "bns_section": "279",
+    "description": "Fouling water of public spring or reservoir",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "278",
+    "bns_section": "280",
+    "description": "Making atmosphere noxious to health",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "279",
+    "bns_section": "281",
+    "description": "Rash driving or riding on a public way",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "280",
+    "bns_section": "282",
+    "description": "Rash navigation of vessel",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "281",
+    "bns_section": "283",
+    "description": "Exhibition of false light, mark or buoy",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "282",
+    "bns_section": "284",
+    "description": "Conveying person by water for hire in unsafe or overloaded vessel",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "283",
+    "bns_section": "285",
+    "description": "Danger or obstruction in public way or line of navigation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "284",
+    "bns_section": "286",
+    "description": "Negligent conduct with respect to poisonous substance",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "285",
+    "bns_section": "287",
+    "description": "Negligent conduct with respect to fire or combustible matter",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "286",
+    "bns_section": "288",
+    "description": "Negligent conduct with respect to explosive substance",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "287",
+    "bns_section": "289",
+    "description": "Negligent conduct with respect to machinery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "288",
+    "bns_section": "290",
+    "description": "Negligent conduct with respect to pulling down or repairing buildings",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "289",
+    "bns_section": "291",
+    "description": "Negligent conduct with respect to animal",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "290",
+    "bns_section": "292",
+    "description": "Punishment for public nuisance in cases not otherwise provided for",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "291",
+    "bns_section": "293",
+    "description": "Continuance of nuisance after injunction to discontinue",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "292",
+    "bns_section": "294",
+    "description": "Sale, etc., of obscene books, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "293",
+    "bns_section": "295",
+    "description": "Sale, etc., of obscene objects to young person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "294",
+    "bns_section": "296",
+    "description": "Obscene acts and songs",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "294A",
+    "bns_section": "297",
+    "description": "Keeping lottery office",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "295",
+    "bns_section": "298",
+    "description": "Injuring or defiling place of worship, with intent to insult the religion of any class",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "295A",
+    "bns_section": "299",
+    "description": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "296",
+    "bns_section": "300",
+    "description": "Disturbing religious assembly",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "297",
+    "bns_section": "301",
+    "description": "Trespassing on burial places, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "298",
+    "bns_section": "302",
+    "description": "Uttering words, etc., with deliberate intent to wound religious feelings of any person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "299",
+    "bns_section": "100",
+    "description": "Culpable homicide",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "300",
+    "bns_section": "101",
+    "description": "Murder",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "301",
+    "bns_section": "102",
+    "description": "Culpable homicide by causing death of person other than person whose death was intended",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "302",
+    "bns_section": "103",
+    "description": "Punishment for murder",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "303",
+    "bns_section": "104",
+    "description": "Punishment for murder by life-convict",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "304",
+    "bns_section": "105",
+    "description": "Punishment for culpable homicide not amounting to murder",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "304A",
+    "bns_section": "106",
+    "description": "Causing death by negligence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "305",
+    "bns_section": "107",
+    "description": "Abetment of suicide of child or insane person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "306",
+    "bns_section": "108",
+    "description": "Abetment of suicide",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "307",
+    "bns_section": "109",
+    "description": "Attempt to murder",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "308",
+    "bns_section": "110",
+    "description": "Attempt to commit culpable homicide",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "319",
+    "bns_section": "114",
+    "description": "Hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "321",
+    "bns_section": "115",
+    "description": "Voluntarily causing hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "323",
+    "bns_section": "115(2)",
+    "description": "Punishment for voluntarily causing hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "320",
+    "bns_section": "116",
+    "description": "Grievous hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "322",
+    "bns_section": "117",
+    "description": "Voluntarily causing grievous hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "325",
+    "bns_section": "117(2)",
+    "description": "Punishment for voluntarily causing grievous hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "324",
+    "bns_section": "118",
+    "description": "Voluntarily causing hurt by dangerous weapons or means",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "326",
+    "bns_section": "118(2)",
+    "description": "Voluntarily causing grievous hurt by dangerous weapons or means",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "327",
+    "bns_section": "119",
+    "description": "Voluntarily causing hurt to extort property, or to constrain to an illegal to an act",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "329",
+    "bns_section": "119(2)",
+    "description": "Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "330",
+    "bns_section": "120(1)",
+    "description": "Voluntarily causing hurt to extort confession, or to compel restoration of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "331",
+    "bns_section": "120(2)",
+    "description": "Voluntarily causing grievous hurt to extort confession, or to compel restoration of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "332",
+    "bns_section": "121",
+    "description": "Voluntarily causing hurt to deter public servant from his duty",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "333",
+    "bns_section": "121(2)",
+    "description": "Voluntarily causing grievous hurt to deter public servant from his duty",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "334",
+    "bns_section": "122",
+    "description": "Voluntarily causing hurt on provocation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "335",
+    "bns_section": "122(2)",
+    "description": "Voluntarily causing grievous hurt on provocation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "328",
+    "bns_section": "123",
+    "description": "Causing hurt by means of poison, etc., with intent to commit and offence",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "326A",
+    "bns_section": "124",
+    "description": "Voluntarily causing grievous hurt by use of acid, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "326B",
+    "bns_section": "124(2)",
+    "description": "Voluntarily throwing or attempting to throw acid",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "336",
+    "bns_section": "125",
+    "description": "Act endangering life or personal safety of others",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "337",
+    "bns_section": "125(a)",
+    "description": "Causing hurt by act endangering life or personal safety of others",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "338",
+    "bns_section": "125(b)",
+    "description": "Causing grievous hurt by act endangering life or personal safety of others",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "339",
+    "bns_section": "126",
+    "description": "Wrongful restraint",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "341",
+    "bns_section": "126(2)",
+    "description": "Punishment for wrongful restraint",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "340",
+    "bns_section": "127",
+    "description": "Wrongful confinement",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "342",
+    "bns_section": "127(2)",
+    "description": "Punishment for wrongful confinement",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "343",
+    "bns_section": "127(3)",
+    "description": "Wrongful confinement for three or more days",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "344",
+    "bns_section": "127(4)",
+    "description": "Wrongful confinement for ten or more days",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "345",
+    "bns_section": "127(5)",
+    "description": "Wrongful confinement of person for whose liberation writ has been issued",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "346",
+    "bns_section": "127(6)",
+    "description": "Wrongful confinement in secret",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "347",
+    "bns_section": "127(7)",
+    "description": "Wrongful confinement to extort property, or constrain to illegal act",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "348",
+    "bns_section": "127(8)",
+    "description": "Wrongful confinement to extort confession, or compel restoration of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "349",
+    "bns_section": "128",
+    "description": "Force",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "350",
+    "bns_section": "129",
+    "description": "Criminal force",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "351",
+    "bns_section": "130",
+    "description": "Assault",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "352",
+    "bns_section": "131",
+    "description": "Punishment for assault or criminal force otherwise than on grave provocation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "353",
+    "bns_section": "132",
+    "description": "Assault or criminal force to deter public servant from discharge of his duty",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "355",
+    "bns_section": "133",
+    "description": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "356",
+    "bns_section": "134",
+    "description": "Assault or criminal force in attempt to commit theft of property carried by a person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "357",
+    "bns_section": "135",
+    "description": "Assault or criminal force in attempt wrongfully to confine a person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "358",
+    "bns_section": "136",
+    "description": "Assault or criminal force on grave provocation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "359",
+    "bns_section": "137",
+    "description": "Kidnapping",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "360",
+    "bns_section": "137(1)(a)",
+    "description": "Kidnapping from India",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "361",
+    "bns_section": "137(1)(b)",
+    "description": "Kidnapping from lawful guardianship",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "363",
+    "bns_section": "137(2)",
+    "description": "Punishment for kidnapping",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "362",
+    "bns_section": "138",
+    "description": "Abduction",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "363A",
+    "bns_section": "139",
+    "description": "Kidnapping or maiming a minor for purposes of begging",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "364",
+    "bns_section": "140",
+    "description": "Kidnapping or abducting in order to murder",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "364A",
+    "bns_section": "140(2)",
+    "description": "Kidnapping for ransom, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "365",
+    "bns_section": "140(3)",
+    "description": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "367",
+    "bns_section": "140(4)",
+    "description": "Kidnapping or abducting in order to subject person to grievous hurt, slavery, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "366B",
+    "bns_section": "141",
+    "description": "Importation of girl from foreign country",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "368",
+    "bns_section": "142",
+    "description": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "370",
+    "bns_section": "143",
+    "description": "Trafficking of person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "370A",
+    "bns_section": "144",
+    "description": "Exploitation of a trafficked person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "371",
+    "bns_section": "145",
+    "description": "Habitual dealing in slaves",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "374",
+    "bns_section": "146",
+    "description": "Unlawful compulsory labour",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "304B",
+    "bns_section": "80",
+    "description": "Dowry death",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "366",
+    "bns_section": "87",
+    "description": "Kidnapping, abducting or inducing woman to compel her marriage, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "312",
+    "bns_section": "88",
+    "description": "Causing miscarriage",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "313",
+    "bns_section": "89",
+    "description": "Causing miscarriage without woman's consent",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "314",
+    "bns_section": "90",
+    "description": "Death caused by act done with intent to cause miscarriage",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "315",
+    "bns_section": "91",
+    "description": "Act done with intent to prevent child being born alive or to cause it to die after birth",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "316",
+    "bns_section": "92",
+    "description": "Causing death of quick unborn child by act amounting to culpable homicide",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "317",
+    "bns_section": "93",
+    "description": "Exposure and abandonment of child under twelve years, by parent or person having care of it",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "318",
+    "bns_section": "94",
+    "description": "Concealment of birth by secret disposal of dead body",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "366A",
+    "bns_section": "96",
+    "description": "Procuration of minor girl",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "369",
+    "bns_section": "97",
+    "description": "Kidnapping or abducting child under ten years with intent to steal from its person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "372",
+    "bns_section": "98",
+    "description": "Selling minor for purposes of prostitution, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "373",
+    "bns_section": "99",
+    "description": "Buying minor for purposes of prostitution, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "375",
+    "bns_section": "63",
+    "description": "Rape",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376",
+    "bns_section": "64",
+    "description": "Punishment for rape",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376(3)",
+    "bns_section": "65",
+    "description": "Punishment for rape in certain cases.65(1)",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376AB",
+    "bns_section": "65(2)",
+    "description": "Punishment for rape on woman under twelve years of age",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376A",
+    "bns_section": "66",
+    "description": "Punishment for causing death or resulting in persistent vegetative state of victim",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376B",
+    "bns_section": "67",
+    "description": "Sexual intercourse by husband upon his wife during separation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376C",
+    "bns_section": "68",
+    "description": "Sexual intercourse by a person in authority",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376D",
+    "bns_section": "70",
+    "description": "Gang rape",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376DA",
+    "bns_section": "70(2)",
+    "description": "Punishment for gang rape on woman under sixteen years of age.376DB. Punishment for gang rape on woman under twelve years of age",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "376E",
+    "bns_section": "71",
+    "description": "Punishment for repeat offenders",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "228A",
+    "bns_section": "72",
+    "description": "Disclosure of identity of the victim of certain offences, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "228A(3)",
+    "bns_section": "73",
+    "description": "Printing or publishing of any matter relating to Court proceedings without permission",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "354",
+    "bns_section": "74",
+    "description": "Assault or criminal force to woman with intent to outrage her modesty",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "354A",
+    "bns_section": "75",
+    "description": "Sexual harassment and punishment for sexual harassment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "354B",
+    "bns_section": "76",
+    "description": "Assault or use of criminal force to woman with intent to disrobe",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "354C",
+    "bns_section": "77",
+    "description": "Voyeurism",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "354D",
+    "bns_section": "78",
+    "description": "Stalking",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "509",
+    "bns_section": "79",
+    "description": "Word, gesture or act intended to insult the modesty of a woman",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "493",
+    "bns_section": "81",
+    "description": "Cohabitation caused by a man deceitfully inducing a belief of lawful marriage",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "494",
+    "bns_section": "82",
+    "description": "Marrying again during lifetime of husband or wife",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "495",
+    "bns_section": "82(2)",
+    "description": "Same offence with concealment of former marriage from person with whom subsequent marriage is contracted",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "496",
+    "bns_section": "83",
+    "description": "Marriage ceremony fraudulently gone through without lawful marriage",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "498",
+    "bns_section": "84",
+    "description": "Enticing or taking away or detaining with criminal intent a married woman",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "498A",
+    "bns_section": "85",
+    "description": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "498A",
+    "bns_section": "86",
+    "description": "Explanation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "378",
+    "bns_section": "303",
+    "description": "Theft",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "379",
+    "bns_section": "303(2)",
+    "description": "Punishment for theft",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "380",
+    "bns_section": "305",
+    "description": "Theft in dwelling house, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "381",
+    "bns_section": "306",
+    "description": "Theft by clerk or servant of property in possession of master",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "382",
+    "bns_section": "307",
+    "description": "Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "383",
+    "bns_section": "308",
+    "description": "Extortion",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "384",
+    "bns_section": "308(2)",
+    "description": "Punishment for extortion",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "385",
+    "bns_section": "308(3)",
+    "description": "Putting person in fear of injury in order to commit extortion",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "386",
+    "bns_section": "308(5)",
+    "description": "Extortion by putting a person in fear of death or grievous hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "387",
+    "bns_section": "308(4)",
+    "description": "Putting person in fear of death or of grievous hurt, in order to commit extortion",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "388",
+    "bns_section": "308(7)",
+    "description": "Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "389",
+    "bns_section": "308(6)",
+    "description": "Putting person in fear or accusation of offence, in order to commit extortion",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "390",
+    "bns_section": "309",
+    "description": "Robbery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "391",
+    "bns_section": "310",
+    "description": "Dacoity",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "392",
+    "bns_section": "309(4)",
+    "description": "Punishment for robbery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "393",
+    "bns_section": "309(5)",
+    "description": "Attempt to commit robbery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "394",
+    "bns_section": "309(6)",
+    "description": "Voluntarily causing hurt in committing robbery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "395",
+    "bns_section": "310(2)",
+    "description": "Punishment for dacoity",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "396",
+    "bns_section": "310(3)",
+    "description": "Dacoity with murder",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "397",
+    "bns_section": "311",
+    "description": "Robbery, or dacoity, with attempt to cause death or grievous hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "398",
+    "bns_section": "312",
+    "description": "Attempt to commit robbery or dacoity when armed with deadly weapon",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "399",
+    "bns_section": "310(4)",
+    "description": "Making preparation to commit dacoity",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "400",
+    "bns_section": "310(6)",
+    "description": "Punishment for belonging to gang of dacoits",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "401",
+    "bns_section": "313",
+    "description": "Punishment for belonging to gang of thieves",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "402",
+    "bns_section": "310(5)",
+    "description": "Assembling for purpose of committing dacoity",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "403",
+    "bns_section": "314",
+    "description": "Dishonest misappropriation of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "404",
+    "bns_section": "315",
+    "description": "Dishonest misappropriation of property possessed by deceased person at the time of his death",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "405",
+    "bns_section": "316",
+    "description": "Criminal breach of trust",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "406",
+    "bns_section": "316(2)",
+    "description": "Punishment for criminal breach of trust",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "407",
+    "bns_section": "316(3)",
+    "description": "Criminal breach of trust by carrier, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "408",
+    "bns_section": "316(4)",
+    "description": "Criminal breach of trust by clerk or servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "409",
+    "bns_section": "316(5)",
+    "description": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "410",
+    "bns_section": "317",
+    "description": "Stolen property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "411",
+    "bns_section": "317(2)",
+    "description": "Dishonestly receiving stolen property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "412",
+    "bns_section": "317(3)",
+    "description": "Dishonestly receiving property stolen in the commission of a dacoity",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "413",
+    "bns_section": "317(4)",
+    "description": "Habitually dealing in stolen property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "414",
+    "bns_section": "317(5)",
+    "description": "Assisting in concealment of stolen property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "415",
+    "bns_section": "318",
+    "description": "Cheating",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "417",
+    "bns_section": "318(2)",
+    "description": "Punishment for cheating",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "418",
+    "bns_section": "318(3)",
+    "description": "Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "419",
+    "bns_section": "319(2)",
+    "description": "Punishment of cheating by personation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "420",
+    "bns_section": "318(4)",
+    "description": "Cheating and dishonestly inducing delivery of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "421",
+    "bns_section": "320",
+    "description": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "422",
+    "bns_section": "321",
+    "description": "Dishonestly or fraudulently preventing debt being available for creditors",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "423",
+    "bns_section": "322",
+    "description": "Dishonest or fraudulent execution of deed of transfer containing false statement of consideration",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "424",
+    "bns_section": "323",
+    "description": "Dishonest or fraudulent removal or concealment of property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "425",
+    "bns_section": "324",
+    "description": "Mischief",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "426",
+    "bns_section": "324(2)",
+    "description": "Punishment for mischief",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "427",
+    "bns_section": "324(4)",
+    "description": "Mischief causing damage to the amount of fifty rupees",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "428",
+    "bns_section": "325",
+    "description": "Mischief by killing or maiming animal of the value of ten rupees.429. Mischief by killing or maiming cattle, etc., of any value or any animal of the value of fifty rupees",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "430",
+    "bns_section": "326",
+    "description": "Mischief by injury to works of irrigation or by wrongfully diverting water",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "431",
+    "bns_section": "326(b)",
+    "description": "Mischief by injury to public road, bridge, river or channel",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "432",
+    "bns_section": "326(c)",
+    "description": "Mischief by causing inundation or obstruction to public drainage attended with damage",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "433",
+    "bns_section": "326(d)",
+    "description": "Mischief by destroying, moving or rendering less useful a light-house or sea-mark",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "434",
+    "bns_section": "326(e)",
+    "description": "Mischief by destroying or moving, etc., a land-mark fixed by public authority",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "435",
+    "bns_section": "326(f)",
+    "description": "Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "436",
+    "bns_section": "326(g)",
+    "description": "Mischief by fire or explosive substance with intent to destroy house, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "437",
+    "bns_section": "327",
+    "description": "Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "438",
+    "bns_section": "327(2)",
+    "description": "Punishment for the mischief described in section 437 committed by fire or explosive substance",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "439",
+    "bns_section": "328",
+    "description": "Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "440",
+    "bns_section": "324(6)",
+    "description": "Mischief committed after preparation made for causing death or hurt",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "441",
+    "bns_section": "329",
+    "description": "Criminal trespass",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "442",
+    "bns_section": "329(2)",
+    "description": "House-trespass",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "443",
+    "bns_section": "330",
+    "description": "Lurking house-trespass",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "445",
+    "bns_section": "330(2)",
+    "description": "House-breaking",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "447",
+    "bns_section": "329(3)",
+    "description": "Punishment for criminal trespass",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "448",
+    "bns_section": "329(4)",
+    "description": "Punishment for house-trespass",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "449",
+    "bns_section": "332",
+    "description": "House-trespass in order to commit offence punishable with death",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "450",
+    "bns_section": "332(b)",
+    "description": "House-trespass in order to commit offence punishable with imprisonment for life",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "451",
+    "bns_section": "332(c)",
+    "description": "House-trespass in order to commit offence punishable with imprisonment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "452",
+    "bns_section": "333",
+    "description": "House-trespass after preparation for hurt, assault or wrongful restraint",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "453",
+    "bns_section": "331",
+    "description": "Punishment for lurking house-trespass or house-breaking",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "454",
+    "bns_section": "331(3)",
+    "description": "Lurking house-trespass or house-breaking in order to commit offence punishable with imprisonment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "455",
+    "bns_section": "331(5)",
+    "description": "Lurking house-trespass or house-breaking after preparation for hurt, assault or wrongful restraint",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "456",
+    "bns_section": "331(2)",
+    "description": "Punishment for lurking house-trespass or house-breaking by night",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "457",
+    "bns_section": "331(4)",
+    "description": "Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "458",
+    "bns_section": "331(6)",
+    "description": "Lurking house-trespass or house-breaking by night after preparation for hurt, assault, or wrongful restraint",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "459",
+    "bns_section": "331(7)",
+    "description": "Grievous hurt caused whilst committing lurking house-trespass or house-breaking",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "460",
+    "bns_section": "331(8)",
+    "description": "All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "461",
+    "bns_section": "334",
+    "description": "Dishonestly breaking open receptacle containing property",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "462",
+    "bns_section": "334(2)",
+    "description": "Punishment for same offence when committed by person entrusted with custody",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "463",
+    "bns_section": "336",
+    "description": "Forgery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "464",
+    "bns_section": "335",
+    "description": "Making a false document",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "465",
+    "bns_section": "336(2)",
+    "description": "Punishment for forgery",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "466",
+    "bns_section": "337",
+    "description": "Forgery of record of Court or of public register, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "467",
+    "bns_section": "338",
+    "description": "Forgery of valuable security, will, etc",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "468",
+    "bns_section": "336(3)",
+    "description": "Forgery for purpose of cheating",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "469",
+    "bns_section": "336(4)",
+    "description": "Forgery for purpose of harming reputation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "470",
+    "bns_section": "340",
+    "description": "Forged document or electronic record",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "471",
+    "bns_section": "340(2)",
+    "description": "Using as genuine a forged document or electronic record",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "472",
+    "bns_section": "341",
+    "description": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 467",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "473",
+    "bns_section": "341(2)",
+    "description": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable otherwise",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "474",
+    "bns_section": "339",
+    "description": "Having possession of document described in section 466 or 467, knowing it to be forged and intending to use it genuine",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "475",
+    "bns_section": "342",
+    "description": "Counterfeiting device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "476",
+    "bns_section": "342(2)",
+    "description": "Counterfeiting device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "477",
+    "bns_section": "343",
+    "description": "Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "477A",
+    "bns_section": "344",
+    "description": "Falsification of accounts",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "479",
+    "bns_section": "345",
+    "description": "Property mark",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "481",
+    "bns_section": "345(2)",
+    "description": "Using a false property mark",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "482",
+    "bns_section": "345(3)",
+    "description": "Punishment for using a false property mark",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "483",
+    "bns_section": "347",
+    "description": "Counterfeiting a property mark used by another",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "484",
+    "bns_section": "347(2)",
+    "description": "Counterfeiting a mark used by a public servant",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "485",
+    "bns_section": "348",
+    "description": "Making or possession of any instrument for counterfeiting a property mark",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "486",
+    "bns_section": "349",
+    "description": "Selling goods marked with a counterfeit property mark",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "487",
+    "bns_section": "350",
+    "description": "Making a false mark upon any receptacle containing goods",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "488",
+    "bns_section": "350(2)",
+    "description": "Punishment for making use of any such false mark",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "489",
+    "bns_section": "346",
+    "description": "Tampering with property mark with intent to cause injury",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "491",
+    "bns_section": "357",
+    "description": "Breach of contract to attend on and supply wants of helpless person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "499",
+    "bns_section": "356",
+    "description": "Defamation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "500",
+    "bns_section": "356(2)",
+    "description": "Punishment for defamation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "501",
+    "bns_section": "356(3)",
+    "description": "Printing or engraving matter known to be defamatory",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "502",
+    "bns_section": "356(4)",
+    "description": "Sale of printed or engraved substance containing defamatory matter",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "503",
+    "bns_section": "351",
+    "description": "Criminal intimidation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "504",
+    "bns_section": "352",
+    "description": "Intentional insult with intent to provoke breach of the peace",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "505",
+    "bns_section": "353",
+    "description": "Statements conducing to public mischief",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "506",
+    "bns_section": "351(2)",
+    "description": "Punishment for criminal intimidation",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "507",
+    "bns_section": "351(4)",
+    "description": "Criminal intimidation by an anonymous communication",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "508",
+    "bns_section": "354",
+    "description": "Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "510",
+    "bns_section": "355",
+    "description": "Misconduct in public by a drunken person",
+    "source": "ncrb.gov.in (official)"
+  },
+  {
+    "ipc_section": "511",
+    "bns_section": "62",
+    "description": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+    "source": "ncrb.gov.in (official)"
+  }
+]
