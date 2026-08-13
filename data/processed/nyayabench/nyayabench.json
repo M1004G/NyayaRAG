@@ -1,0 +1,3168 @@
+[
+  {
+    "item_id": "nb_stat_0313_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Theft by clerk or servant of property in possession of master?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 306",
+    "gold_evidence_ids": [
+      "BNS-306"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0324_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Dacoity?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 310",
+    "gold_evidence_ids": [
+      "BNS-310"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0178_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Sale of drug as a different drug or preparation?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 278",
+    "gold_evidence_ids": [
+      "BNS-278"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0249_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Causing grievous hurt by act endangering life or personal safety of others?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 125(b)",
+    "gold_evidence_ids": [
+      "BNS-125(b)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0139_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: �Movable property�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(21)",
+    "gold_evidence_ids": [
+      "BNS-2(21)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0053_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment for rioting?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 191(2)",
+    "gold_evidence_ids": [
+      "BNS-191(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0290_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Wrongfully concealing or keeping in confinement, kidnapped or abducted person?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 142",
+    "gold_evidence_ids": [
+      "BNS-142"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0176_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Adulteration of drugs?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 276",
+    "gold_evidence_ids": [
+      "BNS-276"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0317_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Putting person in fear of injury in order to commit extortion?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 308(3)",
+    "gold_evidence_ids": [
+      "BNS-308(3)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0020_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Abetting commission of offence by the public or by more than ten persons?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 57",
+    "gold_evidence_ids": [
+      "BNS-57"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0116_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: �Court of Justice�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(5)",
+    "gold_evidence_ids": [
+      "BNS-2(5)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0125_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Fraudulently suffering decree for sum not due?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 245",
+    "gold_evidence_ids": [
+      "BNS-245"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0406_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Forgery for purpose of harming reputation?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 336(4)",
+    "gold_evidence_ids": [
+      "BNS-336(4)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0244_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Voluntarily causing grievous hurt to deter public servant from his duty?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 121(2)",
+    "gold_evidence_ids": [
+      "BNS-121(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0156_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Making or selling instrument for counterfeiting coin.234. Making or selling instrument for counterfeiting Indian coin.235. Possession of instrument or material for the purpose of using the same for counterfeiting coin.256. Having possession of instrument or material for counterfeiting Government stamp.257. Making or selling instrument for counterfeiting Government stamp.489D. Making or possessing instruments or materials for forging or counterfeiting currency notes or bank-notes?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 181",
+    "gold_evidence_ids": [
+      "BNS-181"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0126_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Dishonesty making false claim in Court?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 246",
+    "gold_evidence_ids": [
+      "BNS-246"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0472_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Act done by a person bound, or by mistake of fact believing himself bound, by law?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 14",
+    "gold_evidence_ids": [
+      "BNS-14"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0180_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Making atmosphere noxious to health?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 280",
+    "gold_evidence_ids": [
+      "BNS-280"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0179_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Fouling water of public spring or reservoir?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 279",
+    "gold_evidence_ids": [
+      "BNS-279"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0175_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Sale of noxious food or drink?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 275",
+    "gold_evidence_ids": [
+      "BNS-275"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0061_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Imputations, assertions prejudicial to national integration?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 197",
+    "gold_evidence_ids": [
+      "BNS-197"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0407_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: �Animal�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(2)",
+    "gold_evidence_ids": [
+      "BNS-2(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0486_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Act done in good faith for benefit of child or insane person, by or by consent of guardian?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 27",
+    "gold_evidence_ids": [
+      "BNS-27"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0475_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Act done by a person justified, or by mistake of fact believing himself, justified, by law?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 17",
+    "gold_evidence_ids": [
+      "BNS-17"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0208_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Murder?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 101",
+    "gold_evidence_ids": [
+      "BNS-101"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0352_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment for cheating?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 318(2)",
+    "gold_evidence_ids": [
+      "BNS-318(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0052_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Rioting?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 191",
+    "gold_evidence_ids": [
+      "BNS-191"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0258_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Wrongful confinement in secret?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 127(6)",
+    "gold_evidence_ids": [
+      "BNS-127(6)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0376_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: �Injury�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(14)",
+    "gold_evidence_ids": [
+      "BNS-2(14)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0478_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Act likely to cause harm, but done without criminal intent, and to prevent other harm?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 19",
+    "gold_evidence_ids": [
+      "BNS-19"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0152_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Personation of a juror or assessor?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 268",
+    "gold_evidence_ids": [
+      "BNS-268"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0026_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment of criminal conspiracy?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 61(2)",
+    "gold_evidence_ids": [
+      "BNS-61(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0344_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Criminal breach of trust by public servant, or by banker, merchant or agent?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 316(5)",
+    "gold_evidence_ids": [
+      "BNS-316(5)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0378_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Criminal trespass?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 329",
+    "gold_evidence_ids": [
+      "BNS-329"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0321_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Putting person in fear or accusation of offence, in order to commit extortion?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 308(6)",
+    "gold_evidence_ids": [
+      "BNS-308(6)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0133_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Taking gift to help to recover stolen property, etc?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 252",
+    "gold_evidence_ids": [
+      "BNS-252"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0229_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Grievous hurt?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 116",
+    "gold_evidence_ids": [
+      "BNS-116"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0452_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: �Harbour�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(13)",
+    "gold_evidence_ids": [
+      "BNS-2(13)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0382_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment for criminal trespass?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 329(3)",
+    "gold_evidence_ids": [
+      "BNS-329(3)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0246_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Voluntarily causing grievous hurt on provocation?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 122(2)",
+    "gold_evidence_ids": [
+      "BNS-122(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0009_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Abettor?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 46",
+    "gold_evidence_ids": [
+      "BNS-46"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0034_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Receiving property taken by war or depredation mentioned in sections 125 and 126?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 155",
+    "gold_evidence_ids": [
+      "BNS-155"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0314_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 307",
+    "gold_evidence_ids": [
+      "BNS-307"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0384_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: House-trespass in order to commit offence punishable with death?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 332",
+    "gold_evidence_ids": [
+      "BNS-332"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0196_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Sale, etc., of obscene books, etc?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 294",
+    "gold_evidence_ids": [
+      "BNS-294"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0241_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Voluntarily causing hurt to extort confession, or to compel restoration of property?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 120(1)",
+    "gold_evidence_ids": [
+      "BNS-120(1)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0059_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Wantonly giving provocation with intent to cause riot�if rioting be committed; if not committed?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 192",
+    "gold_evidence_ids": [
+      "BNS-192"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0136_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 255",
+    "gold_evidence_ids": [
+      "BNS-255"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0484_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Act not intended and not known to be likely to cause death or grievous hurt, done by consent?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 25",
+    "gold_evidence_ids": [
+      "BNS-25"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0047_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Wearing garb or carrying token used by soldier, sailor or airman?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 168",
+    "gold_evidence_ids": [
+      "BNS-168"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0464_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Termination of imprisonment on payment of proportional part of fine?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 8(6)(b)",
+    "gold_evidence_ids": [
+      "BNS-8(6)(b)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0005_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: When such right extends to causing any harm other than death?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 42",
+    "gold_evidence_ids": [
+      "BNS-42"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0265_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment for assault or criminal force otherwise than on grave provocation?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 131",
+    "gold_evidence_ids": [
+      "BNS-131"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0204_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Uttering words, etc., with deliberate intent to wound religious feelings of any person?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 302",
+    "gold_evidence_ids": [
+      "BNS-302"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0184_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Exhibition of false light, mark or buoy?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 283",
+    "gold_evidence_ids": [
+      "BNS-283"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0014_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Liability of abettor when one act abetted and different act done?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 51",
+    "gold_evidence_ids": [
+      "BNS-51"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0048_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Unlawful assembly?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 189",
+    "gold_evidence_ids": [
+      "BNS-189"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0377_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Mischief committed after preparation made for causing death or hurt?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 324(6)",
+    "gold_evidence_ids": [
+      "BNS-324(6)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0287_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Procuration of minor girl?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 96",
+    "gold_evidence_ids": [
+      "BNS-96"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0252_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Wrongful confinement?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 127",
+    "gold_evidence_ids": [
+      "BNS-127"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0055_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Every member of unlawful assembly guilty of offence committed in prosecution of common object?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 190",
+    "gold_evidence_ids": [
+      "BNS-190"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0448_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: �Oath�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(23)",
+    "gold_evidence_ids": [
+      "BNS-2(23)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0054_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Rioting, armed with deadly weapon?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 191(3)",
+    "gold_evidence_ids": [
+      "BNS-191(3)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0062_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Owner or occupier of land on which an unlawful assembly is held?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 193",
+    "gold_evidence_ids": [
+      "BNS-193"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0199_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Keeping lottery office?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 297",
+    "gold_evidence_ids": [
+      "BNS-297"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0338_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Dishonest misappropriation of property?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 314",
+    "gold_evidence_ids": [
+      "BNS-314"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0454_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Commutation of sentence of death.55. Commutation of sentence of imprisonment for life?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 5",
+    "gold_evidence_ids": [
+      "BNS-5"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0415_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 343",
+    "gold_evidence_ids": [
+      "BNS-343"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0068_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Public servant disobeying law, with intent to cause injury to any person?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 198",
+    "gold_evidence_ids": [
+      "BNS-198"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0030_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Concealing with intent to facilitate design to wage war?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 150",
+    "gold_evidence_ids": [
+      "BNS-150"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0363_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Mischief causing damage to the amount of fifty rupees?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 324(4)",
+    "gold_evidence_ids": [
+      "BNS-324(4)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0392_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment for lurking house-trespass or house-breaking by night?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 331(2)",
+    "gold_evidence_ids": [
+      "BNS-331(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0144_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Resistance or obstruction by a person to his lawful apprehension?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 262",
+    "gold_evidence_ids": [
+      "BNS-262"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0093_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Refusing to sign statement?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 215",
+    "gold_evidence_ids": [
+      "BNS-215"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0462_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Imprisonment for non-payment of fine, when offence punishable with fine only?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 8(5)",
+    "gold_evidence_ids": [
+      "BNS-8(5)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0465_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Sense of expression once explained?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 3(2)",
+    "gold_evidence_ids": [
+      "BNS-3(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0300_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment for rape?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 64",
+    "gold_evidence_ids": [
+      "BNS-64"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0227_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Hurt?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 114",
+    "gold_evidence_ids": [
+      "BNS-114"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0481_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Act of a person of unsound mind?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 22",
+    "gold_evidence_ids": [
+      "BNS-22"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0218_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Attempt to commit culpable homicide?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 110",
+    "gold_evidence_ids": [
+      "BNS-110"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0330_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Robbery, or dacoity, with attempt to cause death or grievous hurt?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 311",
+    "gold_evidence_ids": [
+      "BNS-311"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0274_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Assault or criminal force in attempt wrongfully to confine a person?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 135",
+    "gold_evidence_ids": [
+      "BNS-135"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0215_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Abetment of suicide of child or insane person?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 107",
+    "gold_evidence_ids": [
+      "BNS-107"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0278_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Kidnapping from India?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 137(1)(a)",
+    "gold_evidence_ids": [
+      "BNS-137(1)(a)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0279_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Kidnapping from lawful guardianship?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 137(1)(b)",
+    "gold_evidence_ids": [
+      "BNS-137(1)(b)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0426_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Punishment for making use of any such false mark?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 350(2)",
+    "gold_evidence_ids": [
+      "BNS-350(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0177_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Sale of adulterated drugs?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 277",
+    "gold_evidence_ids": [
+      "BNS-277"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0404_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Forgery of valuable security, will, etc?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 338",
+    "gold_evidence_ids": [
+      "BNS-338"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0205_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Culpable homicide?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 100",
+    "gold_evidence_ids": [
+      "BNS-100"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0166_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Using Government stamp known to have been before used?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 184",
+    "gold_evidence_ids": [
+      "BNS-184"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0006_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Commencement and continuance of the right of private defence of property?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 43",
+    "gold_evidence_ids": [
+      "BNS-43"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0109_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 231",
+    "gold_evidence_ids": [
+      "BNS-231"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0288_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Importation of girl from foreign country?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 141",
+    "gold_evidence_ids": [
+      "BNS-141"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0370_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Mischief by destroying or moving, etc., a land-mark fixed by public authority?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 326(e)",
+    "gold_evidence_ids": [
+      "BNS-326(e)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0311_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Persons concerned in criminal act may be guilty of different offences?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 3(9)",
+    "gold_evidence_ids": [
+      "BNS-3(9)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0220_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Causing miscarriage?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 88",
+    "gold_evidence_ids": [
+      "BNS-88"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0094_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 216",
+    "gold_evidence_ids": [
+      "BNS-216"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0315_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Extortion?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 308",
+    "gold_evidence_ids": [
+      "BNS-308"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0164_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: �Reason to believe�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(29)",
+    "gold_evidence_ids": [
+      "BNS-2(29)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0135_post_stat",
+    "slice": "statutory_qa",
+    "question": "What is the applicable law for: Penalty for harbouring robbers or dacoits?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 254",
+    "gold_evidence_ids": [
+      "BNS-254"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_prec_SC-2018-0142",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in State of Maharashtra v. Ramesh Kumar?",
+    "query_date": "2018-03-13",
+    "gold_answer": "Conviction under Section 302 IPC upheld. Appeal dismissed.",
+    "gold_evidence_ids": [
+      "SC-2018-0142::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2015-0087",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Suresh Yadav v. State of Bihar?",
+    "query_date": "2015-07-23",
+    "gold_answer": "Conviction altered from Section 302 to Section 304 Part I IPC. Sentence modified.",
+    "gold_evidence_ids": [
+      "SC-2015-0087::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2021-0203",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in State of Maharashtra v. Ramesh Kumar (Review)?",
+    "query_date": "2021-09-06",
+    "gold_answer": "Conviction under Section 302 IPC set aside; conviction substituted under Section 304 Part II IPC.",
+    "gold_evidence_ids": [
+      "SC-2021-0203::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2019-0311",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Anita Verma v. State of Delhi?",
+    "query_date": "2019-11-19",
+    "gold_answer": "Conviction under Section 420 IPC upheld.",
+    "gold_evidence_ids": [
+      "SC-2019-0311::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_DEL-HC-2020-0455",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Vikram Singh v. State (NCT of Delhi)?",
+    "query_date": "2020-02-15",
+    "gold_answer": "Proceedings under Section 420 IPC quashed.",
+    "gold_evidence_ids": [
+      "DEL-HC-2020-0455::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2022-0088",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Rajiv Malhotra v. Union of India?",
+    "query_date": "2022-05-01",
+    "gold_answer": "Charges under Section 124A IPC quashed. Petitioner discharged.",
+    "gold_evidence_ids": [
+      "SC-2022-0088::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2024-0512",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in State of Uttar Pradesh v. Faizal Ahmed?",
+    "query_date": "2024-09-16",
+    "gold_answer": "Conviction under Section 103(1) BNS upheld.",
+    "gold_evidence_ids": [
+      "SC-2024-0512::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2024-0601",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Meera Joshi v. State of Karnataka?",
+    "query_date": "2024-11-03",
+    "gold_answer": "Conviction under Section 318(4) BNS upheld.",
+    "gold_evidence_ids": [
+      "SC-2024-0601::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_KAR-HC-2025-0077",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Nandini Rao v. State of Karnataka?",
+    "query_date": "2025-03-20",
+    "gold_answer": "Proceedings under Section 318(4) BNS quashed.",
+    "gold_evidence_ids": [
+      "KAR-HC-2025-0077::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2010-0044",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Ghanshyam Das v. State of Rajasthan?",
+    "query_date": "2010-05-07",
+    "gold_answer": "Conviction under Section 376 IPC upheld.",
+    "gold_evidence_ids": [
+      "SC-2010-0044::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2023-0290",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in State of Punjab v. Harjit Singh?",
+    "query_date": "2023-06-09",
+    "gold_answer": "Conviction under Section 376 IPC upheld.",
+    "gold_evidence_ids": [
+      "SC-2023-0290::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2017-0159",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Iqbal Ansari v. State of West Bengal?",
+    "query_date": "2017-10-12",
+    "gold_answer": "Conviction under Section 354 IPC reversed. Accused acquitted.",
+    "gold_evidence_ids": [
+      "SC-2017-0159::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2013-0021",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Balwant Rao v. State of Madhya Pradesh?",
+    "query_date": "2013-01-30",
+    "gold_answer": "Conviction under Sections 304B and 498A IPC upheld.",
+    "gold_evidence_ids": [
+      "SC-2013-0021::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2016-0233",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Prakash Chandra v. State of Haryana?",
+    "query_date": "2016-08-20",
+    "gold_answer": "Conviction under Section 306 IPC set aside for lack of proximate instigation; conviction under Section 498A IPC (cruelty) maintained.",
+    "gold_evidence_ids": [
+      "SC-2016-0233::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2025-0044",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Deepika Nair v. State of Kerala?",
+    "query_date": "2025-02-28",
+    "gold_answer": "Conviction under Section 108 BNS set aside for lack of proximate instigation; conviction under Section 85 BNS (cruelty) maintained.",
+    "gold_evidence_ids": [
+      "SC-2025-0044::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_BOM-HC-2021-0398",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Arjun Deshmukh v. State of Maharashtra?",
+    "query_date": "2021-12-04",
+    "gold_answer": "Conviction under Section 379 IPC upheld.",
+    "gold_evidence_ids": [
+      "BOM-HC-2021-0398::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2012-0176",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Yusuf Khan v. State of Gujarat?",
+    "query_date": "2012-06-15",
+    "gold_answer": "Conviction under Section 302 read with Section 34 IPC upheld for all accused.",
+    "gold_evidence_ids": [
+      "SC-2012-0176::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_SC-2014-0099",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Nagesh Patil v. State of Karnataka?",
+    "query_date": "2014-04-03",
+    "gold_answer": "Conviction under Section 120B IPC upheld.",
+    "gold_evidence_ids": [
+      "SC-2014-0099::HOLDING::0"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_stat_0408_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Forged document or electronic record?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 470",
+    "gold_evidence_ids": [
+      "IPC-470"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0416_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Falsification of accounts?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 344",
+    "gold_evidence_ids": [
+      "BNS-344"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0241_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Voluntarily causing hurt to extort confession, or to compel restoration of property?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 330",
+    "gold_evidence_ids": [
+      "IPC-330"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0353_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 418",
+    "gold_evidence_ids": [
+      "IPC-418"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0397_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 331(8)",
+    "gold_evidence_ids": [
+      "BNS-331(8)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0276_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Kidnapping?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 359",
+    "gold_evidence_ids": [
+      "IPC-359"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0337_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Assembling for purpose of committing dacoity?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 402",
+    "gold_evidence_ids": [
+      "IPC-402"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0006_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Commencement and continuance of the right of private defence of property?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 105",
+    "gold_evidence_ids": [
+      "IPC-105"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0409_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Using as genuine a forged document or electronic record?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 340(2)",
+    "gold_evidence_ids": [
+      "BNS-340(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0316_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for extortion?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 308(2)",
+    "gold_evidence_ids": [
+      "BNS-308(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0175_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Sale of noxious food or drink?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 275",
+    "gold_evidence_ids": [
+      "BNS-275"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0205_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Culpable homicide?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 299",
+    "gold_evidence_ids": [
+      "IPC-299"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0233_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Voluntarily causing hurt by dangerous weapons or means?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 118",
+    "gold_evidence_ids": [
+      "BNS-118"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0366_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Mischief by injury to works of irrigation or by wrongfully diverting water?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 430",
+    "gold_evidence_ids": [
+      "IPC-430"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0145_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Resistance or obstruction to lawful apprehension of another person?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 263",
+    "gold_evidence_ids": [
+      "BNS-263"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0050_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Joining unlawful assembly armed with deadly weapon?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 144",
+    "gold_evidence_ids": [
+      "IPC-144"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0252_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Wrongful confinement?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 127",
+    "gold_evidence_ids": [
+      "BNS-127"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0235_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Voluntarily causing grievous hurt by dangerous weapons or means?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 118(2)",
+    "gold_evidence_ids": [
+      "BNS-118(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0140_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Commitment for trial or confinement by person having authority who knows that he is acting contrary to law?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 220",
+    "gold_evidence_ids": [
+      "IPC-220"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0293_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Trafficking of person?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 370",
+    "gold_evidence_ids": [
+      "IPC-370"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0149_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Intentional insult or interruption to public servant sitting in judicial proceeding?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 228",
+    "gold_evidence_ids": [
+      "IPC-228"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0444_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for criminal intimidation?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 351(2)",
+    "gold_evidence_ids": [
+      "BNS-351(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0394_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Lurking house-trespass or house-breaking by night after preparation for hurt, assault, or wrongful restraint?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 331(6)",
+    "gold_evidence_ids": [
+      "BNS-331(6)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0350_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Assisting in concealment of stolen property?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 414",
+    "gold_evidence_ids": [
+      "IPC-414"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0304_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Sexual intercourse by husband upon his wife during separation?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 376B",
+    "gold_evidence_ids": [
+      "IPC-376B"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0024_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Concealing design to commit offence punishable with imprisonment?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 60",
+    "gold_evidence_ids": [
+      "BNS-60"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0111_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Using evidence known to be false?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 233",
+    "gold_evidence_ids": [
+      "BNS-233"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0126_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Dishonesty making false claim in Court?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 209",
+    "gold_evidence_ids": [
+      "IPC-209"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0181_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Rash driving or riding on a public way?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 281",
+    "gold_evidence_ids": [
+      "BNS-281"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0360_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Dishonest or fraudulent removal or concealment of property?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 323",
+    "gold_evidence_ids": [
+      "BNS-323"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0373_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 437",
+    "gold_evidence_ids": [
+      "IPC-437"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0467_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Limit of punishment of offence made up of several offences?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 9",
+    "gold_evidence_ids": [
+      "BNS-9"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0132_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Offering gift or restoration of property in consideration of screening offender?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 251",
+    "gold_evidence_ids": [
+      "BNS-251"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0280_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Abduction?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 362",
+    "gold_evidence_ids": [
+      "IPC-362"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0086_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Non-attendance in obedience to an order from public servant?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 174",
+    "gold_evidence_ids": [
+      "IPC-174"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0235_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Voluntarily causing grievous hurt by dangerous weapons or means?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 326",
+    "gold_evidence_ids": [
+      "IPC-326"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0094_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 216",
+    "gold_evidence_ids": [
+      "BNS-216"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0362_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for mischief?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 426",
+    "gold_evidence_ids": [
+      "IPC-426"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0257_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Wrongful confinement of person for whose liberation writ has been issued?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 345",
+    "gold_evidence_ids": [
+      "IPC-345"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0302_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for causing death or resulting in persistent vegetative state of victim?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 66",
+    "gold_evidence_ids": [
+      "BNS-66"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0350_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Assisting in concealment of stolen property?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 317(5)",
+    "gold_evidence_ids": [
+      "BNS-317(5)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0220_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Causing miscarriage?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 312",
+    "gold_evidence_ids": [
+      "IPC-312"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0243_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Voluntarily causing hurt to deter public servant from his duty?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 332",
+    "gold_evidence_ids": [
+      "IPC-332"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0240_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 329",
+    "gold_evidence_ids": [
+      "IPC-329"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0015_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Abettor when liable to cumulative punishment for act abetted and for act done?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 52",
+    "gold_evidence_ids": [
+      "BNS-52"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0200_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Injuring or defiling place of worship, with intent to insult the religion of any class?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 298",
+    "gold_evidence_ids": [
+      "BNS-298"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0057_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 151",
+    "gold_evidence_ids": [
+      "IPC-151"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0322_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: �Voluntarily�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(33)",
+    "gold_evidence_ids": [
+      "BNS-2(33)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0319_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Putting person in fear of death or of grievous hurt, in order to commit extortion?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 308(4)",
+    "gold_evidence_ids": [
+      "BNS-308(4)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0052_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Rioting?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 146",
+    "gold_evidence_ids": [
+      "IPC-146"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0373_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 327",
+    "gold_evidence_ids": [
+      "BNS-327"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0103_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: �Judge�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(16)",
+    "gold_evidence_ids": [
+      "BNS-2(16)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0130_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Harbouring offender?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 249",
+    "gold_evidence_ids": [
+      "BNS-249"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0359_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Dishonest or fraudulent execution of deed of transfer containing false statement of consideration?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 322",
+    "gold_evidence_ids": [
+      "BNS-322"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0483_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Offence requiring a particular intent or knowledge committed by one who is intoxicated?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 86",
+    "gold_evidence_ids": [
+      "IPC-86"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0351_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Cheating?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 318",
+    "gold_evidence_ids": [
+      "BNS-318"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0332_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Making preparation to commit dacoity?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 310(4)",
+    "gold_evidence_ids": [
+      "BNS-310(4)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0371_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 326(f)",
+    "gold_evidence_ids": [
+      "BNS-326(f)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0464_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Termination of imprisonment on payment of proportional part of fine?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 69",
+    "gold_evidence_ids": [
+      "IPC-69"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0099_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Obstructing public servant in discharge of public functions?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 221",
+    "gold_evidence_ids": [
+      "BNS-221"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0213_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Causing death by negligence?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 106",
+    "gold_evidence_ids": [
+      "BNS-106"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0210_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for murder?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 302",
+    "gold_evidence_ids": [
+      "IPC-302"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0323_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Robbery?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 390",
+    "gold_evidence_ids": [
+      "IPC-390"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0012_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: �Person�?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 11",
+    "gold_evidence_ids": [
+      "IPC-11"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0440_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Sale of printed or engraved substance containing defamatory matter?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 502",
+    "gold_evidence_ids": [
+      "IPC-502"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0014_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Liability of abettor when one act abetted and different act done?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 51",
+    "gold_evidence_ids": [
+      "BNS-51"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0170_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Negligent act likely to spread infection of disease dangerous to life?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 269",
+    "gold_evidence_ids": [
+      "IPC-269"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0363_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Mischief causing damage to the amount of fifty rupees?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 324(4)",
+    "gold_evidence_ids": [
+      "BNS-324(4)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0175_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Sale of noxious food or drink?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 273",
+    "gold_evidence_ids": [
+      "IPC-273"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0043_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Harbouring deserter?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 164",
+    "gold_evidence_ids": [
+      "BNS-164"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0311_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Persons concerned in criminal act may be guilty of different offences?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 38",
+    "gold_evidence_ids": [
+      "IPC-38"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0486_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Act done in good faith for benefit of child or insane person, by or by consent of guardian?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 27",
+    "gold_evidence_ids": [
+      "BNS-27"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0330_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Robbery, or dacoity, with attempt to cause death or grievous hurt?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 311",
+    "gold_evidence_ids": [
+      "BNS-311"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0423_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Making or possession of any instrument for counterfeiting a property mark?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 348",
+    "gold_evidence_ids": [
+      "BNS-348"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0402_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for forgery?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 465",
+    "gold_evidence_ids": [
+      "IPC-465"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0336_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for belonging to gang of thieves?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 313",
+    "gold_evidence_ids": [
+      "BNS-313"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0225_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Exposure and abandonment of child under twelve years, by parent or person having care of it?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 317",
+    "gold_evidence_ids": [
+      "IPC-317"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0198_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Obscene acts and songs?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 296",
+    "gold_evidence_ids": [
+      "BNS-296"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0319_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Putting person in fear of death or of grievous hurt, in order to commit extortion?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 387",
+    "gold_evidence_ids": [
+      "IPC-387"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0405_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Forgery for purpose of cheating?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 468",
+    "gold_evidence_ids": [
+      "IPC-468"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0118_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Causing disappearance of evidence of offence, or giving false information to screen offender?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 238",
+    "gold_evidence_ids": [
+      "BNS-238"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0078_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Undue influence at elections?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 171C",
+    "gold_evidence_ids": [
+      "IPC-171C"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0049_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 143",
+    "gold_evidence_ids": [
+      "IPC-143"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0182_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: �Counterfeit�?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 2(4)",
+    "gold_evidence_ids": [
+      "BNS-2(4)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0481_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Act of a person of unsound mind?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 22",
+    "gold_evidence_ids": [
+      "BNS-22"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0015_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Abettor when liable to cumulative punishment for act abetted and for act done?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 112",
+    "gold_evidence_ids": [
+      "IPC-112"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0442_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Intentional insult with intent to provoke breach of the peace?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 504",
+    "gold_evidence_ids": [
+      "IPC-504"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0119_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Intentional omission to give information of offence by person bound to inform?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 202",
+    "gold_evidence_ids": [
+      "IPC-202"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0061_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Imputations, assertions prejudicial to national integration?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 197",
+    "gold_evidence_ids": [
+      "BNS-197"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0428_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Making or using documents resembling currency-notes or bank-notes?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 182",
+    "gold_evidence_ids": [
+      "BNS-182"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0176_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Adulteration of drugs?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 276",
+    "gold_evidence_ids": [
+      "BNS-276"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0387_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: House-trespass in order to commit offence punishable with imprisonment?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 332(c)",
+    "gold_evidence_ids": [
+      "BNS-332(c)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0154_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: �Coin� defined?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 178(2)",
+    "gold_evidence_ids": [
+      "BNS-178(2)"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0126_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Dishonesty making false claim in Court?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 246",
+    "gold_evidence_ids": [
+      "BNS-246"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0352_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Punishment for cheating?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 417",
+    "gold_evidence_ids": [
+      "IPC-417"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0363_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Mischief causing damage to the amount of fifty rupees?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 427",
+    "gold_evidence_ids": [
+      "IPC-427"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0159_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof.243. Possession of Indian coin by person who knew it to be counterfeit when he became possessed thereof.252. Possession of coin by person who knew it to be altered when he became possessed thereof.253. Possession of Indian coin by person who knew it to be altered when he became possessed thereof.259. Having possession of counterfeit Government stamp.489C. Possession of forged or counterfeit currency-notes or bank-notes?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 180",
+    "gold_evidence_ids": [
+      "BNS-180"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0191_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Negligent conduct with respect to pulling down or repairing buildings?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 288",
+    "gold_evidence_ids": [
+      "IPC-288"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0143_post",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Escape from confinement or custody negligently suffered by public servant?",
+    "query_date": "2025-07-01",
+    "gold_answer": "BNS Section 261",
+    "gold_evidence_ids": [
+      "BNS-261"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_stat_0439_pre",
+    "slice": "transition_qa",
+    "question": "What is the applicable law for: Printing or engraving matter known to be defamatory?",
+    "query_date": "2024-06-01",
+    "gold_answer": "IPC Section 501",
+    "gold_evidence_ids": [
+      "IPC-501"
+    ],
+    "applicable_era": "IPC",
+    "is_answerable": true,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_sec_IPC_999",
+    "slice": "trap_qa",
+    "question": "What is the punishment prescribed under Section 999 of the IPC?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such section exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_sec_IPC_512",
+    "slice": "trap_qa",
+    "question": "What is the punishment prescribed under Section 512 of the IPC?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such section exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_sec_BNS_450",
+    "slice": "trap_qa",
+    "question": "What is the punishment prescribed under Section 450 of the BNS?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such section exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_sec_BNS_999A",
+    "slice": "trap_qa",
+    "question": "What is the punishment prescribed under Section 999A of the BNS?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such section exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_sec_CrPC_88B",
+    "slice": "trap_qa",
+    "question": "What is the punishment prescribed under Section 88B of the CrPC?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such section exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_case_5",
+    "slice": "trap_qa",
+    "question": "What did the Supreme Court hold in Rajendra Prasad v. Union Bank of Fiction (2021)?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such case exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_case_6",
+    "slice": "trap_qa",
+    "question": "What did the Supreme Court hold in Meenakshi Sundaram v. State of Neverland (2019)?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such case exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_trap_case_7",
+    "slice": "trap_qa",
+    "question": "What did the Supreme Court hold in Bharat Aggregates Ltd. v. Ghost Litigants Association (2023)?",
+    "query_date": "2025-01-01",
+    "gold_answer": "No such case exists in the corpus; correct behavior is a grounded refusal.",
+    "gold_evidence_ids": [],
+    "applicable_era": "",
+    "is_answerable": false,
+    "validity_flags": {}
+  },
+  {
+    "item_id": "nb_multihop_SC-2018-0142",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in State of Maharashtra v. Ramesh Kumar, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 101 (successor to IPC Section 300); the holding in State of Maharashtra v. Ramesh Kumar is no longer good law (overruled by SC-2021-0203 on 2021-09-05).",
+    "gold_evidence_ids": [
+      "BNS-101",
+      "SC-2018-0142::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": false
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2015-0087",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Suresh Yadav v. State of Bihar, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 101 (successor to IPC Section 300); the holding in Suresh Yadav v. State of Bihar is still good law.",
+    "gold_evidence_ids": [
+      "BNS-101",
+      "SC-2015-0087::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2021-0203",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in State of Maharashtra v. Ramesh Kumar (Review), and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 101 (successor to IPC Section 300); the holding in State of Maharashtra v. Ramesh Kumar (Review) is still good law.",
+    "gold_evidence_ids": [
+      "BNS-101",
+      "SC-2021-0203::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2019-0311",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Anita Verma v. State of Delhi, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 318(4) (successor to IPC Section 420); the holding in Anita Verma v. State of Delhi is still good law.",
+    "gold_evidence_ids": [
+      "BNS-318(4)",
+      "SC-2019-0311::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_DEL-HC-2020-0455",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Vikram Singh v. State (NCT of Delhi), and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 318(4) (successor to IPC Section 420); the holding in Vikram Singh v. State (NCT of Delhi) is still good law.",
+    "gold_evidence_ids": [
+      "BNS-318(4)",
+      "DEL-HC-2020-0455::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2010-0044",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Ghanshyam Das v. State of Rajasthan, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 63 (successor to IPC Section 375); the holding in Ghanshyam Das v. State of Rajasthan is still good law.",
+    "gold_evidence_ids": [
+      "BNS-63",
+      "SC-2010-0044::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2023-0290",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in State of Punjab v. Harjit Singh, and is that case's holding still good law?",
+    "query_date": "2025-06-07",
+    "gold_answer": "BNS Section 64 (successor to IPC Section 376); the holding in State of Punjab v. Harjit Singh is still good law.",
+    "gold_evidence_ids": [
+      "BNS-64",
+      "SC-2023-0290::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2017-0159",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Iqbal Ansari v. State of West Bengal, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 74 (successor to IPC Section 354); the holding in Iqbal Ansari v. State of West Bengal is still good law.",
+    "gold_evidence_ids": [
+      "BNS-74",
+      "SC-2017-0159::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2013-0021",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Balwant Rao v. State of Madhya Pradesh, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 80 (successor to IPC Section 304B); the holding in Balwant Rao v. State of Madhya Pradesh is still good law.",
+    "gold_evidence_ids": [
+      "BNS-80",
+      "SC-2013-0021::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2016-0233",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Prakash Chandra v. State of Haryana, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 108 (successor to IPC Section 306); the holding in Prakash Chandra v. State of Haryana is still good law.",
+    "gold_evidence_ids": [
+      "BNS-108",
+      "SC-2016-0233::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_BOM-HC-2021-0398",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Arjun Deshmukh v. State of Maharashtra, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 303(2) (successor to IPC Section 379); the holding in Arjun Deshmukh v. State of Maharashtra is still good law.",
+    "gold_evidence_ids": [
+      "BNS-303(2)",
+      "BOM-HC-2021-0398::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2012-0176",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Yusuf Khan v. State of Gujarat, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 3(5) (successor to IPC Section 34); the holding in Yusuf Khan v. State of Gujarat is still good law.",
+    "gold_evidence_ids": [
+      "BNS-3(5)",
+      "SC-2012-0176::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_SC-2014-0099",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Nagesh Patil v. State of Karnataka, and is that case's holding still good law?",
+    "query_date": "2024-07-01",
+    "gold_answer": "BNS Section 61(2) (successor to IPC Section 120B); the holding in Nagesh Patil v. State of Karnataka is still good law.",
+    "gold_evidence_ids": [
+      "BNS-61(2)",
+      "SC-2014-0099::HOLDING::0"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  }
+]
