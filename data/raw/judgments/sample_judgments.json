@@ -1,0 +1,195 @@
+{
+  "_NOTE": "SYNTHETIC SAMPLE DATA, 18 records. Not real judgments -- stands in for the real 5,000-8,000 judgment corpus (open judgment datasets / eCourts exports) the proposal specifies, which this sandbox cannot download (no network access to those hosts). ingest_judgments.py reads any file matching this exact schema, so point JUDGMENTS_RAW_DIR at a real export and the rest of the pipeline (segmentation, citation extraction, overruling graph, indexing, benchmark generation) runs unchanged on real data.",
+  "_SCHEMA": {
+    "judgment_id": "string, unique, e.g. court-year-serial",
+    "case_name": "string, 'Party A v. Party B'",
+    "court": "one of: Supreme Court of India, <Name> High Court",
+    "date": "ISO date -- decision date",
+    "bench": "list of judge names",
+    "sections_cited": "list of {statute: IPC|BNS|CrPC|BNSS|Constitution, section_no: string}",
+    "text": "full judgment text with rhetorical headings (FACTS:/ISSUE:/REASONING:/HOLDING:) for segment_judgments.py to split on",
+    "disposal": "one of: allowed, dismissed, partly allowed, remanded"
+  },
+  "judgments": [
+    {
+      "judgment_id": "SC-2018-0142",
+      "case_name": "State of Maharashtra v. Ramesh Kumar",
+      "court": "Supreme Court of India",
+      "date": "2018-03-12",
+      "bench": ["Justice A. Sharma", "Justice R. Nair"],
+      "sections_cited": [{"statute": "IPC", "section_no": "300"}, {"statute": "IPC", "section_no": "302"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The accused was convicted by the trial court for the murder of the deceased following a dispute over land boundaries. The prosecution relied on eyewitness testimony and recovery of the weapon.\nISSUE: Whether the act falls within the definition of murder under Section 300 IPC or is covered by an exception reducing it to culpable homicide not amounting to murder.\nREASONING: The Court examined the four clauses of Section 300 IPC and held that a single blow delivered with a lethal weapon to a vital part of the body, absent grave and sudden provocation, satisfies the intention requirement under clause thirdly. The Court distinguished cases where injuries were inflicted in the heat of a sudden quarrel without premeditation.\nHOLDING: Conviction under Section 302 IPC upheld. Appeal dismissed."
+    },
+    {
+      "judgment_id": "SC-2015-0087",
+      "case_name": "Suresh Yadav v. State of Bihar",
+      "court": "Supreme Court of India",
+      "date": "2015-07-22",
+      "bench": ["Justice P. Iyer", "Justice K. Bose"],
+      "sections_cited": [{"statute": "IPC", "section_no": "300"}],
+      "disposal": "partly allowed",
+      "text": "FACTS: Following a sudden quarrel at a wedding function, the accused struck the deceased once with a wooden stick, resulting in death.\nISSUE: Whether a single blow struck in the heat of a sudden quarrel, without premeditation, falls within Exception 4 to Section 300 IPC.\nREASONING: The Court held that where the fight was sudden, unpremeditated, and the accused did not take undue advantage or act in a cruel manner, the case falls squarely within Exception 4 to Section 300 IPC, reducing the offence to culpable homicide not amounting to murder.\nHOLDING: Conviction altered from Section 302 to Section 304 Part I IPC. Sentence modified."
+    },
+    {
+      "judgment_id": "SC-2021-0203",
+      "case_name": "State of Maharashtra v. Ramesh Kumar (Review)",
+      "court": "Supreme Court of India",
+      "date": "2021-09-05",
+      "bench": ["Justice A. Sharma", "Justice V. Menon", "Justice D. Rao"],
+      "sections_cited": [{"statute": "IPC", "section_no": "300"}, {"statute": "IPC", "section_no": "302"}],
+      "disposal": "allowed",
+      "text": "FACTS: On review, additional forensic evidence was placed before a larger bench indicating the fatal injury was not consistent with a deliberate targeted blow but a reflexive strike during a scuffle.\nISSUE: Whether the earlier finding in State of Maharashtra v. Ramesh Kumar (2018) correctly characterised the mental element required under Section 300 IPC on these facts.\nREASONING: The larger bench held that the earlier decision failed to adequately weigh the absence of premeditation and that a single reflexive blow during a mutual scuffle, without evidence of intention to cause death or an injury sufficient in the ordinary course of nature to cause death, does not satisfy Section 300 IPC. The 2018 decision on this point is overruled.\nHOLDING: Conviction under Section 302 IPC set aside; conviction substituted under Section 304 Part II IPC."
+    },
+    {
+      "judgment_id": "SC-2019-0311",
+      "case_name": "Anita Verma v. State of Delhi",
+      "court": "Supreme Court of India",
+      "date": "2019-11-18",
+      "bench": ["Justice R. Nair", "Justice S. Gupta"],
+      "sections_cited": [{"statute": "IPC", "section_no": "420"}, {"statute": "IPC", "section_no": "415"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The accused induced the complainant to part with a sum of money on a false representation of being able to secure a government contract.\nISSUE: Whether the ingredients of cheating under Section 415 IPC, punishable under Section 420 IPC, are made out on these facts.\nREASONING: The Court reiterated that dishonest inducement at the very inception of the transaction, coupled with a false representation, is sufficient to constitute cheating under Section 415 IPC. Mere breach of a promise to perform in the future, without a dishonest intention from the outset, would not suffice, but the facts here showed the accused never had the capacity or intention to deliver the contract.\nHOLDING: Conviction under Section 420 IPC upheld."
+    },
+    {
+      "judgment_id": "DEL-HC-2020-0455",
+      "case_name": "Vikram Singh v. State (NCT of Delhi)",
+      "court": "Delhi High Court",
+      "date": "2020-02-14",
+      "bench": ["Justice N. Kapoor"],
+      "sections_cited": [{"statute": "IPC", "section_no": "420"}],
+      "disposal": "allowed",
+      "text": "FACTS: The complainant alleged the accused failed to repay a business loan as agreed.\nISSUE: Whether a mere failure to repay a loan, without more, amounts to cheating under Section 420 IPC.\nREASONING: Applying the principle in Anita Verma v. State of Delhi (2019), the Court held that a civil dispute over repayment does not, without evidence of dishonest inducement at inception, become a criminal offence. The complaint disclosed a purely civil wrong.\nHOLDING: Proceedings under Section 420 IPC quashed."
+    },
+    {
+      "judgment_id": "SC-2022-0088",
+      "case_name": "Rajiv Malhotra v. Union of India",
+      "court": "Supreme Court of India",
+      "date": "2022-04-30",
+      "bench": ["Justice V. Menon", "Justice D. Rao", "Justice T. Chandran"],
+      "sections_cited": [{"statute": "IPC", "section_no": "124A"}, {"statute": "Constitution", "section_no": "19(1)(a)"}],
+      "disposal": "allowed",
+      "text": "FACTS: The petitioner was charged under Section 124A IPC (sedition) for a public speech critical of a government policy.\nISSUE: Whether Section 124A IPC, as applied here, is consistent with the freedom of speech guaranteed under Article 19(1)(a) of the Constitution.\nREASONING: The Court held that mere criticism of government policy, without incitement to violence or public disorder, does not attract Section 124A IPC. Continued prosecution on these facts would have a chilling effect on protected speech.\nHOLDING: Charges under Section 124A IPC quashed. Petitioner discharged."
+    },
+    {
+      "judgment_id": "SC-2024-0512",
+      "case_name": "State of Uttar Pradesh v. Faizal Ahmed",
+      "court": "Supreme Court of India",
+      "date": "2024-09-15",
+      "bench": ["Justice T. Chandran", "Justice L. Fernandes"],
+      "sections_cited": [{"statute": "BNS", "section_no": "103(1)"}, {"statute": "BNS", "section_no": "101"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The offence occurred on 12 August 2024, after the Bharatiya Nyaya Sanhita, 2023 came into force. The accused fatally assaulted the deceased following a dispute over a shared water source.\nISSUE: Whether the ingredients of murder under Section 101 BNS, punishable under Section 103(1) BNS, are made out.\nREASONING: The Court applied the same intention framework previously developed under Section 300 IPC, noting that Section 101 BNS reproduces its substance without material change, and held that repeated blows to the head with a blunt object satisfy the requirement of intention to cause death.\nHOLDING: Conviction under Section 103(1) BNS upheld."
+    },
+    {
+      "judgment_id": "SC-2024-0601",
+      "case_name": "Meera Joshi v. State of Karnataka",
+      "court": "Supreme Court of India",
+      "date": "2024-11-02",
+      "bench": ["Justice L. Fernandes", "Justice A. Sharma"],
+      "sections_cited": [{"statute": "BNS", "section_no": "318(4)"}, {"statute": "BNS", "section_no": "316"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The accused induced the complainant to invest in a fictitious real-estate scheme, after 1 July 2024.\nISSUE: Whether the ingredients of cheating under Section 316 BNS, punishable under Section 318(4) BNS, are made out.\nREASONING: The Court held that the principles governing dishonest inducement at inception, as developed under the erstwhile Section 415/420 IPC in Anita Verma v. State of Delhi (2019), continue to apply under the corresponding Section 316/318 BNS provisions, since the substantive definition is materially unchanged.\nHOLDING: Conviction under Section 318(4) BNS upheld."
+    },
+    {
+      "judgment_id": "KAR-HC-2025-0077",
+      "case_name": "Nandini Rao v. State of Karnataka",
+      "court": "Karnataka High Court",
+      "date": "2025-03-19",
+      "bench": ["Justice H. Reddy"],
+      "sections_cited": [{"statute": "BNS", "section_no": "318(4)"}],
+      "disposal": "allowed",
+      "text": "FACTS: A dispute arose between business partners over delayed repayment of a working-capital advance, extended in early 2025.\nISSUE: Whether the facts disclose cheating under Section 318(4) BNS or a purely civil dispute over repayment.\nREASONING: Following Meera Joshi v. State of Karnataka (2024) and the underlying reasoning in Anita Verma v. State of Delhi (2019), the Court held that delay in repayment of a genuine commercial advance, without dishonest inducement at inception, does not amount to cheating.\nHOLDING: Proceedings under Section 318(4) BNS quashed."
+    },
+    {
+      "judgment_id": "SC-2010-0044",
+      "case_name": "Ghanshyam Das v. State of Rajasthan",
+      "court": "Supreme Court of India",
+      "date": "2010-05-06",
+      "bench": ["Justice M. Trivedi", "Justice B. Sen"],
+      "sections_cited": [{"statute": "IPC", "section_no": "375"}, {"statute": "IPC", "section_no": "376"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The accused was convicted under Section 376 IPC on the sole testimony of the prosecutrix, corroborated by medical evidence.\nISSUE: Whether conviction can rest on the sole testimony of the prosecutrix without independent corroboration.\nREASONING: The Court reaffirmed that the testimony of a rape survivor, if found to be reliable, trustworthy, and consistent, requires no independent corroboration as a matter of law, though corroboration may be sought as a matter of prudence in appropriate cases.\nHOLDING: Conviction under Section 376 IPC upheld."
+    },
+    {
+      "judgment_id": "SC-2023-0290",
+      "case_name": "State of Punjab v. Harjit Singh",
+      "court": "Supreme Court of India",
+      "date": "2023-06-08",
+      "bench": ["Justice D. Rao", "Justice S. Gupta"],
+      "sections_cited": [{"statute": "IPC", "section_no": "376"}],
+      "disposal": "dismissed",
+      "text": "FACTS: Conviction under Section 376 IPC was challenged on the ground that the prosecutrix's testimony was uncorroborated.\nISSUE: Whether the principle in Ghanshyam Das v. State of Rajasthan (2010) on sole-testimony convictions continues to apply.\nREASONING: The Court followed Ghanshyam Das v. State of Rajasthan (2010), holding that the principle that a reliable, trustworthy and consistent testimony of the survivor needs no corroboration remains good law and was not disturbed by any subsequent decision.\nHOLDING: Conviction under Section 376 IPC upheld."
+    },
+    {
+      "judgment_id": "SC-2017-0159",
+      "case_name": "Iqbal Ansari v. State of West Bengal",
+      "court": "Supreme Court of India",
+      "date": "2017-10-11",
+      "bench": ["Justice K. Bose", "Justice P. Iyer"],
+      "sections_cited": [{"statute": "IPC", "section_no": "354"}],
+      "disposal": "allowed",
+      "text": "FACTS: The accused was convicted under Section 354 IPC for outraging the modesty of a woman based on a single, ambiguous witness account.\nISSUE: Whether the evidence meets the threshold for conviction under Section 354 IPC.\nREASONING: The Court found the sole witness account materially inconsistent with the medical and circumstantial evidence, and held that a conviction cannot rest on evidence riddled with such inconsistencies.\nHOLDING: Conviction under Section 354 IPC reversed. Accused acquitted."
+    },
+    {
+      "judgment_id": "SC-2013-0021",
+      "case_name": "Balwant Rao v. State of Madhya Pradesh",
+      "court": "Supreme Court of India",
+      "date": "2013-01-29",
+      "bench": ["Justice M. Trivedi", "Justice A. Sharma"],
+      "sections_cited": [{"statute": "IPC", "section_no": "304B"}, {"statute": "IPC", "section_no": "498A"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The accused was convicted under Sections 304B and 498A IPC following the unnatural death of his wife within seven years of marriage, preceded by evidence of dowry harassment.\nISSUE: Whether the statutory presumption under Section 113B of the Indian Evidence Act, read with Section 304B IPC, was correctly applied.\nREASONING: The Court held that once cruelty or harassment for dowry soon before death is shown, the burden shifts to the accused to explain the death, which the accused failed to discharge.\nHOLDING: Conviction under Sections 304B and 498A IPC upheld."
+    },
+    {
+      "judgment_id": "SC-2016-0233",
+      "case_name": "Prakash Chandra v. State of Haryana",
+      "court": "Supreme Court of India",
+      "date": "2016-08-19",
+      "bench": ["Justice R. Nair", "Justice K. Bose"],
+      "sections_cited": [{"statute": "IPC", "section_no": "306"}],
+      "disposal": "partly allowed",
+      "text": "FACTS: The accused was convicted under Section 306 IPC for abetment of suicide based on a general allegation of harassment, without any proximate act shown close to the time of death.\nISSUE: Whether abetment under Section 306 IPC requires a proximate, direct act or instigation close in time to the suicide.\nREASONING: The Court held that a general allegation of harassment, without a specific act of instigation proximate to the death, is insufficient to sustain a conviction for abetment of suicide, distinguishing cases involving continuous and specific cruelty.\nHOLDING: Conviction under Section 306 IPC set aside for lack of proximate instigation; conviction under Section 498A IPC (cruelty) maintained."
+    },
+    {
+      "judgment_id": "SC-2025-0044",
+      "case_name": "Deepika Nair v. State of Kerala",
+      "court": "Supreme Court of India",
+      "date": "2025-02-27",
+      "bench": ["Justice A. Sharma", "Justice T. Chandran"],
+      "sections_cited": [{"statute": "BNS", "section_no": "108"}, {"statute": "BNS", "section_no": "85"}],
+      "disposal": "partly allowed",
+      "text": "FACTS: The accused was convicted under Section 108 BNS (abetment of suicide) based on a general, non-specific allegation of harassment after 1 July 2024.\nISSUE: Whether the proximate-act requirement developed under Section 306 IPC in Prakash Chandra v. State of Haryana (2016) applies equally under Section 108 BNS.\nREASONING: The Court held that Section 108 BNS reproduces Section 306 IPC without material change, and the requirement of a proximate act or instigation, as laid down in Prakash Chandra v. State of Haryana (2016), continues to govern.\nHOLDING: Conviction under Section 108 BNS set aside for lack of proximate instigation; conviction under Section 85 BNS (cruelty) maintained."
+    },
+    {
+      "judgment_id": "BOM-HC-2021-0398",
+      "case_name": "Arjun Deshmukh v. State of Maharashtra",
+      "court": "Bombay High Court",
+      "date": "2021-12-03",
+      "bench": ["Justice S. Kulkarni"],
+      "sections_cited": [{"statute": "IPC", "section_no": "379"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The accused was apprehended with property identified as stolen from a warehouse, shortly after the theft.\nISSUE: Whether recent and unexplained possession of stolen property supports a conviction for theft under Section 379 IPC.\nREASONING: The Court held that recovery of stolen property from the accused's possession within a short period of the theft, coupled with a failure to explain such possession, permits an inference of guilt for theft or receipt of stolen property.\nHOLDING: Conviction under Section 379 IPC upheld."
+    },
+    {
+      "judgment_id": "SC-2012-0176",
+      "case_name": "Yusuf Khan v. State of Gujarat",
+      "court": "Supreme Court of India",
+      "date": "2012-06-14",
+      "bench": ["Justice B. Sen", "Justice M. Trivedi"],
+      "sections_cited": [{"statute": "IPC", "section_no": "34"}, {"statute": "IPC", "section_no": "302"}],
+      "disposal": "dismissed",
+      "text": "FACTS: Several accused persons were convicted with the aid of Section 34 IPC for a common intention to cause the death of the deceased during a planned assault.\nISSUE: Whether common intention under Section 34 IPC was established on the facts.\nREASONING: The Court held that a prior meeting of minds is not always necessary to be proved by direct evidence and can be inferred from the conduct of the accused, their presence, and participation in the assault.\nHOLDING: Conviction under Section 302 read with Section 34 IPC upheld for all accused."
+    },
+    {
+      "judgment_id": "SC-2014-0099",
+      "case_name": "Nagesh Patil v. State of Karnataka",
+      "court": "Supreme Court of India",
+      "date": "2014-04-02",
+      "bench": ["Justice P. Iyer", "Justice B. Sen"],
+      "sections_cited": [{"statute": "IPC", "section_no": "120B"}],
+      "disposal": "dismissed",
+      "text": "FACTS: The accused were convicted of criminal conspiracy under Section 120B IPC for orchestrating a scheme to defraud investors.\nISSUE: Whether the existence of a criminal conspiracy under Section 120B IPC can be inferred from circumstantial evidence alone.\nREASONING: The Court held that conspiracies are hatched in secrecy, and direct evidence is rarely available; the existence of an agreement can be inferred from the conduct of the parties acting in concert towards a common unlawful object.\nHOLDING: Conviction under Section 120B IPC upheld."
+    }
+  ]
+}
