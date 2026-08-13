@@ -3,3 +3,24 @@ rank_bm25==0.2.2
 beautifulsoup4
 pdfplumber
 python-dotenv
+numpy
+
+# --- Added for the precedent layer / hybrid retrieval / NyayaBench / eval ---
+# (see README.md "Architecture v2" section for what each new piece is for)
+
+# Optional, only needed for real dense retrieval quality (EMBEDDING_API_PROVIDER
+# set to openai/cohere/voyage in .env) -- the "offline" default provider needs
+# nothing beyond numpy, already listed above.
+# (embedding calls go through `requests`, already listed above -- no extra
+# SDK dependency either way)
+
+# Optional CPU cross-encoder reranking (RERANK_MODE=cross_encoder, the
+# default) -- pipeline degrades gracefully to no-op reranking if this isn't
+# installed or the model weights can't be downloaded, see scripts/retrieval/rerank.py
+# sentence-transformers
+# torch  # CPU build, e.g.: pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# Optional real proposition-level NLI scoring (see
+# scripts/eval/citation_faithfulness.py's documented swap point) -- not
+# required for the lexical proxy that ships by default
+# transformers
