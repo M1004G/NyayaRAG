@@ -215,13 +215,97 @@ python scripts/run_generation_eval.py 30    # sample size, default 30
 - **Criminal law only.** Covers the IPC/BNS pair only — not the Code of
   Criminal Procedure/BNSS, Indian Evidence Act/BSA, or other central acts.
 
-## Not yet in this repo
+## Architecture v2: precedent layer, hybrid retrieval, NyayaBench, evaluation
 
-A separate precedent (case-law) layer — tracking whether a cited court
-judgment has since been overruled — has been scoped and partially
-prototyped outside this codebase (data sourced from the IL-TUR benchmark
-on Hugging Face, with a citator-code classifier), but no corresponding
-scripts are committed here yet. Also not yet built: a reranker over BM25's
-top candidates (the main lever for the remaining retrieval errors),
-paragraph-level citation precision/recall, and dedicated
-hallucination/trap-question testing.
+Everything below was added on top of the phase-1 statute-only pipeline
+above, following the CPU-only rescoped NyayaRAG proposal. **The phase-1
+pipeline above is completely unchanged and still works standalone** —
+nothing in `scripts/precedent/`, `scripts/retrieval/`, `scripts/benchmark/`,
+or `scripts/eval/` is imported by `retrieve.py` / `generate.py` /
+`build_index.py`.
+
+### Read this first: what's real here vs. what's sample/stubbed
+
+This was built in a sandbox with **no network access** to court-judgment
+sources, HuggingFace, or any embedding/LLM API host other than Groq's, and
+**no API keys** configured for OpenAI/Cohere/Voyage/etc. Concretely:
+
+| Piece | Status here | To make it real |
+|---|---|---|
+| Judgment corpus | 18 **synthetic, hand-authored** sample judgments (`data/raw/judgments/sample_judgments.json`) — schema-accurate, not real case law | Drop a real export (matching the documented schema) into `data/raw/judgments/`, re-run `ingest_judgments.py` onward — nothing downstream changes |
+| Dense embeddings | `EMBEDDING_API_PROVIDER=offline` by default: a deterministic hash embedding with **no semantic meaning**, used only to exercise the code path | Set `EMBEDDING_API_PROVIDER`/`EMBEDDING_API_KEY`/`EMBEDDING_MODEL` in `.env` — `openai`, `cohere`, and `voyage` are already wired in `embed_api.py` |
+| Reranking | Disabled — `sentence-transformers` model weights aren't downloadable from this sandbox (no `huggingface.co` access) | `pip install sentence-transformers torch`; `rerank.py` will pick it up automatically, no code change |
+| Generator ablation axis | Skipped — no `GROQ_API_KEY` configured here | Set `GROQ_API_KEY` in `.env`; `run_ablation.py`'s `generation_eval_stub()` is the documented plug point |
+| NyayaBench annotation | Template-generated from trusted data (`judgments.json`, `section_mapping.json`), **not yet LLM-proposed + human-verified** per the proposal's Section 5 protocol | Route `nyayabench.json` through that protocol before treating it as gold |
+| Citation faithfulness (proposition-level) | A transparent **lexical token-overlap proxy**, not real NLI | Swap in DeBERTa-v3-small at the documented point in `citation_faithfulness.py` once model weights are reachable |
+
+Every module docstring repeats its own version of this table's relevant row
+— the intent is that no script's output can be mistaken for a
+publication-ready number without reading why it's scoped the way it is.
+
+### New components
+
+**Precedent / case-law layer** (`scripts/precedent/`) — the other half of
+Novelty Claim #2 (statute-side validity was already `era_filter.py`):
+- `ingest_judgments.py` — loads + validates raw judgment records
+- `segment_judgments.py` — rule-based rhetorical segmentation
+  (FACTS/ISSUE/REASONING/HOLDING), with a cue-word fallback classifier for
+  judgments without explicit headings
+- `extract_citations.py` — regex case-citation extraction + citator-signal
+  classification (`overruled` / `reversed` / `distinguished` / `followed` /
+  `cited`)
+- `build_overruling_graph.py` — the validity graph + `good_law_as_of(judgment_id, query_date)`,
+  used by retrieval exactly the way `era_filter.py` is: **demote, don't hard-filter**
+
+**Hybrid retrieval** (`scripts/retrieval/`):
+- `embed_api.py` — pluggable embedding client (openai/cohere/voyage/offline)
+- `build_dense_index.py` — combined statute+judgment dense index (FAISS-CPU-equivalent; brute-force cosine via numpy, exact at this corpus scale)
+- `chunking.py` — the two chunking strategies for the ablation grid (structure-aware vs. fixed-512-token)
+- `hybrid_retrieve.py` — BM25 + dense fused via Reciprocal Rank Fusion, with **both** validity axes composed (statute era demotion + precedent overruling demotion)
+- `rerank.py` — CPU cross-encoder reranking over the top candidates, with graceful no-op fallback
+
+**NyayaBench** (`scripts/benchmark/`):
+- `schema.py` — the shared `QAItem` dataclass (5 slices: statutory_qa, precedent_qa, transition_qa, trap_qa, multihop_qa)
+- `generate_nyayabench.py` — builds all 5 slices; reuses the existing `qa_items.json` for statutory/transition, generates precedent/trap/multihop fresh from the judgment corpus
+
+**Evaluation** (`scripts/eval/`):
+- `metrics.py` — Recall@k, MRR@10, nDCG@10, Statutory Era Accuracy, Precedent Validity Rate, fabricated-citation rate, trap-abstention rate
+- `citation_faithfulness.py` — proposition-level Citation Precision/Recall (lexical proxy, see table above)
+- `stats.py` — paired bootstrap significance testing + Holm-Bonferroni correction, per proposal 6.2
+- `run_ablation.py` — the chunking x retriever x validity ablation grid (12 configs, runnable here; generator axis is the documented plug point for the full 24-36)
+
+### Running architecture v2
+
+```bash
+# Precedent layer (after the phase-1 statute pipeline has been run once)
+python scripts/precedent/ingest_judgments.py
+python scripts/precedent/segment_judgments.py
+python scripts/precedent/extract_citations.py
+python scripts/precedent/build_overruling_graph.py
+
+# Hybrid retrieval
+python scripts/retrieval/build_dense_index.py
+python scripts/retrieval/hybrid_retrieve.py "punishment for cheating" 2025-01-01 hybrid on
+
+# NyayaBench
+python scripts/benchmark/generate_nyayabench.py
+
+# Evaluation
+python scripts/eval/run_ablation.py
+```
+
+On the sample data, the full ablation grid reproduces the phase-1 pipeline's
+headline finding (validity-aware retrieval beats naive) **and extends it**:
+the validity layer's Recall@10 improvement is statistically significant
+(Holm-Bonferroni corrected, paired bootstrap) across every
+chunking-x-retriever combination tested, not just BM25-over-statutes.
+Numbers themselves are sample-scale and not to be read as the paper's
+real results — see the scope table above.
+
+### What's still not built
+
+- Real LLM-augmented resolution of ambiguous citations (`extract_citations.py` writes these to `citations_ambiguous.json` rather than spending API budget automatically)
+- RAGAS/ARES-style answer-level faithfulness and LLM-judge answer quality (need a live judge call)
+- The expert-rater correlation study (Krippendorff's alpha) — needs human law-trained annotators
+- Real generator-axis ablation (needs `GROQ_API_KEY` + a second hosted model)
+- The manuscript itself
