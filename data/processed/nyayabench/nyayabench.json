@@ -1300,13 +1300,13 @@
     "validity_flags": {}
   },
   {
-    "item_id": "nb_prec_SC-2018-0142",
+    "item_id": "nb_prec_HC-BRHC010160202023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in State of Maharashtra v. Ramesh Kumar?",
-    "query_date": "2018-03-13",
-    "gold_answer": "Conviction under Section 302 IPC upheld. Appeal dismissed.",
+    "question": "What did the court hold in CR. APP (SJ)/1022/2023 of RANJAN KUMAR Vs The State of Bihar?",
+    "query_date": "2023-04-28",
+    "gold_answer": "Court deems it appropriate to set aside the order dated",
     "gold_evidence_ids": [
-      "SC-2018-0142::HOLDING::0"
+      "HC-BRHC010160202023::HOLDING::54"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1315,13 +1315,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2015-0087",
+    "item_id": "nb_prec_HC-BRHC010394832023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Suresh Yadav v. State of Bihar?",
-    "query_date": "2015-07-23",
-    "gold_answer": "Conviction altered from Section 302 to Section 304 Part I IPC. Sentence modified.",
+    "question": "What did the court hold in CR. MISC./31187/2023 of RAM PRASAD RAI Vs The State of Bihar?",
+    "query_date": "2023-07-08",
+    "gold_answer": "allowed.",
     "gold_evidence_ids": [
-      "SC-2015-0087::HOLDING::0"
+      "HC-BRHC010394832023::HOLDING::93"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1330,13 +1330,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2021-0203",
+    "item_id": "nb_prec_HC-BRHC010774302023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in State of Maharashtra v. Ramesh Kumar (Review)?",
-    "query_date": "2021-09-06",
-    "gold_answer": "Conviction under Section 302 IPC set aside; conviction substituted under Section 304 Part II IPC.",
+    "question": "What did the court hold in CR. MISC./55285/2023 of MAHESH YADAV Vs The State of Bihar?",
+    "query_date": "2023-08-25",
+    "gold_answer": "bail is allowed and it is ordered that let the above named",
     "gold_evidence_ids": [
-      "SC-2021-0203::HOLDING::0"
+      "HC-BRHC010774302023::HOLDING::56"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1345,13 +1345,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2019-0311",
+    "item_id": "nb_prec_HC-BRHC010713632023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Anita Verma v. State of Delhi?",
-    "query_date": "2019-11-19",
-    "gold_answer": "Conviction under Section 420 IPC upheld.",
+    "question": "What did the court hold in CR. MISC./51806/2023 of RAJU SINGH Vs The State of Bihar?",
+    "query_date": "2023-10-10",
+    "gold_answer": "4. The application is dismissed as withdrawn as",
     "gold_evidence_ids": [
-      "SC-2019-0311::HOLDING::0"
+      "HC-BRHC010713632023::HOLDING::34"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1360,13 +1360,13 @@
     }
   },
   {
-    "item_id": "nb_prec_DEL-HC-2020-0455",
+    "item_id": "nb_prec_HC-BRHC010880952022",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Vikram Singh v. State (NCT of Delhi)?",
-    "query_date": "2020-02-15",
-    "gold_answer": "Proceedings under Section 420 IPC quashed.",
+    "question": "What did the court hold in CR. APP (SJ)/3717/2022 of GANGA PRASAD KAMAT @ GANGA KAMAT Vs The State of Bihar?",
+    "query_date": "2023-03-01",
+    "gold_answer": "the appeal is allowed, setting aside the impugned order",
     "gold_evidence_ids": [
-      "DEL-HC-2020-0455::HOLDING::0"
+      "HC-BRHC010880952022::HOLDING::86"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1375,13 +1375,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2022-0088",
+    "item_id": "nb_prec_HC-BRHC010811462019",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Rajiv Malhotra v. Union of India?",
-    "query_date": "2022-05-01",
-    "gold_answer": "Charges under Section 124A IPC quashed. Petitioner discharged.",
+    "question": "What did the court hold in CR. WJC/1327/2019 of DR. RAN VIJAY KUMAR Vs The State of Bihar,through the principal sectty.,dept. of home, govt. of Bihar, Patna?",
+    "query_date": "2023-04-12",
+    "gold_answer": "analogous cases quashed the said F.I.R. He further submits that",
     "gold_evidence_ids": [
-      "SC-2022-0088::HOLDING::0"
+      "HC-BRHC010811462019::HOLDING::99"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1390,13 +1390,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2024-0512",
+    "item_id": "nb_prec_HC-BRHC010614802023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in State of Uttar Pradesh v. Faizal Ahmed?",
-    "query_date": "2024-09-16",
-    "gold_answer": "Conviction under Section 103(1) BNS upheld.",
+    "question": "What did the court hold in CR. MISC./44625/2023 of BIRENDRA YADAV @ BIRENDRA KUMAR YADAV Vs The State of Bihar?",
+    "query_date": "2023-08-09",
+    "gold_answer": "already been allowed pre-arrest bail by this Court vide annexure",
     "gold_evidence_ids": [
-      "SC-2024-0512::HOLDING::0"
+      "HC-BRHC010614802023::HOLDING::35"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1405,13 +1405,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2024-0601",
+    "item_id": "nb_prec_HC-BRHC010948862022",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Meera Joshi v. State of Karnataka?",
-    "query_date": "2024-11-03",
-    "gold_answer": "Conviction under Section 318(4) BNS upheld.",
+    "question": "What did the court hold in CR. APP (SJ)/4090/2022 of AMIT YADAV @ BHOLTEJ @ BHELETEJ Vs The State of Bihar?",
+    "query_date": "2023-05-05",
+    "gold_answer": "Court deems it appropriate to set aside the order dated",
     "gold_evidence_ids": [
-      "SC-2024-0601::HOLDING::0"
+      "HC-BRHC010948862022::HOLDING::55"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1420,13 +1420,13 @@
     }
   },
   {
-    "item_id": "nb_prec_KAR-HC-2025-0077",
+    "item_id": "nb_prec_HC-BRHC010179942023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Nandini Rao v. State of Karnataka?",
-    "query_date": "2025-03-20",
-    "gold_answer": "Proceedings under Section 318(4) BNS quashed.",
+    "question": "What did the court hold in CR. MISC./14190/2023 of MD. CHAND MIYAN Vs The State of Bihar?",
+    "query_date": "2023-08-08",
+    "gold_answer": "dismissed on the ground of delay and laches.",
     "gold_evidence_ids": [
-      "KAR-HC-2025-0077::HOLDING::0"
+      "HC-BRHC010179942023::HOLDING::27"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1435,13 +1435,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2010-0044",
+    "item_id": "nb_prec_HC-BRHC010434682023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Ghanshyam Das v. State of Rajasthan?",
-    "query_date": "2010-05-07",
-    "gold_answer": "Conviction under Section 376 IPC upheld.",
+    "question": "What did the court hold in CR. MISC./33497/2023 of RAJ KUMAR SAHANI Vs The State of Bihar?",
+    "query_date": "2023-07-25",
+    "gold_answer": "8. Accordingly, this application stands partly allowed.",
     "gold_evidence_ids": [
-      "SC-2010-0044::HOLDING::0"
+      "HC-BRHC010434682023::HOLDING::70"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1450,13 +1450,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2023-0290",
+    "item_id": "nb_prec_HC-BRHC011071102023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in State of Punjab v. Harjit Singh?",
-    "query_date": "2023-06-09",
-    "gold_answer": "Conviction under Section 376 IPC upheld.",
+    "question": "What did the court hold in CR. MISC./76879/2023 of SURENDRA KUMAR Vs THE STATE OF BIHAR?",
+    "query_date": "2023-12-20",
+    "gold_answer": "8. The application stands allowed.",
     "gold_evidence_ids": [
-      "SC-2023-0290::HOLDING::0"
+      "HC-BRHC011071102023::HOLDING::65"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1465,13 +1465,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2017-0159",
+    "item_id": "nb_prec_HC-BRHC010496132017",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Iqbal Ansari v. State of West Bengal?",
-    "query_date": "2017-10-12",
-    "gold_answer": "Conviction under Section 354 IPC reversed. Accused acquitted.",
+    "question": "What did the court hold in CR. APP (DB)/901/2017 of Md. Ashif Ali @ Munna Vs The State Of Bihar?",
+    "query_date": "2023-10-08",
+    "gold_answer": "convicted under Sections 148, 307, 302/149 of the",
     "gold_evidence_ids": [
-      "SC-2017-0159::HOLDING::0"
+      "HC-BRHC010496132017::HOLDING::116"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1480,13 +1480,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2013-0021",
+    "item_id": "nb_prec_HC-BRHC010674942023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Balwant Rao v. State of Madhya Pradesh?",
-    "query_date": "2013-01-30",
-    "gold_answer": "Conviction under Sections 304B and 498A IPC upheld.",
+    "question": "What did the court hold in CR. MISC./50660/2023 of MD. TAUFEEK ALAM @ MD. TAUFIC Vs The State of Bihar?",
+    "query_date": "2023-08-20",
+    "gold_answer": "8. This application stands allowed.",
     "gold_evidence_ids": [
-      "SC-2013-0021::HOLDING::0"
+      "HC-BRHC010674942023::HOLDING::69"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1495,13 +1495,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2016-0233",
+    "item_id": "nb_prec_HC-BRHC010504912023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Prakash Chandra v. State of Haryana?",
-    "query_date": "2016-08-20",
-    "gold_answer": "Conviction under Section 306 IPC set aside for lack of proximate instigation; conviction under Section 498A IPC (cruelty) maintained.",
+    "question": "What did the court hold in CR. MISC./37070/2023 of GUDDU SAHNI Vs THE STATE OF BIHAR?",
+    "query_date": "2023-07-08",
+    "gold_answer": "The application stands allowed.",
     "gold_evidence_ids": [
-      "SC-2016-0233::HOLDING::0"
+      "HC-BRHC010504912023::HOLDING::48"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1510,13 +1510,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2025-0044",
+    "item_id": "nb_prec_HC-BRHC010399602023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Deepika Nair v. State of Kerala?",
-    "query_date": "2025-02-28",
-    "gold_answer": "Conviction under Section 108 BNS set aside for lack of proximate instigation; conviction under Section 85 BNS (cruelty) maintained.",
+    "question": "What did the court hold in CR. APP (SJ)/2120/2023 of MUNNA PRASAD SINGH @ MUNNA PRASAD @ GRIDHAR KUMAR VERMA @ SRIDHAR KUMAR VERMA Vs The State of Bihar?",
+    "query_date": "2023-08-26",
+    "gold_answer": "the appellant, is dismissed as being not maintainable.",
     "gold_evidence_ids": [
-      "SC-2025-0044::HOLDING::0"
+      "HC-BRHC010399602023::HOLDING::49"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1525,13 +1525,13 @@
     }
   },
   {
-    "item_id": "nb_prec_BOM-HC-2021-0398",
+    "item_id": "nb_prec_HC-BRHC011003212023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Arjun Deshmukh v. State of Maharashtra?",
-    "query_date": "2021-12-04",
-    "gold_answer": "Conviction under Section 379 IPC upheld.",
+    "question": "What did the court hold in CR. MISC./74087/2023 of RAMCHANDRA SAHANI Vs The State of Bihar?",
+    "query_date": "2023-12-06",
+    "gold_answer": "7. This application stands allowed.",
     "gold_evidence_ids": [
-      "BOM-HC-2021-0398::HOLDING::0"
+      "HC-BRHC011003212023::HOLDING::52"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1540,13 +1540,13 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2012-0176",
+    "item_id": "nb_prec_HC-BRHC010111032022",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Yusuf Khan v. State of Gujarat?",
-    "query_date": "2012-06-15",
-    "gold_answer": "Conviction under Section 302 read with Section 34 IPC upheld for all accused.",
+    "question": "What did the court hold in CR. MISC./9119/2022 of UMESH PANDIT Vs The State of Bihar?",
+    "query_date": "2023-06-23",
+    "gold_answer": "The application stands allowed.",
     "gold_evidence_ids": [
-      "SC-2012-0176::HOLDING::0"
+      "HC-BRHC010111032022::HOLDING::66"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -1555,13 +1555,1243 @@
     }
   },
   {
-    "item_id": "nb_prec_SC-2014-0099",
+    "item_id": "nb_prec_HC-BRHC010282782023",
     "slice": "precedent_qa",
-    "question": "What did the court hold in Nagesh Patil v. State of Karnataka?",
-    "query_date": "2014-04-03",
-    "gold_answer": "Conviction under Section 120B IPC upheld.",
+    "question": "What did the court hold in CR. MISC./21373/2023 of MD. AMIRUDDIN HASHMI @ AMIRUDDIN HASHMI Vs The State of Bihar?",
+    "query_date": "2023-07-05",
+    "gold_answer": "bail of all the petitioners is allowed. In the event of",
     "gold_evidence_ids": [
-      "SC-2014-0099::HOLDING::0"
+      "HC-BRHC010282782023::HOLDING::45"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC010146022023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. MISC./18982/2023 of ASHOK KUMAR @ ASHOK KUMAR SINHA Vs The State of Bihar?",
+    "query_date": "2023-08-08",
+    "gold_answer": "Complaint case was dismissed by the learned Court below stating",
+    "gold_evidence_ids": [
+      "HC-BRHC010146022023::HOLDING::34"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC010567332022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. MISC./41083/2022 of CHOTU ANSARI Vs THE STATE OF BIHAR?",
+    "query_date": "2023-01-26",
+    "gold_answer": "21.03.2022 his application for bail was dismissed as",
+    "gold_evidence_ids": [
+      "HC-BRHC010567332022::HOLDING::28"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC010423472022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. MISC./30177/2022 of MD. RASHID Vs The State of Bihar?",
+    "query_date": "2023-02-10",
+    "gold_answer": "Prayer for bail of the petitioner is allowed.",
+    "gold_evidence_ids": [
+      "HC-BRHC010423472022::HOLDING::52"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC010241342018",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. MISC./44881/2018 of Indukar Choudhary and Ors Vs State Of Bihar and Anr?",
+    "query_date": "2023-02-03",
+    "gold_answer": "The petition stands dismissed as not",
+    "gold_evidence_ids": [
+      "HC-BRHC010241342018::HOLDING::46"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC010053372023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. MISC./6583/2023 of SHEKHAR SAHNI Vs The State of Bihar?",
+    "query_date": "2023-05-19",
+    "gold_answer": "Accordingly, the application stands dismissed.",
+    "gold_evidence_ids": [
+      "HC-BRHC010053372023::HOLDING::58"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC011097772022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. MISC./1913/2023 of ARBIND KUMAR @ BHIM YADAV Vs The State of Bihar?",
+    "query_date": "2023-05-26",
+    "gold_answer": "dismissed.",
+    "gold_evidence_ids": [
+      "HC-BRHC011097772022::HOLDING::40"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC010928722022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. APP (SJ)/3894/2022 of SUMANJEE THAKUR Vs The State of Bihar?",
+    "query_date": "2023-01-19",
+    "gold_answer": "Accordingly, the impugned order is set aside and this",
+    "gold_evidence_ids": [
+      "HC-BRHC010928722022::HOLDING::68"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-BRHC011051292023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CR. MISC./76004/2023 of CHANDAN KUMAR Vs THE STATE OF BIHAR?",
+    "query_date": "2023-12-19",
+    "gold_answer": "7. This application stands allowed.",
+    "gold_evidence_ids": [
+      "HC-BRHC011051292023::HOLDING::55"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010001372021",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. A./17/2021 of Chingba @ Robin Tamang Vs State of Sikkim?",
+    "query_date": "2023-03-28",
+    "gold_answer": "1. The Appellant was convicted of the offences under",
+    "gold_evidence_ids": [
+      "HC-SKHC010001372021::HOLDING::22"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010001052023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. M. C./7/2023 of SHRI SHRI BABA SUNIL CHETTRI AND ORS Vs STATE OF SIKKIM?",
+    "query_date": "2023-09-05",
+    "gold_answer": "accepted. The proceedings are quashed as also the FIR.",
+    "gold_evidence_ids": [
+      "HC-SKHC010001052023::HOLDING::64"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010000502022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CRL. REV. P/2/2022 of ASHAL KUMAR THAPA AND ANR. Vs STATE OF SIKKIM?",
+    "query_date": "2023-04-12",
+    "gold_answer": "correct perspective, hence the impugned Order be set aside and",
+    "gold_evidence_ids": [
+      "HC-SKHC010000502022::HOLDING::60"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010002022019",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CRL. REV. P/2/2019 of Alpesh Narendra Shah and Anr. Vs Manoj Agarwal?",
+    "query_date": "2023-05-05",
+    "gold_answer": "Petitioners be acquitted of the offence under Section 138 of the NI",
+    "gold_evidence_ids": [
+      "HC-SKHC010002022019::HOLDING::37"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010000142022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. A./3/2022 of BHIM BAHADUR BASNETT Vs State Of Sikkim?",
+    "query_date": "2023-12-07",
+    "gold_answer": "The Appellant is acquitted of the offence under Section 376(2)(l)",
+    "gold_evidence_ids": [
+      "HC-SKHC010000142022::HOLDING::17"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010001822018",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. A./40/2018 of Trilochan Kapoor Sharma Vs State Of Sikkim?",
+    "query_date": "2023-05-03",
+    "gold_answer": "short “Cr.P.C.”), filed by the Petitioner, who was convicted on 29-",
+    "gold_evidence_ids": [
+      "HC-SKHC010001822018::HOLDING::24"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010000432022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. A./6/2022 of SANJIT RAI Vs STATE OF SIKKIM?",
+    "query_date": "2023-08-08",
+    "gold_answer": "section 302 IPC by the learned Sessions Judge is upheld.",
+    "gold_evidence_ids": [
+      "HC-SKHC010000432022::HOLDING::861"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010000932022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. A./16/2022 of DAWAGYAL LEPCHA Vs STATE OF SIKKIM?",
+    "query_date": "2023-09-21",
+    "gold_answer": "West Sikkim, at Gyalshing, convicted the Appellant/Accused in",
+    "gold_evidence_ids": [
+      "HC-SKHC010000932022::HOLDING::23"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010000372023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. M. C./1/2023 of CHANDA SUBBA AND ANR. Vs State Of Sikkim?",
+    "query_date": "2023-06-08",
+    "gold_answer": "4. The petition is allowed.",
+    "gold_evidence_ids": [
+      "HC-SKHC010000372023::HOLDING::102"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010000842023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. M. C./4/2023 of TULARAM DHAKAL AND ORS. Vs THE STATE OF SIKKIM?",
+    "query_date": "2023-09-05",
+    "gold_answer": "amicably, compromise is accepted and the proceedings quashed",
+    "gold_evidence_ids": [
+      "HC-SKHC010000842023::HOLDING::57"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-SKHC010000462023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl. M. C./2/2023 of NARAYAN PRADHAN Vs THE SUB DIVISIONAL MAGISTRATE AND ORS.?",
+    "query_date": "2023-08-31",
+    "gold_answer": "learned Civil Judge, Rongli Sub-Division. The same is allowed",
+    "gold_evidence_ids": [
+      "HC-SKHC010000462023::HOLDING::55"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MNHC010030722022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CRIL. PETN./50/2022 of JEBUN Vs STATE OF MANIPUR AND 4 OTHERS?",
+    "query_date": "2023-12-12",
+    "gold_answer": "2021 filed by one Md. Abdul Hakim (co-accused) for quashing the said FIR and allowed",
+    "gold_evidence_ids": [
+      "HC-MNHC010030722022::HOLDING::70"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MNHC010028822022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in CRIL. PETN./48/2022 of STATE OF MANIPUR Vs TAHNGZALET HAOKIP?",
+    "query_date": "2023-05-24",
+    "gold_answer": "allowed the Cril. Revision Petition filed by the respondent herein under Section 397",
+    "gold_evidence_ids": [
+      "HC-MNHC010028822022::HOLDING::39"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010003532022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in WP(C)/182/2022 of No. 97040664 Hav (GD), Dilip Kumar Tripura Vs The State of Tripura and  4 others?",
+    "query_date": "2023-11-22",
+    "gold_answer": "08/09-02-2011 night at ONGC office gate allowed 5/6",
+    "gold_evidence_ids": [
+      "HC-TRHC010003532022::HOLDING::74"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010005892023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Rev.P./21/2023 of SRI AMIT BHOWMIK AND ORS Vs THE STATE OF TRIPURA?",
+    "query_date": "2023-05-23",
+    "gold_answer": "to justify their implication. As such, the impugned order may be set aside",
+    "gold_evidence_ids": [
+      "HC-TRHC010005892023::HOLDING::132"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010020712021",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Rev.P./60/2021 of Sri Anupam Acharya Vs Sri Debabrata Ghosh and Anr.?",
+    "query_date": "2023-02-11",
+    "gold_answer": "38 of 2019 whereby the learned Judge has upheld the judgment and order of",
+    "gold_evidence_ids": [
+      "HC-TRHC010020712021::HOLDING::30"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010020922022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.A./24/2022 of STATE OF TRIPURA Vs SRI PRADIP DAS AND ORS?",
+    "query_date": "2023-08-10",
+    "gold_answer": "whereby and whereunder, the learned Court below has acquitted the above",
+    "gold_evidence_ids": [
+      "HC-TRHC010020922022::HOLDING::40"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010011142022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Rev.P./32/2022 of Sri Kabir Ahammed Vs The State of Tripura and Ors.?",
+    "query_date": "2023-07-14",
+    "gold_answer": "preferred this present petition seeking to quash/set aside the",
+    "gold_evidence_ids": [
+      "HC-TRHC010011142022::HOLDING::50"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010013912022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.A(J)/24/2022 of SHRI RANGBHANGA REANG Vs THE STATE OF TRIPURA?",
+    "query_date": "2023-08-10",
+    "gold_answer": "Sessions Judge convicted the appellant for commission of offences punishable",
+    "gold_evidence_ids": [
+      "HC-TRHC010013912022::HOLDING::26"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010020112021",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Rev.P./58/2021 of Jahar Debbarma Vs The State of Tripura?",
+    "query_date": "2023-03-18",
+    "gold_answer": "dated 03.03.2020 convicted the petitioners herein for",
+    "gold_evidence_ids": [
+      "HC-TRHC010020112021::HOLDING::185"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010000762022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Rev.P./3/2022 of Sri Saktipada Chakraborty Vs The State of Tripura and ors?",
+    "query_date": "2023-09-15",
+    "gold_answer": "learned Sessions Judge, Sepahijala, Sonamura upheld the",
+    "gold_evidence_ids": [
+      "HC-TRHC010000762022::HOLDING::53"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010014382023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./21/2023 of Sri Sujit Chakma Vs The State of Tripura and Anr.?",
+    "query_date": "2023-10-18",
+    "gold_answer": "dismissed as withdrawn. As a sequel, stay, if any, stands vacated.",
+    "gold_evidence_ids": [
+      "HC-TRHC010014382023::HOLDING::34"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-TRHC010005912022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.A(J)/8/2022 of SHRI PAPAN BISWAS Vs THE STATE OF TRIPURA?",
+    "query_date": "2023-08-31",
+    "gold_answer": "convicted under Sections-302/201 of the Indian Penal Code and thereby",
+    "gold_evidence_ids": [
+      "HC-TRHC010005912022::HOLDING::31"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010002612023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.M.C./32/2023 of GRENATH CH. MARAK Vs STATE OF MEGHALAYA?",
+    "query_date": "2023-06-02",
+    "gold_answer": "3. The appellant has been convicted under Section 302 read with",
+    "gold_evidence_ids": [
+      "HC-MLHC010002612023::HOLDING::30"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010011672023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/52/2023 of GURUCHARAN SINGH PUNIYA Vs STATE OF MEGHALAYA AND 2 OTHERS?",
+    "query_date": "2023-10-11",
+    "gold_answer": "petitioner may be allowed to go on transit bail for a period of 60(six) days.",
+    "gold_evidence_ids": [
+      "HC-MLHC010011672023::HOLDING::56"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010011002022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.M.C./67/2022 of TARA MIAH Vs STATE OF MEGHALAYA?",
+    "query_date": "2023-07-12",
+    "gold_answer": "26. Accordingly, Crl.A.No.16 of 2022 is dismissed by upholding",
+    "gold_evidence_ids": [
+      "HC-MLHC010011002022::HOLDING::229"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010001452023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/3/2023 of MESHWA DKHAR Vs STATE OF MEGHALAYA?",
+    "query_date": "2023-03-08",
+    "gold_answer": "6. It is therefore prayed that this petition may be allowed and that the",
+    "gold_evidence_ids": [
+      "HC-MLHC010001452023::HOLDING::56"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010005252023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in MC(WA)/12/2023 of MINGRAN  T. SANGMA Vs ABAL M. SANGMA  AND 6 ORS.?",
+    "query_date": "2023-08-31",
+    "gold_answer": "No.13 of 2023, are dismissed. It is made abundantly clear that none of",
+    "gold_evidence_ids": [
+      "HC-MLHC010005252023::HOLDING::254"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010003102023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/12/2023 of JUMMA KHAN Vs THE STATE OF MEGHALAYA?",
+    "query_date": "2023-04-21",
+    "gold_answer": "person, therefore, for his proper medical treatment, he may be allowed to",
+    "gold_evidence_ids": [
+      "HC-MLHC010003102023::HOLDING::92"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010006012022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in WP(C)/214/2022 of Jerang A. Sangma (Ex-UBSI) Vs The Inspector General of Police and 4 Ors.?",
+    "query_date": "2023-02-10",
+    "gold_answer": "by the respondent No. 2 and 3, whereby he has been dismissed from",
+    "gold_evidence_ids": [
+      "HC-MLHC010006012022::HOLDING::20"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010013282022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Rev.P./18/2022 of TONY T.C MARAK Vs THE STATE OF MEGHALAYA  AND 5 ORS.?",
+    "query_date": "2023-04-22",
+    "gold_answer": "case was not allowed and the consequential order for framing of charge",
+    "gold_evidence_ids": [
+      "HC-MLHC010013282022::HOLDING::32"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010010632022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./48/2022 of T.PATHAW Vs INSPECTOR OF POLICE CENTRAL BUREAU OF INVESTIGATION SHILLONG AND ANR?",
+    "query_date": "2023-02-11",
+    "gold_answer": "petitioner herein with a prayer to set aside and quash the FIR dated",
+    "gold_evidence_ids": [
+      "HC-MLHC010010632022::HOLDING::19"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010005782022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./18/2022 of John Vashum Vs The State of Meghalaya and 2 Ors.?",
+    "query_date": "2023-02-24",
+    "gold_answer": "before this Court with a prayer to set aside and quash the proceedings in GR",
+    "gold_evidence_ids": [
+      "HC-MLHC010005782022::HOLDING::70"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010007932023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./85/2023 of MARK ADON NONGPHUD Vs STATE OF MEGHALAYA  AND ANR.?",
+    "query_date": "2023-07-28",
+    "gold_answer": "considered all aspects of the matter, has allowed the prayer of the",
+    "gold_evidence_ids": [
+      "HC-MLHC010007932023::HOLDING::69"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010001462023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/4/2023 of LOWINGSTONE SUCHIANG Vs STATE OF MEGHALAYA?",
+    "query_date": "2023-03-08",
+    "gold_answer": "6. It is therefore prayed that this petition may be allowed and that the",
+    "gold_evidence_ids": [
+      "HC-MLHC010001462023::HOLDING::56"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010003972021",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./29/2021 of DHYAN FOUNDATION Vs STATE OF MEGHALAYA AND 2 ORS.?",
+    "query_date": "2023-02-09",
+    "gold_answer": "vide order dated 10.03.2021 allowed the prayer made in the said application",
+    "gold_evidence_ids": [
+      "HC-MLHC010003972021::HOLDING::43"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010010072023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in MC(WA)/32/2023 of MINGRAN T. SANGMA Vs ABAL M. SANGMA AND 6 ORS.?",
+    "query_date": "2023-08-31",
+    "gold_answer": "No.13 of 2023, are dismissed. It is made abundantly clear that none of",
+    "gold_evidence_ids": [
+      "HC-MLHC010010072023::HOLDING::254"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010010372023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/43/2023 of SWARNAJIT SARKAR Vs STATE OF MEGHALAYA?",
+    "query_date": "2023-09-16",
+    "gold_answer": "upon release. This court has generally upheld such conditions on",
+    "gold_evidence_ids": [
+      "HC-MLHC010010372023::HOLDING::237"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010008052022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.A./23/2022 of SANGTE PAITE Vs THE STATE OF MEGHALAYA  AND ANR.?",
+    "query_date": "2023-02-09",
+    "gold_answer": "The trial court acquitted the accused, but he was convicted by the High",
+    "gold_evidence_ids": [
+      "HC-MLHC010008052022::HOLDING::155"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010007162023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/18/2023 of PAWAN  BHAMA Vs THE STATE OF MEGHALAYA  AND ANR.?",
+    "query_date": "2023-07-21",
+    "gold_answer": "less than seven years or upto seven years imprisonment if convicted. At the",
+    "gold_evidence_ids": [
+      "HC-MLHC010007162023::HOLDING::181"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010003182023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/9/2023 of PALMON SARI Vs STATE OF MEGHALAYA?",
+    "query_date": "2023-05-05",
+    "gold_answer": "petitioners. In view thereof, the connected applications are dismissed as",
+    "gold_evidence_ids": [
+      "HC-MLHC010003182023::HOLDING::60"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-MLHC010005392023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in WA/13/2023 of STATE OF MEGHALAYA Vs ABAL  M. SANGMA?",
+    "query_date": "2023-08-31",
+    "gold_answer": "No.13 of 2023, are dismissed. It is made abundantly clear that none of",
+    "gold_evidence_ids": [
+      "HC-MLHC010005392023::HOLDING::254"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040003912023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./46/2023 of Tungri Effa and Anr. Vs THE STATE OF AP?",
+    "query_date": "2023-03-23",
+    "gold_answer": "Chief Judicial Magistrate, Yupia, Arunachal Pradesh is quashed and set",
+    "gold_evidence_ids": [
+      "HC-GAHC040003912023::HOLDING::103"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040009312023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in IA(Crl)/42/2023 of Sangey Gombu Vs THE STATE OF AP?",
+    "query_date": "2023-08-09",
+    "gold_answer": "hence, there is no chance of absconding if the accused is allowed to",
+    "gold_evidence_ids": [
+      "HC-GAHC040009312023::HOLDING::100"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040000342023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./6/2023 of Toram Jopir and 2 Ors. Vs THE STATE OF AP?",
+    "query_date": "2023-03-04",
+    "gold_answer": "servants while working in that capacity are not to be quashed merely on the",
+    "gold_evidence_ids": [
+      "HC-GAHC040000342023::HOLDING::129"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040005572021",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in WP(C)/183/2021 of Arun Sawin Vs The State of AP and 5 Others?",
+    "query_date": "2023-07-19",
+    "gold_answer": "Tinsukia, Assam has acquitted him from all the charges leveled against him.”",
+    "gold_evidence_ids": [
+      "HC-GAHC040005572021::HOLDING::101"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040004992023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./62/2023 of Doimalu Goyari and 2 Ors. Vs THE STATE OF AP?",
+    "query_date": "2023-04-20",
+    "gold_answer": "capacity are not to be quashed merely on the basis of compromise",
+    "gold_evidence_ids": [
+      "HC-GAHC040004992023::HOLDING::172"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040004042023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/37/2023 of Dani Tatung Vs The CBI?",
+    "query_date": "2023-04-21",
+    "gold_answer": "if any undeserving candidates are allowed to top exams by corrupt means, not",
+    "gold_evidence_ids": [
+      "HC-GAHC040004042023::HOLDING::72"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040011772023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/81/2023 of Gora Tarup Vs THE STATE OF AP?",
+    "query_date": "2023-09-06",
+    "gold_answer": "10. In view of the above, Shir Gora Taming is allowed to go on bail",
+    "gold_evidence_ids": [
+      "HC-GAHC040011772023::HOLDING::98"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040003722023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in IA(Crl)/20/2023 of Krishna Sobor Vs THE STATE OF AP and Anr.?",
+    "query_date": "2023-03-21",
+    "gold_answer": "Interlocutory application stands allowed and disposed of.",
+    "gold_evidence_ids": [
+      "HC-GAHC040003722023::HOLDING::52"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040013032023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/68/2023 of John Diri Vs THE STATE OF AP?",
+    "query_date": "2023-11-07",
+    "gold_answer": "arrest bail prayer should not be allowed at this stage.",
+    "gold_evidence_ids": [
+      "HC-GAHC040013032023::HOLDING::39"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040005692023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/22/2023 of Nitiyananda Boruah Vs THE STATE OF AP?",
+    "query_date": "2023-05-16",
+    "gold_answer": "anticipatory bail application filed by the applicant stands dismissed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040005692023::HOLDING::37"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040014222023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/102/2023 of Smty Pheham Wangpan Vs THE STATE OF AP?",
+    "query_date": "2023-11-15",
+    "gold_answer": "present post arrest bail is deserved to be allowed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040014222023::HOLDING::234"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040011912023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.A./27/2023 of Mara Budh Vs Bengia Jayanta?",
+    "query_date": "2023-12-15",
+    "gold_answer": "which the learned Chief Judicial Magistrate, Yupia has dismissed the said C.R.",
+    "gold_evidence_ids": [
+      "HC-GAHC040011912023::HOLDING::28"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040010482023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in IA(Crl)/50/2023 of Nokshai Baham and Anr. Vs THE STATE OF AP?",
+    "query_date": "2023-08-11",
+    "gold_answer": "Session Case No. 07/2021 had convicted the present applicant under",
+    "gold_evidence_ids": [
+      "HC-GAHC040010482023::HOLDING::66"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040001502023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in IA(Crl)/8/2023 of Tadar Para Vs THE STATE OF AP and Anr.?",
+    "query_date": "2023-04-19",
+    "gold_answer": "applicant was convicted under Section 376(2)(a)(iii) IPC and",
+    "gold_evidence_ids": [
+      "HC-GAHC040001502023::HOLDING::52"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040006172023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./78/2023 of Lishi Rina @ Tina and 2 Ors. Vs THE STATE OF AP?",
+    "query_date": "2023-06-30",
+    "gold_answer": "working in that capacity are not to be quashed merely on the basis of compromise",
+    "gold_evidence_ids": [
+      "HC-GAHC040006172023::HOLDING::110"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040005702023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/23/2023 of Archana Brahma Boruah Vs THE STATE OF AP?",
+    "query_date": "2023-05-16",
+    "gold_answer": "anticipatory bail application filed by the applicant stands dismissed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040005702023::HOLDING::37"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040000762023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.A./4/2023 of Punyo Nama Vs THE STATE OF AP and Anr.?",
+    "query_date": "2023-09-26",
+    "gold_answer": "informant, we hereby set aside the sentence of rigorous life imprisonment",
+    "gold_evidence_ids": [
+      "HC-GAHC040000762023::HOLDING::90"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040006922023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./94/2023 of Sandhya Bora and Anr. Vs THE STATE OF AP?",
+    "query_date": "2023-08-12",
+    "gold_answer": "chance of conviction is very bleak and remote even if the proceeding is allowed",
+    "gold_evidence_ids": [
+      "HC-GAHC040006922023::HOLDING::97"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040005362023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./68/2023 of Tadar Tarang and 3 Ors. Vs THE STATE OF AP?",
+    "query_date": "2023-06-13",
+    "gold_answer": "Koloriang may be quashed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040005362023::HOLDING::71"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040014882023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./200/2023 of Basi Jilen and Anr. Vs THE STATE OF AP?",
+    "query_date": "2023-11-08",
+    "gold_answer": "even if the proceeding is allowed to be continued, rather it will be an abuse of",
+    "gold_evidence_ids": [
+      "HC-GAHC040014882023::HOLDING::56"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040017002023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./234/2023 of Sunit Sagar and Anr. Vs THE STATE OF AP?",
+    "query_date": "2023-12-14",
+    "gold_answer": "case where the F.I.R. and the Charge-sheet can be quashed by invoking the",
+    "gold_evidence_ids": [
+      "HC-GAHC040017002023::HOLDING::74"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040004892023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./60/2023 of Molam Rema Vs THE STATE OF AP and Anr.?",
+    "query_date": "2023-04-19",
+    "gold_answer": "Kalaktang, stand set aside and quashed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040004892023::HOLDING::80"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040002562023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/18/2023 of Gemin Saring Vs THE STATE OF AP?",
+    "query_date": "2023-03-04",
+    "gold_answer": "considering her length of detention, she may be allowed to go on bail.",
+    "gold_evidence_ids": [
+      "HC-GAHC040002562023::HOLDING::45"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040010512023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in BA/71/2023 of Tojum Lollen Vs THE STATE OF AP?",
+    "query_date": "2023-08-10",
+    "gold_answer": "ground, the present subsequent bail application cannot be allowed only on",
+    "gold_evidence_ids": [
+      "HC-GAHC040010512023::HOLDING::46"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040004952023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./61/2023 of Cholingso Kora Vs THE STATE OF AP and Anr.?",
+    "query_date": "2023-08-04",
+    "gold_answer": "viz the other aspects of the case, the present petition may be allowed by",
+    "gold_evidence_ids": [
+      "HC-GAHC040004952023::HOLDING::41"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040006802023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./90/2023 of Aman Mangam and Anr. Vs THE STATE OF AP?",
+    "query_date": "2023-06-10",
+    "gold_answer": "may be quashed in the interest of justice.",
+    "gold_evidence_ids": [
+      "HC-GAHC040006802023::HOLDING::61"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040015492022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/143/2022 of Goka Tao Vs THE STATE OF AP?",
+    "query_date": "2023-05-23",
+    "gold_answer": "13. In view of the above, this anticipatory bail application is dismissed",
+    "gold_evidence_ids": [
+      "HC-GAHC040015492022::HOLDING::264"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040006112023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in AB/24/2023 of Pinak Pani Roy Vs THE STATE OF AP?",
+    "query_date": "2023-05-23",
+    "gold_answer": "deserves to be allowed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040006112023::HOLDING::83"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040015402022",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./134/2022 of Smt. Yama Potom and 2 Ors. Vs THE STATE OF AP?",
+    "query_date": "2023-02-09",
+    "gold_answer": "aside and quashed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040015402022::HOLDING::98"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040002442023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in IA(Crl)/11/2023 of Yili Gadi Vs THE STATE OF AP and Anr.?",
+    "query_date": "2023-03-03",
+    "gold_answer": "326 /307 /352 /427 /506 /34 IPC but subsequently, he was convicted",
+    "gold_evidence_ids": [
+      "HC-GAHC040002442023::HOLDING::42"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040007322023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Petn./99/2023 of Lizen Gyadi and Anr. Vs THE STATE OF AP?",
+    "query_date": "2023-06-15",
+    "gold_answer": "quashed.",
+    "gold_evidence_ids": [
+      "HC-GAHC040007322023::HOLDING::75"
+    ],
+    "applicable_era": "",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_prec_HC-GAHC040004342023",
+    "slice": "precedent_qa",
+    "question": "What did the court hold in Crl.Rev.P./7/2023 of Tapak Natam Vs THE STATE OF AP and Anr.?",
+    "query_date": "2023-11-22",
+    "gold_answer": "and set aside.",
+    "gold_evidence_ids": [
+      "HC-GAHC040004342023::HOLDING::92"
     ],
     "applicable_era": "",
     "is_answerable": true,
@@ -2958,30 +4188,14 @@
     "validity_flags": {}
   },
   {
-    "item_id": "nb_multihop_SC-2018-0142",
+    "item_id": "nb_multihop_HC-BRHC010160202023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in State of Maharashtra v. Ramesh Kumar, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 101 (successor to IPC Section 300); the holding in State of Maharashtra v. Ramesh Kumar is no longer good law (overruled by SC-2021-0203 on 2021-09-05).",
+    "question": "What section currently governs the offence discussed in CR. APP (SJ)/1022/2023 of RANJAN KUMAR Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-04-26",
+    "gold_answer": "BNS Section 126(2) (successor to IPC Section 341); the holding in CR. APP (SJ)/1022/2023 of RANJAN KUMAR Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-101",
-      "SC-2018-0142::HOLDING::0"
-    ],
-    "applicable_era": "BNS",
-    "is_answerable": true,
-    "validity_flags": {
-      "good_law_at_query_date": false
-    }
-  },
-  {
-    "item_id": "nb_multihop_SC-2015-0087",
-    "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Suresh Yadav v. State of Bihar, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 101 (successor to IPC Section 300); the holding in Suresh Yadav v. State of Bihar is still good law.",
-    "gold_evidence_ids": [
-      "BNS-101",
-      "SC-2015-0087::HOLDING::0"
+      "BNS-126(2)",
+      "HC-BRHC010160202023::HOLDING::54"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -2990,14 +4204,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2021-0203",
+    "item_id": "nb_multihop_HC-BRHC010394832023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in State of Maharashtra v. Ramesh Kumar (Review), and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 101 (successor to IPC Section 300); the holding in State of Maharashtra v. Ramesh Kumar (Review) is still good law.",
+    "question": "What section currently governs the offence discussed in CR. MISC./31187/2023 of RAM PRASAD RAI Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-07-06",
+    "gold_answer": "BNS Section 191(2) (successor to IPC Section 147); the holding in CR. MISC./31187/2023 of RAM PRASAD RAI Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-101",
-      "SC-2021-0203::HOLDING::0"
+      "BNS-191(2)",
+      "HC-BRHC010394832023::HOLDING::93"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3006,14 +4220,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2019-0311",
+    "item_id": "nb_multihop_HC-BRHC010713632023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Anita Verma v. State of Delhi, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 318(4) (successor to IPC Section 420); the holding in Anita Verma v. State of Delhi is still good law.",
+    "question": "What section currently governs the offence discussed in CR. MISC./51806/2023 of RAJU SINGH Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-10-08",
+    "gold_answer": "BNS Section 126(2) (successor to IPC Section 341); the holding in CR. MISC./51806/2023 of RAJU SINGH Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-318(4)",
-      "SC-2019-0311::HOLDING::0"
+      "BNS-126(2)",
+      "HC-BRHC010713632023::HOLDING::34"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3022,14 +4236,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_DEL-HC-2020-0455",
+    "item_id": "nb_multihop_HC-BRHC010880952022",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Vikram Singh v. State (NCT of Delhi), and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 318(4) (successor to IPC Section 420); the holding in Vikram Singh v. State (NCT of Delhi) is still good law.",
+    "question": "What section currently governs the offence discussed in CR. APP (SJ)/3717/2022 of GANGA PRASAD KAMAT @ GANGA KAMAT Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-02-27",
+    "gold_answer": "BNS Section 126(2) (successor to IPC Section 341); the holding in CR. APP (SJ)/3717/2022 of GANGA PRASAD KAMAT @ GANGA KAMAT Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-318(4)",
-      "DEL-HC-2020-0455::HOLDING::0"
+      "BNS-126(2)",
+      "HC-BRHC010880952022::HOLDING::86"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3038,14 +4252,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2010-0044",
+    "item_id": "nb_multihop_HC-BRHC010948862022",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Ghanshyam Das v. State of Rajasthan, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 63 (successor to IPC Section 375); the holding in Ghanshyam Das v. State of Rajasthan is still good law.",
+    "question": "What section currently governs the offence discussed in CR. APP (SJ)/4090/2022 of AMIT YADAV @ BHOLTEJ @ BHELETEJ Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-05-03",
+    "gold_answer": "BNS Section 126(2) (successor to IPC Section 341); the holding in CR. APP (SJ)/4090/2022 of AMIT YADAV @ BHOLTEJ @ BHELETEJ Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-63",
-      "SC-2010-0044::HOLDING::0"
+      "BNS-126(2)",
+      "HC-BRHC010948862022::HOLDING::55"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3054,14 +4268,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2023-0290",
+    "item_id": "nb_multihop_HC-BRHC010179942023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in State of Punjab v. Harjit Singh, and is that case's holding still good law?",
-    "query_date": "2025-06-07",
-    "gold_answer": "BNS Section 64 (successor to IPC Section 376); the holding in State of Punjab v. Harjit Singh is still good law.",
+    "question": "What section currently governs the offence discussed in CR. MISC./14190/2023 of MD. CHAND MIYAN Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-08-06",
+    "gold_answer": "BNS Section 316(2) (successor to IPC Section 406); the holding in CR. MISC./14190/2023 of MD. CHAND MIYAN Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-64",
-      "SC-2023-0290::HOLDING::0"
+      "BNS-316(2)",
+      "HC-BRHC010179942023::HOLDING::27"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3070,14 +4284,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2017-0159",
+    "item_id": "nb_multihop_HC-BRHC010434682023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Iqbal Ansari v. State of West Bengal, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 74 (successor to IPC Section 354); the holding in Iqbal Ansari v. State of West Bengal is still good law.",
+    "question": "What section currently governs the offence discussed in CR. MISC./33497/2023 of RAJ KUMAR SAHANI Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-07-23",
+    "gold_answer": "BNS Section 191(2) (successor to IPC Section 147); the holding in CR. MISC./33497/2023 of RAJ KUMAR SAHANI Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-74",
-      "SC-2017-0159::HOLDING::0"
+      "BNS-191(2)",
+      "HC-BRHC010434682023::HOLDING::70"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3086,14 +4300,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2013-0021",
+    "item_id": "nb_multihop_HC-BRHC010496132017",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Balwant Rao v. State of Madhya Pradesh, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 80 (successor to IPC Section 304B); the holding in Balwant Rao v. State of Madhya Pradesh is still good law.",
+    "question": "What section currently governs the offence discussed in CR. APP (DB)/901/2017 of Md. Ashif Ali @ Munna Vs The State Of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-10-06",
+    "gold_answer": "BNS Section 191(3) (successor to IPC Section 148); the holding in CR. APP (DB)/901/2017 of Md. Ashif Ali @ Munna Vs The State Of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-80",
-      "SC-2013-0021::HOLDING::0"
+      "BNS-191(3)",
+      "HC-BRHC010496132017::HOLDING::116"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3102,14 +4316,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2016-0233",
+    "item_id": "nb_multihop_HC-BRHC010504912023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Prakash Chandra v. State of Haryana, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 108 (successor to IPC Section 306); the holding in Prakash Chandra v. State of Haryana is still good law.",
+    "question": "What section currently governs the offence discussed in CR. MISC./37070/2023 of GUDDU SAHNI Vs THE STATE OF BIHAR, and is that case's holding still good law?",
+    "query_date": "2025-07-06",
+    "gold_answer": "BNS Section 317(5) (successor to IPC Section 414); the holding in CR. MISC./37070/2023 of GUDDU SAHNI Vs THE STATE OF BIHAR is still good law.",
     "gold_evidence_ids": [
-      "BNS-108",
-      "SC-2016-0233::HOLDING::0"
+      "BNS-317(5)",
+      "HC-BRHC010504912023::HOLDING::48"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3118,14 +4332,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_BOM-HC-2021-0398",
+    "item_id": "nb_multihop_HC-BRHC010399602023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Arjun Deshmukh v. State of Maharashtra, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 303(2) (successor to IPC Section 379); the holding in Arjun Deshmukh v. State of Maharashtra is still good law.",
+    "question": "What section currently governs the offence discussed in CR. APP (SJ)/2120/2023 of MUNNA PRASAD SINGH @ MUNNA PRASAD @ GRIDHAR KUMAR VERMA @ SRIDHAR KUMAR VERMA Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-08-24",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in CR. APP (SJ)/2120/2023 of MUNNA PRASAD SINGH @ MUNNA PRASAD @ GRIDHAR KUMAR VERMA @ SRIDHAR KUMAR VERMA Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-303(2)",
-      "BOM-HC-2021-0398::HOLDING::0"
+      "BNS-109",
+      "HC-BRHC010399602023::HOLDING::49"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3134,14 +4348,14 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2012-0176",
+    "item_id": "nb_multihop_HC-BRHC011003212023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Yusuf Khan v. State of Gujarat, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 3(5) (successor to IPC Section 34); the holding in Yusuf Khan v. State of Gujarat is still good law.",
+    "question": "What section currently governs the offence discussed in CR. MISC./74087/2023 of RAMCHANDRA SAHANI Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-12-04",
+    "gold_answer": "BNS Section 3(5) (successor to IPC Section 34); the holding in CR. MISC./74087/2023 of RAMCHANDRA SAHANI Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
       "BNS-3(5)",
-      "SC-2012-0176::HOLDING::0"
+      "HC-BRHC011003212023::HOLDING::52"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
@@ -3150,14 +4364,622 @@
     }
   },
   {
-    "item_id": "nb_multihop_SC-2014-0099",
+    "item_id": "nb_multihop_HC-BRHC010146022023",
     "slice": "multihop_qa",
-    "question": "What section currently governs the offence discussed in Nagesh Patil v. State of Karnataka, and is that case's holding still good law?",
-    "query_date": "2024-07-01",
-    "gold_answer": "BNS Section 61(2) (successor to IPC Section 120B); the holding in Nagesh Patil v. State of Karnataka is still good law.",
+    "question": "What section currently governs the offence discussed in CR. MISC./18982/2023 of ASHOK KUMAR @ ASHOK KUMAR SINHA Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-08-06",
+    "gold_answer": "BNS Section 316(2) (successor to IPC Section 406); the holding in CR. MISC./18982/2023 of ASHOK KUMAR @ ASHOK KUMAR SINHA Vs The State of Bihar is still good law.",
     "gold_evidence_ids": [
-      "BNS-61(2)",
-      "SC-2014-0099::HOLDING::0"
+      "BNS-316(2)",
+      "HC-BRHC010146022023::HOLDING::34"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-BRHC010567332022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CR. MISC./41083/2022 of CHOTU ANSARI Vs THE STATE OF BIHAR, and is that case's holding still good law?",
+    "query_date": "2025-01-24",
+    "gold_answer": "BNS Section 126(2) (successor to IPC Section 341); the holding in CR. MISC./41083/2022 of CHOTU ANSARI Vs THE STATE OF BIHAR is still good law.",
+    "gold_evidence_ids": [
+      "BNS-126(2)",
+      "HC-BRHC010567332022::HOLDING::28"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-BRHC010423472022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CR. MISC./30177/2022 of MD. RASHID Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-02-08",
+    "gold_answer": "BNS Section 309(4) (successor to IPC Section 392); the holding in CR. MISC./30177/2022 of MD. RASHID Vs The State of Bihar is still good law.",
+    "gold_evidence_ids": [
+      "BNS-309(4)",
+      "HC-BRHC010423472022::HOLDING::52"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-BRHC010241342018",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CR. MISC./44881/2018 of Indukar Choudhary and Ors Vs State Of Bihar and Anr, and is that case's holding still good law?",
+    "query_date": "2025-02-01",
+    "gold_answer": "BNS Section 126(2) (successor to IPC Section 341); the holding in CR. MISC./44881/2018 of Indukar Choudhary and Ors Vs State Of Bihar and Anr is still good law.",
+    "gold_evidence_ids": [
+      "BNS-126(2)",
+      "HC-BRHC010241342018::HOLDING::46"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-BRHC010053372023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CR. MISC./6583/2023 of SHEKHAR SAHNI Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-05-17",
+    "gold_answer": "BNS Section 303(2) (successor to IPC Section 379); the holding in CR. MISC./6583/2023 of SHEKHAR SAHNI Vs The State of Bihar is still good law.",
+    "gold_evidence_ids": [
+      "BNS-303(2)",
+      "HC-BRHC010053372023::HOLDING::58"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-BRHC011097772022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CR. MISC./1913/2023 of ARBIND KUMAR @ BHIM YADAV Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-05-24",
+    "gold_answer": "BNS Section 309(6) (successor to IPC Section 394); the holding in CR. MISC./1913/2023 of ARBIND KUMAR @ BHIM YADAV Vs The State of Bihar is still good law.",
+    "gold_evidence_ids": [
+      "BNS-309(6)",
+      "HC-BRHC011097772022::HOLDING::40"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-BRHC010928722022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CR. APP (SJ)/3894/2022 of SUMANJEE THAKUR Vs The State of Bihar, and is that case's holding still good law?",
+    "query_date": "2025-01-17",
+    "gold_answer": "BNS Section 126(2) (successor to IPC Section 341); the holding in CR. APP (SJ)/3894/2022 of SUMANJEE THAKUR Vs The State of Bihar is still good law.",
+    "gold_evidence_ids": [
+      "BNS-126(2)",
+      "HC-BRHC010928722022::HOLDING::68"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-SKHC010001372021",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl. A./17/2021 of Chingba @ Robin Tamang Vs State of Sikkim, and is that case's holding still good law?",
+    "query_date": "2025-03-26",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in Crl. A./17/2021 of Chingba @ Robin Tamang Vs State of Sikkim is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-SKHC010001372021::HOLDING::22"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-SKHC010000432022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl. A./6/2022 of SANJIT RAI Vs STATE OF SIKKIM, and is that case's holding still good law?",
+    "query_date": "2025-08-06",
+    "gold_answer": "BNS Section 103 (successor to IPC Section 302); the holding in Crl. A./6/2022 of SANJIT RAI Vs STATE OF SIKKIM is still good law.",
+    "gold_evidence_ids": [
+      "BNS-103",
+      "HC-SKHC010000432022::HOLDING::861"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-SKHC010000932022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl. A./16/2022 of DAWAGYAL LEPCHA Vs STATE OF SIKKIM, and is that case's holding still good law?",
+    "query_date": "2025-09-19",
+    "gold_answer": "BNS Section 351(2) (successor to IPC Section 506); the holding in Crl. A./16/2022 of DAWAGYAL LEPCHA Vs STATE OF SIKKIM is still good law.",
+    "gold_evidence_ids": [
+      "BNS-351(2)",
+      "HC-SKHC010000932022::HOLDING::23"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-SKHC010000372023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl. M. C./1/2023 of CHANDA SUBBA AND ANR. Vs State Of Sikkim, and is that case's holding still good law?",
+    "query_date": "2025-06-06",
+    "gold_answer": "BNS Section 118(2) (successor to IPC Section 326); the holding in Crl. M. C./1/2023 of CHANDA SUBBA AND ANR. Vs State Of Sikkim is still good law.",
+    "gold_evidence_ids": [
+      "BNS-118(2)",
+      "HC-SKHC010000372023::HOLDING::102"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-SKHC010000842023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl. M. C./4/2023 of TULARAM DHAKAL AND ORS. Vs THE STATE OF SIKKIM, and is that case's holding still good law?",
+    "query_date": "2025-09-03",
+    "gold_answer": "BNS Section 118 (successor to IPC Section 324); the holding in Crl. M. C./4/2023 of TULARAM DHAKAL AND ORS. Vs THE STATE OF SIKKIM is still good law.",
+    "gold_evidence_ids": [
+      "BNS-118",
+      "HC-SKHC010000842023::HOLDING::57"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MNHC010030722022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CRIL. PETN./50/2022 of JEBUN Vs STATE OF MANIPUR AND 4 OTHERS, and is that case's holding still good law?",
+    "query_date": "2025-12-10",
+    "gold_answer": "BNS Section 326(g) (successor to IPC Section 436); the holding in CRIL. PETN./50/2022 of JEBUN Vs STATE OF MANIPUR AND 4 OTHERS is still good law.",
+    "gold_evidence_ids": [
+      "BNS-326(g)",
+      "HC-MNHC010030722022::HOLDING::70"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MNHC010028822022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in CRIL. PETN./48/2022 of STATE OF MANIPUR Vs TAHNGZALET HAOKIP, and is that case's holding still good law?",
+    "query_date": "2025-05-22",
+    "gold_answer": "BNS Section 303(2) (successor to IPC Section 379); the holding in CRIL. PETN./48/2022 of STATE OF MANIPUR Vs TAHNGZALET HAOKIP is still good law.",
+    "gold_evidence_ids": [
+      "BNS-303(2)",
+      "HC-MNHC010028822022::HOLDING::39"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-TRHC010003532022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in WP(C)/182/2022 of No. 97040664 Hav (GD), Dilip Kumar Tripura Vs The State of Tripura and  4 others, and is that case's holding still good law?",
+    "query_date": "2025-11-20",
+    "gold_answer": "BNS Section 303(2) (successor to IPC Section 379); the holding in WP(C)/182/2022 of No. 97040664 Hav (GD), Dilip Kumar Tripura Vs The State of Tripura and  4 others is still good law.",
+    "gold_evidence_ids": [
+      "BNS-303(2)",
+      "HC-TRHC010003532022::HOLDING::74"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-TRHC010020922022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.A./24/2022 of STATE OF TRIPURA Vs SRI PRADIP DAS AND ORS, and is that case's holding still good law?",
+    "query_date": "2025-08-08",
+    "gold_answer": "BNS Section 229 (successor to IPC Section 193); the holding in Crl.A./24/2022 of STATE OF TRIPURA Vs SRI PRADIP DAS AND ORS is still good law.",
+    "gold_evidence_ids": [
+      "BNS-229",
+      "HC-TRHC010020922022::HOLDING::40"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-TRHC010013912022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.A(J)/24/2022 of SHRI RANGBHANGA REANG Vs THE STATE OF TRIPURA, and is that case's holding still good law?",
+    "query_date": "2025-08-08",
+    "gold_answer": "BNS Section 103 (successor to IPC Section 302); the holding in Crl.A(J)/24/2022 of SHRI RANGBHANGA REANG Vs THE STATE OF TRIPURA is still good law.",
+    "gold_evidence_ids": [
+      "BNS-103",
+      "HC-TRHC010013912022::HOLDING::26"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-TRHC010020112021",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Rev.P./58/2021 of Jahar Debbarma Vs The State of Tripura, and is that case's holding still good law?",
+    "query_date": "2025-03-16",
+    "gold_answer": "BNS Section 318(4) (successor to IPC Section 420); the holding in Crl.Rev.P./58/2021 of Jahar Debbarma Vs The State of Tripura is still good law.",
+    "gold_evidence_ids": [
+      "BNS-318(4)",
+      "HC-TRHC010020112021::HOLDING::185"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-TRHC010014382023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./21/2023 of Sri Sujit Chakma Vs The State of Tripura and Anr., and is that case's holding still good law?",
+    "query_date": "2025-10-16",
+    "gold_answer": "BNS Section 303(2) (successor to IPC Section 379); the holding in Crl.Petn./21/2023 of Sri Sujit Chakma Vs The State of Tripura and Anr. is still good law.",
+    "gold_evidence_ids": [
+      "BNS-303(2)",
+      "HC-TRHC010014382023::HOLDING::34"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010002612023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.M.C./32/2023 of GRENATH CH. MARAK Vs STATE OF MEGHALAYA, and is that case's holding still good law?",
+    "query_date": "2025-05-31",
+    "gold_answer": "BNS Section 64 (successor to IPC Section 376); the holding in Crl.M.C./32/2023 of GRENATH CH. MARAK Vs STATE OF MEGHALAYA is still good law.",
+    "gold_evidence_ids": [
+      "BNS-64",
+      "HC-MLHC010002612023::HOLDING::30"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010011672023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in AB/52/2023 of GURUCHARAN SINGH PUNIYA Vs STATE OF MEGHALAYA AND 2 OTHERS, and is that case's holding still good law?",
+    "query_date": "2025-10-09",
+    "gold_answer": "BNS Section 338 (successor to IPC Section 467); the holding in AB/52/2023 of GURUCHARAN SINGH PUNIYA Vs STATE OF MEGHALAYA AND 2 OTHERS is still good law.",
+    "gold_evidence_ids": [
+      "BNS-338",
+      "HC-MLHC010011672023::HOLDING::56"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010001452023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in AB/3/2023 of MESHWA DKHAR Vs STATE OF MEGHALAYA, and is that case's holding still good law?",
+    "query_date": "2025-03-06",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in AB/3/2023 of MESHWA DKHAR Vs STATE OF MEGHALAYA is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-MLHC010001452023::HOLDING::56"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010003102023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in BA/12/2023 of JUMMA KHAN Vs THE STATE OF MEGHALAYA, and is that case's holding still good law?",
+    "query_date": "2025-04-19",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in BA/12/2023 of JUMMA KHAN Vs THE STATE OF MEGHALAYA is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-MLHC010003102023::HOLDING::92"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010006012022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in WP(C)/214/2022 of Jerang A. Sangma (Ex-UBSI) Vs The Inspector General of Police and 4 Ors., and is that case's holding still good law?",
+    "query_date": "2025-02-08",
+    "gold_answer": "BNS Section 311 (successor to IPC Section 397); the holding in WP(C)/214/2022 of Jerang A. Sangma (Ex-UBSI) Vs The Inspector General of Police and 4 Ors. is still good law.",
+    "gold_evidence_ids": [
+      "BNS-311",
+      "HC-MLHC010006012022::HOLDING::20"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010013282022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Rev.P./18/2022 of TONY T.C MARAK Vs THE STATE OF MEGHALAYA  AND 5 ORS., and is that case's holding still good law?",
+    "query_date": "2025-04-20",
+    "gold_answer": "BNS Section 316(5) (successor to IPC Section 409); the holding in Crl.Rev.P./18/2022 of TONY T.C MARAK Vs THE STATE OF MEGHALAYA  AND 5 ORS. is still good law.",
+    "gold_evidence_ids": [
+      "BNS-316(5)",
+      "HC-MLHC010013282022::HOLDING::32"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010010632022",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./48/2022 of T.PATHAW Vs INSPECTOR OF POLICE CENTRAL BUREAU OF INVESTIGATION SHILLONG AND ANR, and is that case's holding still good law?",
+    "query_date": "2025-02-09",
+    "gold_answer": "BNS Section 318(4) (successor to IPC Section 420); the holding in Crl.Petn./48/2022 of T.PATHAW Vs INSPECTOR OF POLICE CENTRAL BUREAU OF INVESTIGATION SHILLONG AND ANR is still good law.",
+    "gold_evidence_ids": [
+      "BNS-318(4)",
+      "HC-MLHC010010632022::HOLDING::19"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010007932023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./85/2023 of MARK ADON NONGPHUD Vs STATE OF MEGHALAYA  AND ANR., and is that case's holding still good law?",
+    "query_date": "2025-07-26",
+    "gold_answer": "BNS Section 281 (successor to IPC Section 279); the holding in Crl.Petn./85/2023 of MARK ADON NONGPHUD Vs STATE OF MEGHALAYA  AND ANR. is still good law.",
+    "gold_evidence_ids": [
+      "BNS-281",
+      "HC-MLHC010007932023::HOLDING::69"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010001462023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in AB/4/2023 of LOWINGSTONE SUCHIANG Vs STATE OF MEGHALAYA, and is that case's holding still good law?",
+    "query_date": "2025-03-06",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in AB/4/2023 of LOWINGSTONE SUCHIANG Vs STATE OF MEGHALAYA is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-MLHC010001462023::HOLDING::56"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010007162023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in BA/18/2023 of PAWAN  BHAMA Vs THE STATE OF MEGHALAYA  AND ANR., and is that case's holding still good law?",
+    "query_date": "2025-07-19",
+    "gold_answer": "BNS Section 351(2) (successor to IPC Section 506); the holding in BA/18/2023 of PAWAN  BHAMA Vs THE STATE OF MEGHALAYA  AND ANR. is still good law.",
+    "gold_evidence_ids": [
+      "BNS-351(2)",
+      "HC-MLHC010007162023::HOLDING::181"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-MLHC010003182023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in AB/9/2023 of PALMON SARI Vs STATE OF MEGHALAYA, and is that case's holding still good law?",
+    "query_date": "2025-05-03",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in AB/9/2023 of PALMON SARI Vs STATE OF MEGHALAYA is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-MLHC010003182023::HOLDING::60"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040003912023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./46/2023 of Tungri Effa and Anr. Vs THE STATE OF AP, and is that case's holding still good law?",
+    "query_date": "2025-03-21",
+    "gold_answer": "BNS Section 331(4) (successor to IPC Section 457); the holding in Crl.Petn./46/2023 of Tungri Effa and Anr. Vs THE STATE OF AP is still good law.",
+    "gold_evidence_ids": [
+      "BNS-331(4)",
+      "HC-GAHC040003912023::HOLDING::103"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040000342023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./6/2023 of Toram Jopir and 2 Ors. Vs THE STATE OF AP, and is that case's holding still good law?",
+    "query_date": "2025-03-02",
+    "gold_answer": "BNS Section 118(2) (successor to IPC Section 326); the holding in Crl.Petn./6/2023 of Toram Jopir and 2 Ors. Vs THE STATE OF AP is still good law.",
+    "gold_evidence_ids": [
+      "BNS-118(2)",
+      "HC-GAHC040000342023::HOLDING::129"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040005572021",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in WP(C)/183/2021 of Arun Sawin Vs The State of AP and 5 Others, and is that case's holding still good law?",
+    "query_date": "2025-07-17",
+    "gold_answer": "BNS Section 308(2) (successor to IPC Section 384); the holding in WP(C)/183/2021 of Arun Sawin Vs The State of AP and 5 Others is still good law.",
+    "gold_evidence_ids": [
+      "BNS-308(2)",
+      "HC-GAHC040005572021::HOLDING::101"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040004992023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./62/2023 of Doimalu Goyari and 2 Ors. Vs THE STATE OF AP, and is that case's holding still good law?",
+    "query_date": "2025-04-18",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in Crl.Petn./62/2023 of Doimalu Goyari and 2 Ors. Vs THE STATE OF AP is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-GAHC040004992023::HOLDING::172"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040003722023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in IA(Crl)/20/2023 of Krishna Sobor Vs THE STATE OF AP and Anr., and is that case's holding still good law?",
+    "query_date": "2025-03-19",
+    "gold_answer": "BNS Section 103 (successor to IPC Section 302); the holding in IA(Crl)/20/2023 of Krishna Sobor Vs THE STATE OF AP and Anr. is still good law.",
+    "gold_evidence_ids": [
+      "BNS-103",
+      "HC-GAHC040003722023::HOLDING::52"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040010482023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in IA(Crl)/50/2023 of Nokshai Baham and Anr. Vs THE STATE OF AP, and is that case's holding still good law?",
+    "query_date": "2025-08-09",
+    "gold_answer": "BNS Section 115(2) (successor to IPC Section 323); the holding in IA(Crl)/50/2023 of Nokshai Baham and Anr. Vs THE STATE OF AP is still good law.",
+    "gold_evidence_ids": [
+      "BNS-115(2)",
+      "HC-GAHC040010482023::HOLDING::66"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040006172023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./78/2023 of Lishi Rina @ Tina and 2 Ors. Vs THE STATE OF AP, and is that case's holding still good law?",
+    "query_date": "2025-06-28",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in Crl.Petn./78/2023 of Lishi Rina @ Tina and 2 Ors. Vs THE STATE OF AP is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-GAHC040006172023::HOLDING::110"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040000762023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.A./4/2023 of Punyo Nama Vs THE STATE OF AP and Anr., and is that case's holding still good law?",
+    "query_date": "2025-09-24",
+    "gold_answer": "BNS Section 103 (successor to IPC Section 302); the holding in Crl.A./4/2023 of Punyo Nama Vs THE STATE OF AP and Anr. is still good law.",
+    "gold_evidence_ids": [
+      "BNS-103",
+      "HC-GAHC040000762023::HOLDING::90"
+    ],
+    "applicable_era": "BNS",
+    "is_answerable": true,
+    "validity_flags": {
+      "good_law_at_query_date": true
+    }
+  },
+  {
+    "item_id": "nb_multihop_HC-GAHC040005362023",
+    "slice": "multihop_qa",
+    "question": "What section currently governs the offence discussed in Crl.Petn./68/2023 of Tadar Tarang and 3 Ors. Vs THE STATE OF AP, and is that case's holding still good law?",
+    "query_date": "2025-06-11",
+    "gold_answer": "BNS Section 109 (successor to IPC Section 307); the holding in Crl.Petn./68/2023 of Tadar Tarang and 3 Ors. Vs THE STATE OF AP is still good law.",
+    "gold_evidence_ids": [
+      "BNS-109",
+      "HC-GAHC040005362023::HOLDING::71"
     ],
     "applicable_era": "BNS",
     "is_answerable": true,
