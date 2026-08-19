@@ -2,3 +2,11 @@ venv/
 __pycache__/
 *.pyc
 .env
+# Large download artifacts (regenerable via fetch scripts, not meant for git)
+*.tar
+metadata.parquet
+metadata/
+sc_extracted_*/
+data/raw/judgments/_extraction_checkpoint_*.json
+data/raw/judgments/_manifest_*.csv
+data/raw/judgments/_pdfs/
